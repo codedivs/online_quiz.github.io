@@ -1,0 +1,37 @@
+[
+  {
+    "game_name": "coding right",
+    "game_icon": "code_right.png",
+    "game_link": "https://codedivs.github.io/code_right.github.io/"
+  },
+  {
+    "game_name":"english quiz",
+    "game_icon":"french_quiz.png",
+    "game_link":"https://codedivs.github.io/english_play.github.io/"
+  },
+  {
+    "game_name": "space technology",
+    "game_icon": "733e7e40-0d9e-4a0d-a26a-fd183cbbc640.jpg",
+    "game_link": "https://codedivs.github.io/space_technology.github.io/"
+  },
+  {
+    "game_name": "General knowledge",
+    "game_icon": "giant_cards.jpg",
+    "game_link": "https://codedivs.github.io/general_knowledge.github.io/"
+  },
+  {
+    "game_name": "World of Medicine",
+    "game_icon": "medicine_1.jpg",
+    "game_link": "https://codedivs.github.io/general_medicine.github.io/"
+  },
+  {
+    "game_name": "rearrange code",
+    "game_icon": "rearrange_divs_2.png",
+    "game_link": "https://codedivs.github.io/code_quiz.github.io/"
+  },
+  {
+    "game_name": "french quiz",
+    "game_icon": "english_play.png",
+    "game_link": "https://codedivs.github.io/learn_french.github.io/"
+  }
+]
