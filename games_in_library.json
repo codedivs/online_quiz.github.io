@@ -31,7 +31,7 @@
   },
   {
     "game_name": "french quiz",
-    "game_icon": "english_play.png",
+    "game_icon": "assets/img/english_play.png",
     "game_link": "https://codedivs.github.io/learn_french.github.io/"
   }
 ]
