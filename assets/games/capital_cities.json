@@ -1,0 +1,115 @@
+{
+  "title": "Capital Cities Quiz",
+  "questions": [
+    {
+      "question": "What is the capital of Brazil?",
+      "correct_answer": "Brasília",
+      "incorrect_answers": ["Rio de Janeiro", "São Paulo", "Buenos Aires"]
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "correct_answer": "Canberra",
+      "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "correct_answer": "Ottawa",
+      "incorrect_answers": ["Toronto", "Vancouver", "Montreal"]
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "correct_answer": "Cairo",
+      "incorrect_answers": ["Alexandria", "Giza", "Luxor"]
+    },
+    {
+      "question": "What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": ["Mumbai", "Kolkata", "Bangalore"]
+    },
+    {
+      "question": "What is the capital of South Africa?",
+      "correct_answer": "Pretoria",
+      "incorrect_answers": ["Cape Town", "Johannesburg", "Durban"]
+    },
+    {
+      "question": "What is the capital of Indonesia?",
+      "correct_answer": "Jakarta",
+      "incorrect_answers": ["Bali", "Surabaya", "Bandung"]
+    },
+    {
+      "question": "What is the capital of Mexico?",
+      "correct_answer": "Mexico City",
+      "incorrect_answers": ["Guadalajara", "Monterrey", "Cancún"]
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": ["Saint Petersburg", "Novosibirsk", "Kyiv"]
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "correct_answer": "Ankara",
+      "incorrect_answers": ["Istanbul", "Izmir", "Antalya"]
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "correct_answer": "Buenos Aires",
+      "incorrect_answers": ["Córdoba", "Rosario", "Mendoza"]
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "correct_answer": "Seoul",
+      "incorrect_answers": ["Busan", "Incheon", "Pyongyang"]
+    },
+    {
+      "question": "What is the capital of Nigeria?",
+      "correct_answer": "Abuja",
+      "incorrect_answers": ["Lagos", "Kano", "Ibadan"]
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "correct_answer": "Bangkok",
+      "incorrect_answers": ["Chiang Mai", "Phuket", "Pattaya"]
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "correct_answer": "Stockholm",
+      "incorrect_answers": ["Gothenburg", "Malmö", "Oslo"]
+    },
+    {
+      "question": "What is the capital of Saudi Arabia?",
+      "correct_answer": "Riyadh",
+      "incorrect_answers": ["Jeddah", "Mecca", "Medina"]
+    },
+    {
+      "question": "What is the capital of Peru?",
+      "correct_answer": "Lima",
+      "incorrect_answers": ["Cusco", "Arequipa", "Trujillo"]
+    },
+    {
+      "question": "What is the capital of Vietnam?",
+      "correct_answer": "Hanoi",
+      "incorrect_answers": ["Ho Chi Minh City", "Da Nang", "Hue"]
+    },
+    {
+      "question": "What is the capital of Norway?",
+      "correct_answer": "Oslo",
+      "incorrect_answers": ["Bergen", "Trondheim", "Stockholm"]
+    },
+    {
+      "question": "What is the capital of Kenya?",
+      "correct_answer": "Nairobi",
+      "incorrect_answers": ["Mombasa", "Kisumu", "Addis Ababa"]
+    },
+    {
+      "question": "What is the capital of France?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["London", "Berlin", "Madrid"]
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "correct_answer": "Tokyo",
+      "incorrect_answers": ["Beijing", "Seoul", "Bangkok"]
+    }
+  ]
+}
