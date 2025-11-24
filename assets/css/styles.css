@@ -1,3 +1,33 @@
-body {
-  background-color: red;
-}
+:root {
+      --bg: #0d0d0d;
+      --fg: #f4f4f4;
+      --card-bg: #1b1b1b;
+      --accent: #4ea1ff;
+      --header-bg: #151515;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: "Segoe UI", Arial, sans-serif;
+      overflow-x: hidden;
+    }
+
+    header {
+      width: 100%;
+      text-align: center;
+      padding: 12px 10px;
+      font-size: 1.25rem;
+      font-weight: 600;
+      background: #151515;
+      color: var(--accent);
+      border-bottom: 1px solid #222;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+  
+  
