@@ -1,111 +1,118 @@
+// assets/js/games.js
+// Reusable quiz engine – just change the URL like: /game.html?g=capital_cities
+
+const urlParams = new URLSearchParams(window.location.search);
+const GAME_NAME = urlParams.get('g') || 'capital_cities'; // default fallback
+
 let questions = [];
-let currentQuestionIndex = 0;
+let current = 0;
 let score = 0;
+let startTime;
 let timerInterval;
-let seconds = 0;
 
-const startScreen = document.getElementById('startScreen');
-const quizScreen = document.getElementById('quizScreen');
-const resultScreen = document.getElementById('resultScreen');
-const questionEl = document.getElementById('question');
-const optionsEl = document.getElementById('options');
-const currentQEl = document.getElementById('currentQ');
-const totalQEl = document.getElementById('totalQ');
-const scoreEl = document.getElementById('score');
-const finalTimeEl = document.getElementById('finalTime');
-const timeEl = document.getElementById('time');
+async function loadAndStart() {
+  try {
+    const res = await fetch(`/assets/games/${GAME_NAME}.json`);
+    if (!res.ok) throw new Error('Game not found');
+    const data = await res.json();
+    questions = shuffle(data.questions).slice(0, 10);
+    startGame();
+  } catch (err) {
+    document.getElementById('question').innerHTML = `
+      <p style="color:red;font-size:1.5em">
+        Game "${GAME_NAME}" not found!<br><br>
+        Check the URL or the file: assets/games/${GAME_NAME}.json
+      </p>`;
+  }
+}
 
-let selectedQuestions = [];
-
-// Load questions
-fetch((`assets/games/${gameName}.json`)
-  .then(res => res.json())
-  .then(data => {
-    questions = data;
-  });
-
-// Start Quiz
-document.getElementById('startBtn').addEventListener('click', startQuiz);
-document.getElementById('playAgainBtn').addEventListener('click', startQuiz);
-document.getElementById('restartBtn').addEventListener('click', startQuiz);
-document.getElementById('cancelBtn').addEventListener('click', () => {
-  location.reload();
-});
-
-function startQuiz() {
+function startGame() {
   score = 0;
-  seconds = 0;
-  currentQuestionIndex = 0;
-
-  // Pick 15 random questions
-  selectedQuestions = [...questions]
-    .sort(() => 0.5 - Math.random())
-    .slice(0, 15);
-
-  totalQEl.textContent = selectedQuestions.length;
-
-  showScreen('quizScreen');
+  current = 0;
+  startTime = Date.now();
+  document.getElementById('result').innerHTML = '';
   startTimer();
   showQuestion();
 }
 
+function startTimer() {
+  timerInterval = setInterval(() => {
+    const secs = Math.floor((Date.now() - startTime) / 1000);
+    const m = String(Math.floor(secs / 60)).padStart(2, '0');
+    const s = String(secs % 60).padStart(2, '0');
+    document.getElementById('timer').textContent = `${m}:${s}`;
+  }, 500);
+}
+
 function showQuestion() {
-  if (currentQuestionIndex >= selectedQuestions.length) {
-    endQuiz();
+  if (current >= questions.length) {
+    endGame();
     return;
   }
 
-  const q = selectedQuestions[currentQuestionIndex];
-  currentQEl.textContent = currentQuestionIndex + 1;
-  questionEl.textContent = q.question;
+  const q = questions[current];
+  document.getElementById('question').textContent = q.question;
 
-  optionsEl.innerHTML = '';
-  q.options.forEach((option, i) => {
+  const answersDiv = document.getElementById('answers');
+  answersDiv.innerHTML = '';
+
+  const options = shuffle([...q.incorrect_answers, q.correct_answer]);
+
+  options.forEach(opt => {
     const btn = document.createElement('div');
-    btn.classList.add('option');
-    btn.textContent = option;
-    btn.addEventListener('click', () => selectAnswer(i, btn));
-    optionsEl.appendChild(btn);
+    btn.className = 'answer';
+    btn.textContent = opt;
+    btn.onclick = () => choose(opt === q.correct_answer, btn);
+    answersDiv.appendChild(btn);
   });
 }
 
-function selectAnswer(selectedIndex, btn) {
-  const correctIndex = selectedQuestions[currentQuestionIndex].answer;
+function choose(isCorrect, clickedBtn) {
+  // disable all
+  document.querySelectorAll('.answer').forEach(b => {
+    b.style.pointerEvents = 'none';
+    if (b.textContent === questions[current].correct_answer) {
+      b.classList.add('correct');
+    }
+  });
 
-  // Disable all options
-  document.querySelectorAll('.option').forEach(b => b.style.pointerEvents = 'none');
-
-  if (selectedIndex === correctIndex) {
+  if (isCorrect) {
     score++;
-    btn.classList.add('correct');
+    clickedBtn.classList.add('correct');
   } else {
-    btn.classList.add('wrong');
-    document.querySelectorAll('.option')[correctIndex].classList.add('correct');
+    clickedBtn.classList.add('wrong');
   }
 
   setTimeout(() => {
-    currentQuestionIndex++;
+    current++;
     showQuestion();
-  }, 1000);
+  }, 1300);
 }
 
-function startTimer() {
-  timerInterval = setInterval(() => {
-    seconds++;
-    const mins = String(Math.floor(seconds / 60)).padStart(2, '0');
-    const secs = String(seconds % 60).padStart(2, '0');
-    timeEl.textContent = `${mins}:${secs}`;
-  }, 1000);
-}
-
-function endQuiz() {
+function endGame() {
   clearInterval(timerInterval);
-  showScreen('resultScreen');
-  scoreEl.textContent = score;
-  finalTimeEl.textContent = timeEl.textContent;
+  const totalSecs = Math.floor((Date.now() - startTime) / 1000);
+  const m = String(Math.floor(totalSecs / 60)).padStart(2, '0');
+  const s = String(totalSecs % 60).padStart(2, '0');
+
+  document.getElementById('question').textContent = 'Finished!';
+  document.getElementById('answers').innerHTML = '';
+  document.getElementById('result').innerHTML = `
+    <div>Score: <strong>${score}/10</strong></div>
+    <div style="margin-top:20px">Time: <strong>${m}:${s}</strong></div>
+    <button class="restart" onclick="loadAndStart()">Play Again</button>
+  `;
 }
 
-function showScreen(screenId) {
-  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
-  document.getElementById(screenId).classList.add('active');
+// Fisher–Yates shuffle
+function shuffle(array) {
+  const a = [...array];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
 }
+
+// Start automatically
+window.addEventListener('DOMContentLoaded', loadAndStart);
