@@ -1,37 +1,7 @@
 [
   {
-    "game_name": "coding right",
+    "game_name": "capital cities",
     "game_icon": "assets/img/code_right.png",
-    "game_link": "https://codedivs.github.io/code_right.github.io/"
-  },
-  {
-    "game_name":"english quiz",
-    "game_icon":"assets/img/french_quiz.png",
-    "game_link":"https://codedivs.github.io/english_play.github.io/"
-  },
-  {
-    "game_name": "space technology",
-    "game_icon": "assets/img/space_tech.jpg",
-    "game_link": "https://codedivs.github.io/space_technology.github.io/"
-  },
-  {
-    "game_name": "General knowledge",
-    "game_icon": "assets/img/giant_cards.jpg",
-    "game_link": "https://codedivs.github.io/general_knowledge.github.io/"
-  },
-  {
-    "game_name": "World of Medicine",
-    "game_icon": "assets/img/medicine_1.jpg",
-    "game_link": "https://codedivs.github.io/general_medicine.github.io/"
-  },
-  {
-    "game_name": "rearrange code",
-    "game_icon": "assets/img/rearrange_divs_2.png",
-    "game_link": "https://codedivs.github.io/code_quiz.github.io/"
-  },
-  {
-    "game_name": "french quiz",
-    "game_icon": "assets/img/english_play.png",
-    "game_link": "https://codedivs.github.io/learn_french.github.io/"
+    "game_link": "capital_cities"
   }
 ]
