@@ -2,16 +2,16 @@
   {
     "game_name": "capital_cities",
     "game_icon": "assets/img/code_right.png",
-    "game_id": "https://codedivs.github.io/capital_cities.html/"
+    "game_id": "https://codedivs.github.io/capital_cities.html"
   },
   {
     "game_name": "general_knowledge",
     "game_icon": "assets/img/code_right.png",
-    "game_id": "https://codedivs.github.io/general_medicine.github.io/"
+    "game_id": "https://codedivs.github.io/general_knowledge.html"
   },
   {
     "game_name": "general_medicine",
     "game_icon": "assets/img/code_right.png",
-    "game_id": "https://codedivs.github.io/codedivs.github.io/general_medicine.html"
+    "game_id": "https://codedivs.github.io/general_medicine.html"
   }
 ]
