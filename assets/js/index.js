@@ -25,7 +25,7 @@ fetch('games_in_library.json')
       card.innerHTML = `
         <h2>${game.game_name}</h2>
         <img src="${game.game_icon}" alt="${game.game_name} icon" loading="lazy">
-        <a href="$$ {gameUrl}?g= $${game.game_id}" class="play-button">Play Now</a>
+        <a href="https://codedivs.github.io/general_medicine.github.io/">Play Now</a>
       `;
 
       container.appendChild(card);
