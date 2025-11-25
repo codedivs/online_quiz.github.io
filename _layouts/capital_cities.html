@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +15,7 @@
 
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(135deg, #26a0da 0%, #314755 100%);
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
       min-height: 100vh;
       color: #fff;
     }
@@ -77,7 +78,7 @@
     h1 {
       font-size: 2.8rem;
       margin-bottom: 20px;
-      background: linear-gradient(to right, #fff, #d1f3ff);
+      background: linear-gradient(to right, #fff, #a8edea);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
@@ -130,7 +131,7 @@
       border-color: #f00;
     }
 
-    .btn-primary {
+    .btn-primary, .btn-secondary {
       padding: 14px 32px;
       font-size: 1.2rem;
       border: none;
@@ -138,7 +139,10 @@
       cursor: pointer;
       margin-top: 20px;
       transition: 0.3s;
-      background: linear-gradient(45deg, #00c6ff, #0072ff);
+    }
+
+    .btn-primary {
+      background: linear-gradient(45deg, #ff6b6b, #feca57);
       color: white;
       font-weight: bold;
     }
@@ -174,7 +178,7 @@
     <!-- Start Screen -->
     <div id="startScreen" class="screen active">
       <h1>Capital Cities Quiz</h1>
-      <p>Test your knowledge of world capitals with 15 random questions!</p>
+      <p>How many cities do you know?</p>
       <button id="startBtn" class="btn-primary">Start Quiz</button>
     </div>
 
@@ -198,7 +202,7 @@
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
-let timerInterval = null;
+let timerInterval = null;  // Will hold the timer ID
 let seconds = 0;
 let selectedQuestions = [];
 
@@ -212,34 +216,44 @@ const scoreEl = document.getElementById('score');
 const finalTimeEl = document.getElementById('finalTime');
 const timeEl = document.getElementById('time');
 
-// Load questions for the new game
+// Load questions
 fetch('assets/games/capital_cities.json')
   .then(res => res.json())
   .then(data => {
     questions = data;
-    startQuiz();
+    startQuiz(); // Automatically start the quiz when questions are loaded
   });
 
+// Event Listeners
 document.getElementById('playAgainBtn').addEventListener('click', startQuiz);
 document.getElementById('restartBtn').addEventListener('click', startQuiz);
-document.getElementById('cancelBtn').addEventListener('click', () => location.reload());
+document.getElementById('cancelBtn').addEventListener('click', () => {
+  location.reload();
+});
 
 function startQuiz() {
+  // Reset everything
   score = 0;
   seconds = 0;
   currentQuestionIndex = 0;
 
+  // CRITICAL FIX: Clear any existing timer before starting a new one
   if (timerInterval) {
     clearInterval(timerInterval);
     timerInterval = null;
   }
 
+  // Update timer display to 00:00
   timeEl.textContent = '00:00';
 
-  selectedQuestions = [...questions].sort(() => 0.5 - Math.random()).slice(0, 15);
+  // Select 15 random questions
+  selectedQuestions = [...questions]
+    .sort(() => 0.5 - Math.random())
+    .slice(0, 15);
 
   totalQEl.textContent = selectedQuestions.length;
 
+  // Show quiz screen directly
   showScreen('quizScreen');
   startTimer();
   showQuestion();
@@ -268,6 +282,7 @@ function showQuestion() {
 function selectAnswer(selectedIndex, btn) {
   const correctIndex = selectedQuestions[currentQuestionIndex].answer;
 
+  // Disable all buttons
   document.querySelectorAll('.option').forEach(b => b.style.pointerEvents = 'none');
 
   if (selectedIndex === correctIndex) {
@@ -309,5 +324,6 @@ function showScreen(screenId) {
   document.getElementById(screenId).classList.add('active');
 }
 </script>
+
 </body>
 </html>
