@@ -216,7 +216,7 @@ const finalTimeEl = document.getElementById('finalTime');
 const timeEl = document.getElementById('time');
 
 // Load questions
-fetch('questions.json')
+fetch('assets/games/general_medicine.json')
   .then(res => res.json())
   .then(data => {
     questions = data;
