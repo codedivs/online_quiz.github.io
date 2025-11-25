@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which famous street is known as the heart of the Las Vegas Strip?",
+    "options": ["Sunset Boulevard", "Broadway", "Las Vegas Boulevard", "Rodeo Drive"],
+    "answer": 2
+  },
+  {
+    "question": "What major street runs through the financial district of New York City?",
+    "options": ["Wall Street", "Fifth Avenue", "Madison Avenue", "Park Avenue"],
+    "answer": 0
+  },
+  {
+    "question": "Which street in Los Angeles is famous for luxury shopping?",
+    "options": ["Rodeo Drive", "Melrose Avenue", "Hollywood Boulevard", "Wilshire Boulevard"],
+    "answer": 0
+  },
+  {
+    "question": "What iconic New York City street is known for its bright billboards and theaters?",
+    "options": ["Broadway", "Times Square", "42nd Street", "Sixth Avenue"],
+    "answer": 1
+  },
+  {
+    "question": "Which street in San Francisco is known for its steep, crooked turns?",
+    "options": ["Market Street", "Lombard Street", "Mission Street", "Van Ness Avenue"],
+    "answer": 1
+  },
+  {
+    "question": "Which famous street runs through New Orleans’ French Quarter?",
+    "options": ["Canal Street", "Frenchmen Street", "Bourbon Street", "Royal Street"],
+    "answer": 2
+  },
+  {
+    "question": "Which avenue in New York City is known for high-end shopping and landmarks?",
+    "options": ["Fifth Avenue", "Lexington Avenue", "Broadway", "Amsterdam Avenue"],
+    "answer": 0
+  },
+  {
+    "question": "What major boulevard in Los Angeles is known for the Hollywood Walk of Fame?",
+    "options": ["Sunset Boulevard", "Hollywood Boulevard", "Santa Monica Boulevard", "Vine Street"],
+    "answer": 1
+  },
+  {
+    "question": "Which street in Washington, D.C. leads directly to the White House?",
+    "options": ["Pennsylvania Avenue", "Constitution Avenue", "K Street", "M Street"],
+    "answer": 0
+  },
+  {
+    "question": "Which famous New York City street borders Central Park on the east side?",
+    "options": ["Park Avenue", "Fifth Avenue", "Broadway", "Madison Avenue"],
+    "answer": 1
+  }
+]
