@@ -1,1 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Capital Cities Quiz</title>
 
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #26a0da 0%, #314755 100%);
+      min-height: 100vh;
+      color: #fff;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 30px;
+      padding: 15px 20px;
+      background: rgba(255, 255, 255, 0.15);
+      border-radius: 16px;
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .timer {
+      font-size: 1.4rem;
+      font-weight: bold;
+    }
+
+    .controls button {
+      margin-left: 10px;
+      padding: 8px 16px;
+      border: none;
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.2);
+      color: white;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+
+    .screen {
+      flex: 1;
+      display: none;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 20px;
+      padding: 40px 20px;
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+    }
+
+    .screen.active {
+      display: flex;
+    }
+
+    h1 {
+      font-size: 2.8rem;
+      margin-bottom: 20px;
+      background: linear-gradient(to right, #fff, #d1f3ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    h2 {
+      font-size: 1.6rem;
+      margin-bottom: 30px;
+      line-height: 1.4;
+    }
+
+    .progress {
+      position: absolute;
+      top: 100px;
+      font-size: 1.1rem;
+      opacity: 0.9;
+    }
+
+    .options {
+      width: 100%;
+      max-width: 500px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      margin-top: 20px;
+    }
+
+    .option {
+      padding: 18px 20px;
+      background: rgba(255, 255, 255, 0.2);
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border: 2px solid transparent;
+      font-size: 1.1rem;
+      text-align: left;
+    }
+
+    .option:hover {
+      background: rgba(255, 255, 255, 0.3);
+      transform: translateY(-3px);
+    }
+
+    .option.correct {
+      background: rgba(0, 200, 0, 0.4);
+      border-color: #0f0;
+    }
+
+    .option.wrong {
+      background: rgba(200, 0, 0, 0.4);
+      border-color: #f00;
+    }
+
+    .btn-primary {
+      padding: 14px 32px;
+      font-size: 1.2rem;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      margin-top: 20px;
+      transition: 0.3s;
+      background: linear-gradient(45deg, #00c6ff, #0072ff);
+      color: white;
+      font-weight: bold;
+    }
+
+    .btn-primary:hover {
+      transform: scale(1.05);
+    }
+
+    .score {
+      font-size: 2.5rem;
+      font-weight: bold;
+      margin: 20px 0;
+    }
+
+    .time-taken {
+      font-size: 1.5rem;
+      margin: 15px 0;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header class="header">
+      <div class="timer">Time: <span id="time">00:00</span></div>
+      <div class="controls">
+        <button id="cancelBtn" class="btn-secondary">Cancel</button>
+        <button id="restartBtn" class="btn-secondary">Restart</button>
+      </div>
+    </header>
+
+    <!-- Start Screen -->
+    <div id="startScreen" class="screen active">
+      <h1>Capital Cities Quiz</h1>
+      <p>Test your knowledge of world capitals with 15 random questions!</p>
+      <button id="startBtn" class="btn-primary">Start Quiz</button>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quizScreen" class="screen">
+      <div class="progress">Question <span id="currentQ">1</span> of <span id="totalQ">15</span></div>
+      <h2 id="question"></h2>
+      <div id="options" class="options"></div>
+    </div>
+
+    <!-- Result Screen -->
+    <div id="resultScreen" class="screen">
+      <h1>Quiz Complete! 🎉</h1>
+      <p class="score">You scored <span id="score">0</span>/15</p>
+      <p class="time-taken">Time taken: <span id="finalTime">00:00</span></p>
+      <button id="playAgainBtn" class="btn-primary">Play Again</button>
+    </div>
+  </div>
+
+<script>
+let questions = [];
+let currentQuestionIndex = 0;
+let score = 0;
+let timerInterval = null;
+let seconds = 0;
+let selectedQuestions = [];
+
+const quizScreen = document.getElementById('quizScreen');
+const resultScreen = document.getElementById('resultScreen');
+const questionEl = document.getElementById('question');
+const optionsEl = document.getElementById('options');
+const currentQEl = document.getElementById('currentQ');
+const totalQEl = document.getElementById('totalQ');
+const scoreEl = document.getElementById('score');
+const finalTimeEl = document.getElementById('finalTime');
+const timeEl = document.getElementById('time');
+
+// Load questions for the new game
+fetch('assets/games/capital_cities.json')
+  .then(res => res.json())
+  .then(data => {
+    questions = data;
+    startQuiz();
+  });
+
+document.getElementById('playAgainBtn').addEventListener('click', startQuiz);
+document.getElementById('restartBtn').addEventListener('click', startQuiz);
+document.getElementById('cancelBtn').addEventListener('click', () => location.reload());
+
+function startQuiz() {
+  score = 0;
+  seconds = 0;
+  currentQuestionIndex = 0;
+
+  if (timerInterval) {
+    clearInterval(timerInterval);
+    timerInterval = null;
+  }
+
+  timeEl.textContent = '00:00';
+
+  selectedQuestions = [...questions].sort(() => 0.5 - Math.random()).slice(0, 15);
+
+  totalQEl.textContent = selectedQuestions.length;
+
+  showScreen('quizScreen');
+  startTimer();
+  showQuestion();
+}
+
+function showQuestion() {
+  if (currentQuestionIndex >= selectedQuestions.length) {
+    endQuiz();
+    return;
+  }
+
+  const q = selectedQuestions[currentQuestionIndex];
+  currentQEl.textContent = currentQuestionIndex + 1;
+  questionEl.textContent = q.question;
+  optionsEl.innerHTML = '';
+
+  q.options.forEach((option, i) => {
+    const btn = document.createElement('div');
+    btn.classList.add('option');
+    btn.textContent = option;
+    btn.addEventListener('click', () => selectAnswer(i, btn));
+    optionsEl.appendChild(btn);
+  });
+}
+
+function selectAnswer(selectedIndex, btn) {
+  const correctIndex = selectedQuestions[currentQuestionIndex].answer;
+
+  document.querySelectorAll('.option').forEach(b => b.style.pointerEvents = 'none');
+
+  if (selectedIndex === correctIndex) {
+    score++;
+    btn.classList.add('correct');
+  } else {
+    btn.classList.add('wrong');
+    document.querySelectorAll('.option')[correctIndex].classList.add('correct');
+  }
+
+  setTimeout(() => {
+    currentQuestionIndex++;
+    showQuestion();
+  }, 1000);
+}
+
+function startTimer() {
+  timerInterval = setInterval(() => {
+    seconds++;
+    const mins = String(Math.floor(seconds / 60)).padStart(2, '0');
+    const secs = String(seconds % 60).padStart(2, '0');
+    timeEl.textContent = `${mins}:${secs}`;
+  }, 1000);
+}
+
+function endQuiz() {
+  if (timerInterval) {
+    clearInterval(timerInterval);
+    timerInterval = null;
+  }
+
+  showScreen('resultScreen');
+  scoreEl.textContent = score;
+  finalTimeEl.textContent = timeEl.textContent;
+}
+
+function showScreen(screenId) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById(screenId).classList.add('active');
+}
+</script>
+</body>
+</html>
