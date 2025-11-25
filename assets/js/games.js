@@ -1,131 +1,113 @@
-// assets/js/games.js
-// Reusable quiz engine – just change the URL like: /game.html?g=capital_cities
-
-const urlParams = new URLSearchParams(window.location.search);
-const GAME_NAME = urlParams.get('g') || 'capital_cities'; // default fallback
 let questions = [];
-let current = 0;
+let currentQuestionIndex = 0;
 let score = 0;
-let startTime;
-let timerInterval;
-let answering = false; // Flag to prevent multiple clicks
+let timerInterval = null;
+let seconds = 0;
+let selectedQuestions = [];
 
-async function loadAndStart() {
-  try {
-    const basePath = window.basePath;
-    const res = await fetch(basePath + GAME_NAME + ".json");
-    if (!res.ok) throw new Error('Game not found');
-    const data = await res.json();
-    questions = shuffle(data.questions);
-    if (questions.length < 10) {
-      console.warn(`Only ${questions.length} questions available, proceeding with all.`);
-    } else {
-      questions = questions.slice(0, 10);
-    }
-    startGame();
-  } catch (err) {
-    document.getElementById('question').innerHTML = `
-      <p style="color:red;font-size:1.5em">
-        Game "${GAME_NAME}" not found!<br><br>
-        Check the URL or the file: assets/games/${GAME_NAME}.json
-      </p>`;
-    if (!urlParams.get('g')) {
-      console.log('No game parameter provided in URL.');
-    }
-  }
-}
+const quizScreen = document.getElementById('quizScreen');
+const resultScreen = document.getElementById('resultScreen');
+const questionEl = document.getElementById('question');
+const optionsEl = document.getElementById('options');
+const currentQEl = document.getElementById('currentQ');
+const totalQEl = document.getElementById('totalQ');
+const scoreEl = document.getElementById('score');
+const finalTimeEl = document.getElementById('finalTime');
+const timeEl = document.getElementById('time');
 
-function startGame() {
+// Load questions for the new game
+fetch('assets/games/${game.name}.json')
+  .then(res => res.json())
+  .then(data => {
+    questions = data;
+    startQuiz();
+  });
+
+document.getElementById('playAgainBtn').addEventListener('click', startQuiz);
+document.getElementById('restartBtn').addEventListener('click', startQuiz);
+document.getElementById('cancelBtn').addEventListener('click', () => location.reload());
+
+function startQuiz() {
   score = 0;
-  current = 0;
-  startTime = Date.now();
-  document.getElementById('result').innerHTML = '';
+  seconds = 0;
+  currentQuestionIndex = 0;
+
+  if (timerInterval) {
+    clearInterval(timerInterval);
+    timerInterval = null;
+  }
+
+  timeEl.textContent = '00:00';
+
+  selectedQuestions = [...questions].sort(() => 0.5 - Math.random()).slice(0, 10);
+
+  totalQEl.textContent = selectedQuestions.length;
+
+  showScreen('quizScreen');
   startTimer();
   showQuestion();
 }
 
-function startTimer() {
-  timerInterval = setInterval(() => {
-    const secs = Math.floor((Date.now() - startTime) / 1000);
-    const m = String(Math.floor(secs / 60)).padStart(2, '0');
-    const s = String(secs % 60).padStart(2, '0');
-    document.getElementById('timer').textContent = `${m}:${s}`;
-  }, 500);
-}
-
 function showQuestion() {
-  if (current >= questions.length) {
-    endGame();
+  if (currentQuestionIndex >= selectedQuestions.length) {
+    endQuiz();
     return;
   }
-  const q = questions[current];
-  document.getElementById('question').textContent = q.question;
-  const answersDiv = document.getElementById('answers');
-  answersDiv.innerHTML = '';
-  const options = shuffle([...q.incorrect_answers, q.correct_answer]);
-  options.forEach(opt => {
-    const btn = document.createElement('button');
-    btn.className = 'answer';
-    btn.textContent = opt;
-    btn.addEventListener('click', () => {
-      if (answering) return;
-      answering = true;
-      choose(opt === q.correct_answer, btn);
-    });
-    answersDiv.appendChild(btn);
+
+  const q = selectedQuestions[currentQuestionIndex];
+  currentQEl.textContent = currentQuestionIndex + 1;
+  questionEl.textContent = q.question;
+  optionsEl.innerHTML = '';
+
+  q.options.forEach((option, i) => {
+    const btn = document.createElement('div');
+    btn.classList.add('option');
+    btn.textContent = option;
+    btn.addEventListener('click', () => selectAnswer(i, btn));
+    optionsEl.appendChild(btn);
   });
 }
 
-function choose(isCorrect, clickedBtn) {
-  // disable all
-  document.querySelectorAll('.answer').forEach(b => {
-    b.disabled = true; // Use disabled for buttons
-    if (b.textContent === questions[current].correct_answer) {
-      b.classList.add('correct');
-    }
-  });
-  if (isCorrect) {
+function selectAnswer(selectedIndex, btn) {
+  const correctIndex = selectedQuestions[currentQuestionIndex].answer;
+
+  document.querySelectorAll('.option').forEach(b => b.style.pointerEvents = 'none');
+
+  if (selectedIndex === correctIndex) {
     score++;
-    clickedBtn.classList.add('correct');
+    btn.classList.add('correct');
   } else {
-    clickedBtn.classList.add('wrong');
+    btn.classList.add('wrong');
+    document.querySelectorAll('.option')[correctIndex].classList.add('correct');
   }
+
   setTimeout(() => {
-    current++;
-    answering = false;
+    currentQuestionIndex++;
     showQuestion();
-  }, 1300); // Configurable delay; could make dynamic if needed
+  }, 1000);
 }
 
-function endGame() {
-  clearInterval(timerInterval);
-  const totalSecs = Math.floor((Date.now() - startTime) / 1000);
-  const m = String(Math.floor(totalSecs / 60)).padStart(2, '0');
-  const s = String(totalSecs % 60).padStart(2, '0');
-  document.getElementById('question').textContent = 'Finished!';
-  document.getElementById('answers').innerHTML = '';
-  document.getElementById('result').innerHTML = `
-    <div>Score: <strong>${score}/${questions.length}</strong></div>
-    <div style="margin-top:20px">Time: <strong>${m}:${s}</strong></div>
-    <button class="restart" onclick="loadAndStart()">Play Again</button>
-  `;
-  // Optional: Save high score to localStorage
-  const highScore = localStorage.getItem(`highScore_${GAME_NAME}`) || 0;
-  if (score > highScore) {
-    localStorage.setItem(`highScore_${GAME_NAME}`, score);
-    document.getElementById('result').innerHTML += `<div>New High Score!</div>`;
+function startTimer() {
+  timerInterval = setInterval(() => {
+    seconds++;
+    const mins = String(Math.floor(seconds / 60)).padStart(2, '0');
+    const secs = String(seconds % 60).padStart(2, '0');
+    timeEl.textContent = `${mins}:${secs}`;
+  }, 1000);
+}
+
+function endQuiz() {
+  if (timerInterval) {
+    clearInterval(timerInterval);
+    timerInterval = null;
   }
+
+  showScreen('resultScreen');
+  scoreEl.textContent = score;
+  finalTimeEl.textContent = timeEl.textContent;
 }
 
-// Fisher–Yates shuffle
-function shuffle(array) {
-  const a = [...array];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
+function showScreen(screenId) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById(screenId).classList.add('active');
 }
-
-// Start automatically
-window.addEventListener('DOMContentLoaded', loadAndStart);
