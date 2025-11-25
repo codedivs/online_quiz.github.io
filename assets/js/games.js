@@ -1,3 +1,4 @@
+let game.name = `/games_in_library.game.name`
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
