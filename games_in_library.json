@@ -43,8 +43,8 @@
     "game_name": "Periodic Table",
     "game_icon": "assets/img/code_right.png",
     "game_id": "https://codedivs.github.io/periodic_table.html",
-    "difficulty": "hard",
-    "stars": 3,
+    "difficulty": "easy",
+    "stars": 1,
     "category": "science"
   },
   {
@@ -107,8 +107,8 @@
     "game_name": "Famous Authors",
     "game_icon": "assets/img/code_right.png",
     "game_id": "https://codedivs.github.io/famous_authors.html",
-    "difficulty": "medium",
-    "stars": 2,
+    "difficulty": "easy",
+    "stars": 1,
     "category": "literature"
   },
   {
