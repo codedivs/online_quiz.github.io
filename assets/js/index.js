@@ -33,14 +33,13 @@ fetch('games_in_library.json')
 
       card.innerHTML = `
         <article class="game-card-inner">
+         <h2 class="game-title">${game.game_name}</h2>
           <img 
             src="${game.game_icon}" 
             alt="${game.game_name} icon" 
             loading="lazy"
             class="game-icon"
           >
-          <h2 class="game-title">${game.game_name}</h2>
-
           <div class="game-footer">
             <span class="game-difficulty ${game.difficulty || 'medium'}">
               ${(game.difficulty || 'medium').charAt(0).toUpperCase() + (game.difficulty || 'medium').slice(1)}
