@@ -55,7 +55,7 @@ fetch(`/assets/games/${GAME_SLUG}.json`)
         if (gameTitleEl) gameTitleEl.textContent = gameName;
         if (startTitleEl) startTitleEl.textContent = gameName;
         if (document.getElementById('startDesc')) {
-          document.getElementById('startDesc').innerHTML = `Test your knowledge with ${questions.length} questions!`;
+          document.getElementById('startDesc').innerHTML = `Let's Go!!`;
         }
       })
       .catch(() => {
