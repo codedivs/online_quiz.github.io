@@ -26,11 +26,13 @@ fetch('games_in_library.json')
       // Generate star string
       const stars = "⭐".repeat(Math.min(game.stars || 1, 5));
 
+      /**
       // Determine final play URL
       const playUrl = game.game_id.startsWith("http")
         ? game.game_id
         : `${window.location.origin}/${game.game_id}`;
-
+**/
+      const playUrl = `/game.html?g=${game.game_id}`;
       card.innerHTML = `
         <article class="game-card-inner">
           <h2 class="game-title">${game.game_name}</h2>
