@@ -9,79 +9,74 @@ fetch('games_in_library.json')
     const container = document.getElementById("main_div");
     if (!container) return;
 
-    // Optional: Structured data for SEO
+    // Optional structured data
     const schemaData = {
       "@context": "https://schema.org",
       "@type": "ItemList",
-      "name": "Online Games Library",
-      "description": "Free browser-based educational and brain-training games.",
+      "name": "Ultimate Quiz+ Games Collection",
+      "description": "Free browser-based educational and fun games.",
       "itemListElement": []
     };
 
     games.forEach((game, index) => {
+      // Create the card container
       const card = document.createElement("section");
       card.className = "game-card";
 
+      // Generate star string
+      const stars = "⭐".repeat(Math.min(game.stars || 1, 5));
 
-  const stars = "⭐".repeat(game.stars); // game.stars = 1, 2, or 3
+      // Determine final play URL
+      const playUrl = game.game_id.startsWith("http")
+        ? game.game_id
+        : `${window.location.origin}/${game.game_id}`;
 
-card.innerHTML = `
-  <article class="game-card">
-    <h2 class="game-title">${game.game_name}</h2>
-
-    <img 
-      src="${game.game_icon}" 
-      alt="${game.game_name} icon" 
-      loading="lazy"
-      class="game-icon"
-    >
-
-    <div class="game-footer">
-      <span class="game-difficulty ${game.difficulty}">
-        ${game.difficulty}
-      </span>
-
-      <a href="${game.game_id}" class="play-btn">
-        Play Now
-      </a>
-
-      <span class="game-stars">${stars}</span>
-    </div>
-  </article>
-`;
-      /**
       card.innerHTML = `
-        <h2>${game.game_name}</h2>
-        <img src="${game.game_icon}" alt="${game.game_name} icon" loading="lazy">
-        <a href="${game.game_id}">Play Now</a>
+        <article class="game-card-inner">
+          <img 
+            src="${game.game_icon}" 
+            alt="${game.game_name} icon" 
+            loading="lazy"
+            class="game-icon"
+          >
+          <h2 class="game-title">${game.game_name}</h2>
+
+          <div class="game-footer">
+            <span class="game-difficulty ${game.difficulty || 'medium'}">
+              ${(game.difficulty || 'medium').charAt(0).toUpperCase() + (game.difficulty || 'medium').slice(1)}
+            </span>
+
+            <a href="${playUrl}" class="play-btn" target="_blank" rel="noopener">
+              Play Now →
+            </a>
+
+            <span class="game-stars" title="${game.stars} stars">${stars}</span>
+          </div>
+        </article>
       `;
-**/
+
       container.appendChild(card);
 
-      // Add to schema.org structured data
+      // Add to schema.org JSON-LD
       schemaData.itemListElement.push({
         "@type": "ListItem",
         "position": index + 1,
-        "url": `$$ {window.location.origin}/game.html?g= $${game.game_id}`, // change domain if needed
+        "url": playUrl,
         "name": game.game_name,
-        "image": game.game_icon
+        "image": `${window.location.origin}/${game.game_icon}`
       });
     });
 
-    // Optional: inject schema (uncomment if you have <script type="application/ld+json" id="game-schema"> in your layout)
-    /*
-    let schemaScript = document.getElementById("game-schema");
-    if (!schemaScript) {
-      schemaScript = document.createElement("script");
-      schema.type = "application/ld+json";
-      schema.id = "game-schema";
-      document.head.appendChild(schemaScript);
-    }
-    schemaScript.textContent = JSON.stringify(schemaData, null, 2);
-    */
+    // Inject structured data (optional but great for SEO)
+    const script = document.createElement("script");
+    script.type = "application/ld+json";
+    script.textContent = JSON.stringify(schemaData, null, 2);
+    document.head.appendChild(script);
   })
   .catch(err => {
     console.error(err);
     document.getElementById("main_div").innerHTML = 
-      `<p style="color:red;text-align:center;">Failed to load games. Please try again later.</p>`;
+      `<p style="color:red; text-align:center; padding: 2rem;">
+        Failed to load games. Please check your internet connection or try again later.
+      </p>`;
   });
