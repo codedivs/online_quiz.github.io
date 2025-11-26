@@ -27,14 +27,13 @@ fetch('games_in_library.json')
       const stars = "⭐".repeat(Math.min(game.stars || 1, 5));
 
       // Determine final play URL
-      /**
       const playUrl = game.game_id.startsWith("http")
         ? game.game_id
         : `${window.location.origin}/${game.game_id}`;
-**/
+
       card.innerHTML = `
         <article class="game-card-inner">
-        <h2 class="game-title">${game.game_name}</h2>
+          <h2 class="game-title">${game.game_name}</h2>
           <img 
             src="${game.game_icon}" 
             alt="${game.game_name} icon" 
@@ -48,7 +47,7 @@ fetch('games_in_library.json')
               ${(game.difficulty || 'medium').charAt(0).toUpperCase() + (game.difficulty || 'medium').slice(1)}
             </span>
 
-            <a href="${game.game_id}" class="play-btn" target="_blank" rel="noopener">
+            <a href="${playUrl}" class="play-btn" rel="noopener">
               Play Now →
             </a>
 
