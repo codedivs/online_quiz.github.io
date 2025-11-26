@@ -3,7 +3,7 @@
     "game_name": "capital cities",
     "game_icon": "assets/img/code_right.png",
     "game_id": "https://codedivs.github.io/capital_cities.html",
-    "difficulty": "Medium",
+    "difficulty": "medium",
     "stars": 2,
     "category": "cities"
   },
@@ -11,7 +11,7 @@
     "game_name": "General knowledge",
     "game_icon": "assets/img/code_right.png",
     "game_id": "https://codedivs.github.io/general_knowledge.html",
-    "difficulty": "Medium",
+    "difficulty": "medium",
     "stars": 2,
     "category": "General"
   },
@@ -19,7 +19,7 @@
     "game_name": "Medicine",
     "game_icon": "assets/img/code_right.png",
     "game_id": "https://codedivs.github.io/general_medicine.html",
-    "difficulty": "Easy",
+    "difficulty": "easy",
     "stars": 1,
     "category": "health"
   },
@@ -27,7 +27,7 @@
     "game_name": "USA Street names",
     "game_icon": "assets/img/code_right.png",
     "game_id": "https://codedivs.github.io/game.html",
-    "difficulty": "Medium",
+    "difficulty": "medium",
     "stars": 2,
     "category": "roads"
   },
