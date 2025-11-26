@@ -2,47 +2,74 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <link rel="stylesheet" href="assets/css/game.css"
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Game</title>
-
+  <title>{{ page.title }} - {% if window.CURRENT_GAME %}{{ window.CURRENT_GAME.name }}{% else %}Game{% endif %}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/game.css" | relative_url }}">
 </head>
-
 <body>
   <div class="container">
-    <!-- Header -->
     <header class="header">
+      <div class="back-btn">
+        <a href="/" class="btn-secondary">← Back</a>
+      </div>
+      <h1 id="gameTitle">Loading...</h1>
       <div class="timer">Time: <span id="time">00:00</span></div>
       <div class="controls">
-        <button id="cancelBtn" class="btn-secondary">Cancel</button>
         <button id="restartBtn" class="btn-secondary">Restart</button>
       </div>
     </header>
 
-    <!-- Start Screen -->
     <div id="startScreen" class="screen active">
-      <h1>Game Quiz</h1>
-      <p>Test your ___ with 15 random questions!</p>
+      <h1 id="startTitle">Loading Game...</h1>
+      <p id="startDesc">Test your knowledge with 15 random questions!</p>
       <button id="startBtn" class="btn-primary">Start Quiz</button>
     </div>
 
-    <!-- Quiz Screen -->
     <div id="quizScreen" class="screen">
       <div class="progress">Question <span id="currentQ">1</span> of <span id="totalQ">15</span></div>
       <h2 id="question"></h2>
       <div id="options" class="options"></div>
     </div>
 
-    <!-- Result Screen -->
     <div id="resultScreen" class="screen">
       <h1>Quiz Complete! 🎉</h1>
       <p class="score">You scored <span id="score">0</span>/15</p>
       <p class="time-taken">Time taken: <span id="finalTime">00:00</span></p>
       <button id="playAgainBtn" class="btn-primary">Play Again</button>
+      <a href="/" class="btn-secondary">Back to Games</a>
     </div>
   </div>
 
-<script src="{{ "/assets/js/games.js" | relative_url }}"></script>
-</script>
+  <script src="{{ "/assets/js/games.js" | relative_url }}"></script>
+  <script>
+    // Fallback if Liquid didn't set it
+    if (!window.CURRENT_GAME) {
+      const params = new URLSearchParams(window.location.search);
+      const slug = params.get('g') || 'capital-cities';
+      window.CURRENT_GAME = { slug };
+    }
+
+    // Update page title and start screen
+    document.addEventListener("DOMContentLoaded", () => {
+      if (window.CURRENT_GAME.name) {
+        document.getElementById("gameTitle").textContent = window.CURRENT_GAME.name;
+        document.getElementById("startTitle").textContent = window.CURRENT_GAME.name;
+        document.getElementById("startDesc").innerHTML = `Test your <strong>${window.CURRENT_GAME.description || 'knowledge'}</strong> with 15 random questions!`;
+        document.title = window.CURRENT_GAME.name + " - Quiz Game";
+      }
+
+      // Load questions dynamically
+      fetch(`/assets/games/${window.CURRENT_GAME.slug}.json`)
+        .then(r => r.json())
+        .then(data => {
+          window.GAME_QUESTIONS = data;
+          console.log("Loaded", data.length, "questions");
+        })
+        .catch(err => {
+          console.error("Failed to load questions:", err);
+          document.getElementById("startScreen").innerHTML = "<h1>Game not found</h1><p>Could not load questions.</p>";
+        });
+    });
+  </script>
 </body>
 </html>
