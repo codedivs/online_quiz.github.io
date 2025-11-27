@@ -25,7 +25,7 @@ body {
   overflow-x: hidden;
 }
 
-/* ===== HEADER ===== */
+/* HEADER */
 header {
   text-align: center;
   padding: 14px 10px;
@@ -39,18 +39,14 @@ header {
   z-index: 30;
   backdrop-filter: blur(8px);
 }
+header h1 { margin: 0; font-size: inherit; }
 
-header h1 {
-  margin: 0;
-  font-size: inherit;
-}
-
-/* ===== TOP BAR (Search + Categories) ===== */
+/* TOP BAR */
 #top-bar {
   padding: 12px 8px;
   background: var(--header-bg);
   position: sticky;
-  top: 0;                    /* Sticks right under the header automatically */
+  top: 0;
   z-index: 20;
   border-bottom: 1px solid var(--border);
   backdrop-filter: blur(8px);
@@ -65,14 +61,9 @@ header h1 {
   padding: 4px 12px 8px;
   margin: 0 -12px;
   scrollbar-width: thin;
-  scrollbar-color: var(--accent) transparent;
-  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+  -webkit-overflow-scrolling: touch;
 }
-
-#category-chips::-webkit-scrollbar {
-  height: 6px;
-}
-
+#category-chips::-webkit-scrollbar { height: 6px; }
 #category-chips::-webkit-scrollbar-thumb {
   background: var(--accent);
   border-radius: 3px;
@@ -91,7 +82,6 @@ header h1 {
   white-space: nowrap;
   user-select: none;
 }
-
 .category-chip:hover,
 .category-chip.active {
   background: var(--accent);
@@ -100,7 +90,7 @@ header h1 {
   transform: translateY(-1px);
 }
 
-/* Search Box */
+/* Search */
 #search-box {
   padding: 11px 16px;
   border: none;
@@ -113,45 +103,37 @@ header h1 {
   transition: all 0.2s;
   margin-top: 8px;
 }
-
 #search-box:focus {
   background: #333;
   box-shadow: 0 0 0 2px var(--accent);
 }
 
-/* Search Suggestions */
-#search-suggestions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 8px;
-}
-
-.suggestion-btn {
-  padding: 6px 14px;
-  background: #333;
-  border-radius: 20px;
-  font-size: 0.85rem;
-  cursor: pointer;
-  transition: 0.2s;
-}
-
-.suggestion-btn:hover {
-  background: var(--accent);
-  color: #000;
-}
-
-/* ===== MAIN GRID ===== */
+/* MAIN GRID – THIS IS THE IMPORTANT PART */
 #main_div {
-  max-width: 1400px;
+  max-width: 1600px;
   margin: 24px auto;
   padding: 0 12px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr));
   gap: 24px;
+
+  /* 1 column  → mobile
+     2 columns → small tablets
+     3 columns → large tablets / small laptops
+     4 columns → desktop */
+  grid-template-columns: 1fr;
 }
 
-/* ===== GAME CARD ===== */
+@media (min-width: 600px) {
+  #main_div { grid-template-columns: repeat(2, 1fr); }
+}
+@media (min-width: 900px) {
+  #main_div { grid-template-columns: repeat(3, 1fr); }
+}
+@media (min-width: 1200px) {
+  #main_div { grid-template-columns: repeat(4, 1fr); }
+}
+
+/* GAME CARD */
 .game-card {
   background: var(--card-bg);
   border-radius: 18px;
@@ -162,20 +144,17 @@ header h1 {
   display: flex;
   flex-direction: column;
 }
-
 .game-card:hover {
   transform: translateY(-10px) scale(1.03);
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
   border-color: var(--accent);
 }
-
 .game-card img.game-icon {
   width: 100%;
   height: 180px;
   object-fit: cover;
   border-bottom: 1px solid var(--border);
 }
-
 .game-card h2.game-title {
   margin: 16px 12px 8px;
   font-size: 1.35rem;
@@ -183,7 +162,6 @@ header h1 {
   text-align: center;
   text-shadow: 0 0 10px rgba(78, 161, 255, 0.3);
 }
-
 .game-footer {
   margin-top: auto;
   padding: 14px 16px;
@@ -192,7 +170,6 @@ header h1 {
   align-items: center;
   background: rgba(0, 0, 0, 0.2);
 }
-
 .game-difficulty {
   padding: 6px 12px;
   border-radius: 20px;
@@ -201,14 +178,9 @@ header h1 {
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
-
 .game-difficulty.easy { background: #1e7e34; color: #fff; }
 .game-difficulty.medium { background: #ff9f1c; color: #000; }
 .game-difficulty.hard { background: #d32f2f; color: #fff; }
-
-.game-stars {
-  font-size: 1.4rem;
-}
 
 .play-btn {
   background: var(--accent);
@@ -219,72 +191,24 @@ header h1 {
   font-weight: 600;
   transition: all 0.25s ease;
 }
-
 .play-btn:hover {
   background: #6bb8ff;
   transform: scale(1.08);
   box-shadow: 0 0 15px rgba(78, 161, 255, 0.5);
 }
 
-/* ===== SCROLLBAR STYLING ===== */
-::-webkit-scrollbar {
-  width: 12px;
-}
-
-::-webkit-scrollbar-track {
-  background: transparent;
-}
-
+/* SCROLLBAR */
+::-webkit-scrollbar { width: 12px; }
+::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb {
   background: var(--scrollbar-thumb);
   border-radius: 6px;
 }
+::-webkit-scrollbar-thumb:hover { background: var(--scrollbar-thumb-hover); }
 
-::-webkit-scrollbar-thumb:hover {
-  background: var(--scrollbar-thumb-hover);
-}
-
-/* ===== RESPONSIVE TWEAKS ===== */
-@media (max-width: 768px) {
-  header {
-    font-size: 1.3rem;
-    padding: 12px 10px;
-  }
-  
-  #main_div {
-    gap: 20px;
-    padding: 0 10px;
-  }
-  
-  .game-card img.game-icon {
-    height: 160px;
-  }
-}
-
+/* Small mobile tweaks */
 @media (max-width: 480px) {
-  header {
-    font-size: 1.2rem;
-  }
-  
-  #top-bar {
-    padding: 10px 6px;
-  }
-  
-  #main_div {
-    padding: 0 8px;
-    gap: 16px;
-  }
-  
-  .game-card h2.game-title {
-    font-size: 1.25rem;
-  }
-  
-  .game-card img.game-icon {
-    height: 150px;
-  }
-  
-  .play-btn {
-    padding: 9px 16px;
-    font-size: 0.95rem;
-  }
+  #main_div { padding: 0 8px; gap: 16px; }
+  .game-card img.game-icon { height: 150px; }
+  .game-card h2.game-title { font-size: 1.25rem; }
 }
