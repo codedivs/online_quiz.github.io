@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	</head>
-	<body>
-		<header>Ultimate Quiz+ games Collection</header>
+<head>
+  <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <header>Ultimate Quiz+ games Collection</header>
 
-		<div id="top-bar">
-		  <div id="category-chips"></div>
-		  <input type="text" id="search-box" placeholder="Search games or categories...">
-		  <div id="search-suggestions"></div>
-		</div>
+  <div id="top-bar">
+    <div id="category-chips"></div>
+    <input type="text" id="search-box" placeholder="Search games or categories...">
+    <div id="search-suggestions"></div>
+  </div>
 
-		<main id="pager">
-		  {{ content }}
-		</main>
+  <main id="pager"></main>
 
-		<div class="adsense-footer"></div>
+  <div class="adsense-footer"></div>
 
-		<script src="{{ "/assets/js/index.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/index.js" | relative_url }}"></script>
 </body>
 </html>
