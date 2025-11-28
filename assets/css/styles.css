@@ -122,3 +122,155 @@ header {
   #main_div { padding: 0 8px; gap: 16px; }
   .game-card img.game-icon { height: 150px; }
 }
+/*-----------------------------------------------------------*/
+/* ====================== SEARCH & CATEGORY BAR ====================== */
+#top-bar {
+  position: sticky;
+  top: 56px;                    /* height of your <header> */
+  z-index: 20;
+  padding: 14px 20px;
+  background: var(--header-bg);
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: blur(10px);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Category Chips */
+#category-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  flex: 1;
+  min-width: 300px;
+}
+
+.chip {
+  padding: 9px 16px;
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--fg);
+  border: 1px solid var(--border);
+  border-radius: 50px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  user-select: none;
+}
+
+.chip:hover {
+  background: var(--accent);
+  color: #000;
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.chip.active {
+  background: var(--accent);
+  color: #000;
+  border-color: var(--accent);
+  box-shadow: 0 0 12px rgba(78, 161, 255, 0.4);
+}
+
+/* Search Box + Suggestions */
+.search-container {
+  position: relative;
+  max-width: 420px;
+  flex: 1;
+}
+
+#search-box {
+  width: 100%;
+  padding: 12px 20px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid var(--border);
+  border-radius: 50px;
+  color: var(--fg);
+  font-size: 1rem;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+#search-box::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+#search-box:focus {
+  border-color: var(--accent);
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 0 3px rgba(78, 161, 255, 0.2);
+}
+
+#search-suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  margin-top: 6px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  max-height: 320px;
+  overflow-y: auto;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+  display: none;
+  z-index: 100;
+}
+
+.suggestion-item {
+  padding: 14px 20px;
+  cursor: pointer;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.2s;
+}
+
+.suggestion-item:hover {
+  background: rgba(78, 161, 255, 0.15);
+}
+
+.suggestion-item:last-child {
+  border-bottom: none;
+}
+
+/* Small inline category badge inside each card (optional but nice) */
+.game-category-chip {
+  background: var(--accent);
+  color: #000;
+  padding: 5px 12px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  #top-bar {
+    flex-direction: column;
+    padding: 16px 12px;
+  }
+  #category-chips {
+    order: 2;
+  }
+  .search-container {
+    order: 1;
+    width: 100%;
+    max-width: none;
+  }
+}
+
+/* Loading & Empty States */
+#main_div:empty::before {
+  content: "Loading amazing games...";
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 4rem;
+  font-size: 1.2rem;
+  color: var(--accent);
+  opacity: 0.7;
+}
