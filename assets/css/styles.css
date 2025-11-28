@@ -141,14 +141,19 @@ header {
 
 /* Category Chips */
 #category-chips {
-  width: 100%;
+  width: 80%;
   display: flex;
   gap: 10px;
-  min-width: 300px;
   overflow-x: auto;
   white-space: nowrap;
   padding-bottom: 5px;
   scrollbar-width: none;
+}
+
+#category-chips::before,
+#category-chips::after {
+  content: "";
+  flex: 1 0;
 }
 
 #category-chips::-webkit-scrollbar {
