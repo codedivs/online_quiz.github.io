@@ -237,6 +237,9 @@ header {
 }
 
 /* Small inline category badge inside each card (optional but nice) */
+/* 
+  /* <span class="game-category-chip">${escapeHtml(game.category || "General")}</span> */
+*/
 .game-category-chip {
   background: var(--accent);
   color: #000;
