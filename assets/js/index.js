@@ -35,7 +35,6 @@
                class="game-icon"
                onerror="this.src='assets/img/fallback.png'">
           <div class="game-footer">
-            /* <span class="game-category-chip">${escapeHtml(game.category || "General")}</span> */
             <span class="game-difficulty ${difficulty}">
               ${difficulty.charAt(0).toUpperCase() + difficulty.slice(1)}
             </span>
