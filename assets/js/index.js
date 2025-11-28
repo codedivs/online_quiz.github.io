@@ -1,38 +1,39 @@
   "use strict";
 
-  const container = document.getElementById("main_div");
-  const categoryChips = document.getElementById("category-chips");
-  const searchBox = document.getElementById("search-box");
-  const suggestionsBox = document.getElementById("search-suggestions");
+  const container       = document.getElementById("main_div");
+  const categoryChips   = document.getElementById("category-chips");
+  const searchBox       = document.getElementById("search-box");
+  const suggestionsBox  = document.getElementById("search-suggestions");
 
   let allGames = [];
   let allCategories = new Set();
 
-  // Render all games (or filtered ones)
+  // ------------------------------------------------------------------
+  // Render games (filtered or all)
+  // ------------------------------------------------------------------
   function renderGames(gamesToShow) {
     container.innerHTML = gamesToShow.length === 0
-      ? `<p style="text-align:center; padding:2rem; color:#666;">No games found matching your search.</p>`
+      ? `<p style="text-align:center;padding:3rem;color:#888;">No games found.</p>`
       : "";
 
     const fragment = document.createDocumentFragment();
 
-    gamesToShow.forEach((game, index) => {
-      const playUrl = `/game.html?g=${encodeURIComponent(game.game_id)}`;
-      const stars = "⭐".repeat(Math.min(Math.max(game.stars || 3, 1), 5));
+    gamesToShow.forEach(game => {
+      const playUrl   = `/game.html?g=${encodeURIComponent(game.game_id)}`;
+      const stars     = "⭐".repeat(Math.min(Math.max(game.stars || 3, 1), 5));
       const difficulty = (game.difficulty || "medium").toLowerCase();
 
       const card = document.createElement("section");
       card.className = "game-card";
-      card.dataset.category = game.category || "Uncategorized";
-      card.dataset.title = game.game_name.toLowerCase();
+      card.dataset.category = game.category || "General";
+      card.dataset.title    = game.game_name.toLowerCase();
 
       card.innerHTML = `
         <article class="game-card-inner" tabindex="0">
           <h2 class="game-title">${escapeHtml(game.game_name)}</h2>
-          <img src="${escapeHtml(game.game_icon)}" 
-               alt="${escapeHtml(game.game_name)} icon" 
-               loading="lazy" 
-               class="game-icon"
+          <img src="${escapeHtml(game.game_icon)}"
+               alt="${escapeHtml(game.game_name)} icon"
+               loading="lazy" class="game-icon"
                onerror="this.src='assets/img/fallback.png'">
           <div class="game-footer">
             <span class="game-difficulty ${difficulty}">
@@ -49,13 +50,20 @@
     container.appendChild(fragment);
   }
 
-  // Create category filter chips
+  // ------------------------------------------------------------------
+  // Create the category chips (including "All Games")
+  // ------------------------------------------------------------------
   function createCategoryChips() {
-    categoryChips.innerHTML = `
-      <span class="chip active" data-category="all">All Games</span>
-    `;
+    categoryChips.innerHTML = ""; // clear first
 
-    // Sort categories alphabetically
+    const allChip = document.createElement("span");
+    allChip.className = "chip active";
+    allChip.textContent = "All Games";
+    allChip.dataset.category = "all";
+    allChip.onclick = () => filterByCategory("all");
+    categoryChips.appendChild(allChip);
+
+    // sorted categories
     [...allCategories].sort().forEach(cat => {
       const chip = document.createElement("span");
       chip.className = "chip";
@@ -66,96 +74,82 @@
     });
   }
 
-function filterByCategory(selectedCat) {
-  // Update active chip visual
-  document.querySelectorAll("#category-chips .chip").forEach(c => {
-    const isAllChip = c.dataset.category === "all";
-    const isSelected = c.dataset.category === selectedCat;
-    c.classList.toggle("active", 
-      (selectedCat === "all" && isAllChip) || 
-      (selectedCat !== "all" && isSelected)
-    );
-  });
+  // ------------------------------------------------------------------
+  // FILTER BY CATEGORY – THIS IS THE FIXED VERSION
+  // ------------------------------------------------------------------
+  function filterByCategory(selectedCat) {
+    // 1. Update active class on chips
+    document.querySelectorAll("#category-chips .chip").forEach(chip => {
+      chip.classList.toggle("active", chip.dataset.category === selectedCat);
+    });
 
-  // Filter logic
-  let filtered;
-  if (selectedCat === "all") {
-    filtered = allGames;                    // ← This was the missing part!
-  } else {
-    filtered = allGames.filter(g => 
-      (g.category || "General") === selectedCat
-    );
+    // 2. Actually filter the games
+    const filtered = (selectedCat === "all")
+      ? allGames
+      : allGames.filter(g => (g.category || "General") === selectedCat);
+
+    renderGames(filtered);
   }
 
-  renderGames(filtered);
-}
-
-  // Search functionality
+  // ------------------------------------------------------------------
+  // SEARCH
+  // ------------------------------------------------------------------
   function performSearch() {
     const query = searchBox.value.trim().toLowerCase();
     suggestionsBox.innerHTML = "";
+    suggestionsBox.style.display = "none";
 
     if (!query) {
       renderGames(allGames);
-      suggestionsBox.style.display = "none";
       return;
     }
 
     const matches = allGames.filter(game => {
-      const name = game.game_name.toLowerCase();
-      const category = (game.category || "").toLowerCase();
-      return name.includes(query) || category.includes(query);
+      return game.game_name.toLowerCase().includes(query) ||
+             (game.category || "").toLowerCase().includes(query);
     });
 
-    // Show suggestions dropdown
-    if (matches.length > 0) {
+    if (matches.length) {
       suggestionsBox.style.display = "block";
-      matches.slice(0, 6).forEach(game => {
-        const item = document.createElement("div");
-        item.className = "suggestion-item";
-        item.textContent = `${game.game_name} ${game.category ? '· ' + game.category : ''}`;
-        item.onclick = () => {
+      matches.slice(0, 7).forEach(game => {
+        const div = document.createElement("div");
+        div.className = "suggestion-item";
+        div.textContent = `${game.game_name} ${game.category ? "· " + game.category : ""}`;
+        div.onclick = () => {
           searchBox.value = game.game_name;
           suggestionsBox.style.display = "none";
           renderGames([game]);
         };
-        suggestionsBox.appendChild(item);
+        suggestionsBox.appendChild(div);
       });
     } else {
       suggestionsBox.style.display = "block";
-      suggestionsBox.innerHTML = "<div class='suggestion-item'>No games found</div>";
+      suggestionsBox.innerHTML = `<div class="suggestion-item">No games found</div>`;
     }
 
     renderGames(matches);
   }
 
-  // Hide suggestions when clicking outside
-  document.addEventListener("click", (e) => {
+  // hide suggestions when clicking outside
+  document.addEventListener("click", e => {
     if (!searchBox.contains(e.target) && !suggestionsBox.contains(e.target)) {
       suggestionsBox.style.display = "none";
     }
   });
 
-  // Load games
+  // ------------------------------------------------------------------
+  // LOAD GAMES
+  // ------------------------------------------------------------------
   fetch('games_in_library.json')
-    .then(r => {
-      if (!r.ok) throw new Error("Failed to load games");
-      return r.json();
-    })
+    .then(r => { if (!r.ok) throw new Error("Failed to load games"); return r.json(); })
     .then(games => {
       allGames = games;
 
-      // Extract all unique categories
-      games.forEach(game => {
-        const cat = game.category || "General";
-        allCategories.add(cat);
-      });
+      games.forEach(game => allCategories.add(game.category || "General"));
 
-      // Initial render
       renderGames(allGames);
       createCategoryChips();
 
-      // Activate search
       searchBox.addEventListener("input", performSearch);
       searchBox.addEventListener("focus", performSearch);
       searchBox.placeholder = `Search ${games.length} games...`;
@@ -163,10 +157,14 @@ function filterByCategory(selectedCat) {
     })
     .catch(err => {
       console.error(err);
-      container.innerHTML = `<p style="color:red;text-align:center;">Failed to load games: ${escapeHtml(err.message)}</p>`;
+      container.innerHTML = `<p style="color:#f55;text-align:center;padding:3rem;">
+        Failed to load games: ${escapeHtml(err.message)}
+      </p>`;
     });
 
-  // Utility: Escape HTML
+  // ------------------------------------------------------------------
+  // Helper
+  // ------------------------------------------------------------------
   function escapeHtml(text) {
     const div = document.createElement("div");
     div.textContent = text;
