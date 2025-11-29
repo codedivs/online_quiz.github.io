@@ -13,8 +13,8 @@ const quizScreen = document.getElementById('quizScreen');
 const resultScreen = document.getElementById('resultScreen');
 const questionEl = document.getElementById('question');
 const optionsEl = document.getElementById('options');
-const currentQEl = document.getElementById('currentQ');
-const totalQEl = document.getElementById('totalQ');
+//const currentQEl = document.getElementById('currentQ');
+//const totalQEl = document.getElementById('totalQ');
 const scoreEl = document.getElementById('score');
 const finalTimeEl = document.getElementById('finalTime');
 const timeEl = document.getElementById('time');
@@ -97,7 +97,7 @@ function startQuiz() {
     .sort(() => 0.5 - Math.random())
     .slice(0, 10);
 
-  totalQEl.textContent = selectedQuestions.length;
+  //totalQEl.textContent = selectedQuestions.length;
 
   // Go straight to quiz screen
   showScreen('quizScreen');
@@ -112,7 +112,7 @@ function showQuestion() {
   }
 
   const q = selectedQuestions[currentQuestionIndex];
-  currentQEl.textContent = currentQuestionIndex + 1;
+  //currentQEl.textContent = currentQuestionIndex + 1;
   questionEl.textContent = q.question;
   optionsEl.innerHTML = '';
 
