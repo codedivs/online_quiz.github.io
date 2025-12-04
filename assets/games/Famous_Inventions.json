@@ -1,0 +1,157 @@
+[
+    {
+      "question": "Who invented the telephone?",
+      "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+      "answer": 0
+    },
+    {
+      "question": "Who is credited with inventing the light bulb?",
+      "options": ["Nikola Tesla", "Thomas Edison", "James Watt", "Benjamin Franklin"],
+      "answer": 1
+    },
+    {
+      "question": "Who invented the World Wide Web?",
+      "options": ["Tim Berners-Lee", "Steve Jobs", "Bill Gates", "Vint Cerf"],
+      "answer": 2
+    },
+    {
+      "question": "Who invented the printing press?",
+      "options": ["Johannes Gutenberg", "Leonardo da Vinci", "Isaac Newton", "Galileo Galilei"],
+      "answer": 3
+    },
+    {
+      "question": "Who invented the airplane?",
+      "options": ["Wright Brothers", "Orville Wright", "Leonardo da Vinci", "Henry Ford"],
+      "answer": 0
+    },
+    {
+      "question": "Who invented the phonograph?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Samuel Morse"],
+      "answer": 1
+    },
+    {
+      "question": "Who invented the radio?",
+      "options": ["Guglielmo Marconi", "Nikola Tesla", "Thomas Edison", "James Clerk Maxwell"],
+      "answer": 2
+    },
+    {
+      "question": "Who invented the steam engine?",
+      "options": ["James Watt", "Thomas Newcomen", "Nikola Tesla", "Michael Faraday"],
+      "answer": 3
+    },
+    {
+      "question": "Who invented the safety pin?",
+      "options": ["Walter Hunt", "Eli Whitney", "Alexander Graham Bell", "Thomas Edison"],
+      "answer": 0
+    },
+    {
+      "question": "Who invented the television?",
+      "options": ["Philo Farnsworth", "Nikola Tesla", "Guglielmo Marconi", "Thomas Edison"],
+      "answer": 1
+    },
+    {
+      "question": "Who invented the computer?",
+      "options": ["Charles Babbage", "Alan Turing", "John von Neumann", "Steve Jobs"],
+      "answer": 2
+    },
+    {
+      "question": "Who invented the telescope?",
+      "options": ["Galileo Galilei", "Isaac Newton", "Johannes Kepler", "Leonardo da Vinci"],
+      "answer": 3
+    },
+    {
+      "question": "Who invented the internal combustion engine?",
+      "options": ["Nikolaus Otto", "Henry Ford", "Karl Benz", "Gottlieb Daimler"],
+      "answer": 0
+    },
+    {
+      "question": "Who invented the polio vaccine?",
+      "options": ["Jonas Salk", "Louis Pasteur", "Alexander Fleming", "Edward Jenner"],
+      "answer": 1
+    },
+    {
+      "question": "Who invented the airplane engine?",
+      "options": ["Wright Brothers", "Orville Wright", "Wilbur Wright", "Henry Ford"],
+      "answer": 2
+    },
+    {
+      "question": "Who invented the safety elevator?",
+      "options": ["Elisha Otis", "Thomas Edison", "Alexander Graham Bell", "Nikola Tesla"],
+      "answer": 3
+    },
+    {
+      "question": "Who invented the telephone switchboard?",
+      "options": ["Emma Nutt", "Alexander Graham Bell", "Thomas Edison", "Guglielmo Marconi"],
+      "answer": 0
+    },
+    {
+      "question": "Who invented the electric motor?",
+      "options": ["Michael Faraday", "Nikola Tesla", "Thomas Edison", "Alessandro Volta"],
+      "answer": 1
+    },
+    {
+      "question": "Who invented the typewriter?",
+      "options": ["Christopher Latham Sholes", "Thomas Edison", "Alexander Graham Bell", "James Watt"],
+      "answer": 2
+    },
+    {
+      "question": "Who invented the cotton gin?",
+      "options": ["Eli Whitney", "Samuel Morse", "Thomas Edison", "Nikola Tesla"],
+      "answer": 3
+    },
+    {
+      "question": "Who invented the electric light?",
+      "options": ["Thomas Edison", "Nikola Tesla", "James Watt", "Alexander Graham Bell"],
+      "answer": 0
+    },
+    {
+      "question": "Who invented the microwave oven?",
+      "options": ["Percy Spencer", "Thomas Edison", "Nikola Tesla", "Albert Einstein"],
+      "answer": 1
+    },
+    {
+      "question": "Who invented the parachute?",
+      "options": ["Leonardo da Vinci", "Louis-Sébastien Lenormand", "André-Jacques Garnerin", "Joseph Montgolfier"],
+      "answer": 2
+    },
+    {
+      "question": "Who invented the radio telescope?",
+      "options": ["Karl Jansky", "Guglielmo Marconi", "Nikola Tesla", "Thomas Edison"],
+      "answer": 3
+    },
+    {
+      "question": "Who invented the electric battery?",
+      "options": ["Alessandro Volta", "Michael Faraday", "Nikola Tesla", "Thomas Edison"],
+      "answer": 0
+    },
+    {
+      "question": "Who invented the sewing machine?",
+      "options": ["Elias Howe", "Isaac Singer", "Walter Hunt", "Thomas Edison"],
+      "answer": 1
+    },
+    {
+      "question": "Who invented dynamite?",
+      "options": ["Alfred Nobel", "Robert Boyle", "Michael Faraday", "James Watt"],
+      "answer": 2
+    },
+    {
+      "question": "Who invented the jet engine?",
+      "options": ["Frank Whittle", "Wright Brothers", "Henri Coandă", "Gustave Eiffel"],
+      "answer": 3
+    },
+    {
+      "question": "Who invented the laser?",
+      "options": ["Theodore Maiman", "Albert Einstein", "Nikola Tesla", "Thomas Edison"],
+      "answer": 0
+    },
+    {
+      "question": "Who invented the first practical telephone?",
+      "options": ["Alexander Graham Bell", "Elisha Gray", "Thomas Edison", "Nikola Tesla"],
+      "answer": 1
+    },
+    {
+      "question": "Who invented the electric telegraph?",
+      "options": ["Samuel Morse", "Alexander Graham Bell", "Thomas Edison", "Guglielmo Marconi"],
+      "answer": 2
+    }
+  ]
