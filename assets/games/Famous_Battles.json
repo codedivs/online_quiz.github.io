@@ -1,0 +1,147 @@
+[
+    {
+      "question": "In which battle did Napoleon Bonaparte suffer a decisive defeat in 1815?",
+      "options": ["Waterloo", "Austerlitz", "Borodino", "Leipzig"],
+      "answer": 0
+    },
+    {
+      "question": "Which battle was the turning point of the American Civil War in 1863?",
+      "options": ["Gettysburg", "Antietam", "Bull Run", "Shiloh"],
+      "answer": 1
+    },
+    {
+      "question": "Which battle marked the end of the Persian invasion of Greece in 480 BC?",
+      "options": ["Salamis", "Marathon", "Thermopylae", "Plataea"],
+      "answer": 2
+    },
+    {
+      "question": "Where did the British defeat the French in India in 1757?",
+      "options": ["Plassey", "Buxar", "Panipat", "Seringapatam"],
+      "answer": 3
+    },
+    {
+      "question": "Which battle in 1942 was a major turning point in the Pacific during WWII?",
+      "options": ["Midway", "Pearl Harbor", "Coral Sea", "Guadalcanal"],
+      "answer": 0
+    },
+    {
+      "question": "Which battle was the final confrontation in the Napoleonic Wars in 1815?",
+      "options": ["Waterloo", "Trafalgar", "Austerlitz", "Borodino"],
+      "answer": 1
+    },
+    {
+      "question": "Which battle ended the Hundred Years' War between England and France?",
+      "options": ["Castillon", "Agincourt", "Crecy", "Poitiers"],
+      "answer": 2
+    },
+    {
+      "question": "Which battle in 1066 led to Norman control of England?",
+      "options": ["Hastings", "Stamford Bridge", "Bosworth", "Clontarf"],
+      "answer": 3
+    },
+    {
+      "question": "Which battle in 1812 was a failed invasion by Napoleon into Russia?",
+      "options": ["Borodino", "Leipzig", "Austerlitz", "Friedland"],
+      "answer": 0
+    },
+    {
+      "question": "Which battle in 331 BC saw Alexander the Great defeat Darius III?",
+      "options": ["Gaugamela", "Issus", "Hydaspes", "Chaeronea"],
+      "answer": 1
+    },
+    {
+      "question": "Which battle marked the end of the Spanish Armada in 1588?",
+      "options": ["Gravelines", "Hampton Court", "Salisbury", "Calais"],
+      "answer": 2
+    },
+    {
+      "question": "Which battle was the largest tank battle in history in 1943?",
+      "options": ["Kursk", "El Alamein", "Tobruk", "Stalingrad"],
+      "answer": 3
+    },
+    {
+      "question": "Which battle in 490 BC saw the Athenians defeat the Persians?",
+      "options": ["Marathon", "Thermopylae", "Salamis", "Plataea"],
+      "answer": 0
+    },
+    {
+      "question": "Which battle in 218 BC featured Hannibal crossing the Alps?",
+      "options": ["Cannae", "Zama", "Trebia", "Hispania"],
+      "answer": 1
+    },
+    {
+      "question": "Which battle in 1571 stopped Ottoman expansion into Europe?",
+      "options": ["Lepanto", "Vienna", "Mohacs", "Nicopolis"],
+      "answer": 2
+    },
+    {
+      "question": "Which battle in 1916 was one of the largest of WWI on the Western Front?",
+      "options": ["Verdun", "Somme", "Ypres", "Tannenberg"],
+      "answer": 3
+    },
+    {
+      "question": "Which naval battle in 1805 destroyed the French and Spanish fleets?",
+      "options": ["Trafalgar", "Austerlitz", "Waterloo", "Copenhagen"],
+      "answer": 0
+    },
+    {
+      "question": "Which battle ended the First World War’s Eastern Front in 1917?",
+      "options": ["Caporetto", "Tannenberg", "Jutland", "Gallipoli"],
+      "answer": 1
+    },
+    {
+      "question": "Which battle in 732 stopped the advance of Islam into Western Europe?",
+      "options": ["Tours", "Poitiers", "Lechfeld", "Hastings"],
+      "answer": 2
+    },
+    {
+      "question": "Which battle in 1862 was the bloodiest single-day battle in American history?",
+      "options": ["Antietam", "Gettysburg", "Shiloh", "Chancellorsville"],
+      "answer": 3
+    },
+    {
+      "question": "Which battle in 1813 was a decisive defeat for Napoleon?",
+      "options": ["Leipzig", "Borodino", "Austerlitz", "Trafalgar"],
+      "answer": 0
+    },
+    {
+      "question": "Which naval battle in 1942 halted Japanese expansion in the Pacific?",
+      "options": ["Midway", "Coral Sea", "Leyte Gulf", "Philippine Sea"],
+      "answer": 1
+    },
+    {
+      "question": "Which battle in 1863 was the turning point at Vicksburg?",
+      "options": ["Vicksburg", "Gettysburg", "Antietam", "Chattanooga"],
+      "answer": 2
+    },
+    {
+      "question": "Which battle in 1415 was an English victory during the Hundred Years' War?",
+      "options": ["Agincourt", "Crecy", "Poitiers", "Castillon"],
+      "answer": 3
+    },
+    {
+      "question": "Which battle in 732 stopped Charles Martel from invading France?",
+      "options": ["Tours", "Poitiers", "Lechfeld", "Hastings"],
+      "answer": 0
+    },
+    {
+      "question": "Which naval battle in 31 BC led to the rise of Augustus as Roman Emperor?",
+      "options": ["Actium", "Salamis", "Aegospotami", "Mylae"],
+      "answer": 1
+    },
+    {
+      "question": "Which battle in 1066 resulted in William the Conqueror becoming King of England?",
+      "options": ["Hastings", "Stamford Bridge", "Bosworth", "Clontarf"],
+      "answer": 2
+    },
+    {
+      "question": "Which battle in 1572 stopped the Ottoman siege of Malta?",
+      "options": ["Great Siege of Malta", "Vienna", "Lepanto", "Nicopolis"],
+      "answer": 3
+    },
+    {
+      "question": "Which battle in 1943 led to the German retreat on the Eastern Front?",
+      "options": ["Kursk", "Stalingrad", "Moscow", "Leningrad"],
+      "answer": 0
+    }
+  ]
