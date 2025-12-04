@@ -62,5 +62,45 @@
     "difficulty": "easy",
     "stars": 1,
     "category": "literature"
-  }
+  },
+  {
+  "game_name": "Ancient Civilizations",
+  "game_icon": "assets/img/code_right.png",
+  "game_id": "Ancient_Civilizations",
+  "difficulty": "hard",
+  "stars": 3,
+  "category": "history"
+},
+{
+  "game_name": "World Geography",
+  "game_icon": "assets/img/code_right.png",
+  "game_id": "World_Geography",
+  "difficulty": "medium",
+  "stars": 2,
+  "category": "geography"
+},
+{
+  "game_name": "Classic Movies",
+  "game_icon": "assets/img/code_right.png",
+  "game_id": "Classic_Movies",
+  "difficulty": "easy",
+  "stars": 1,
+  "category": "entertainment"
+},
+{
+  "game_name": "Space Exploration",
+  "game_icon": "assets/img/code_right.png",
+  "game_id": "Space_Exploration",
+  "difficulty": "medium",
+  "stars": 2,
+  "category": "science"
+},
+{
+  "game_name": "Modern Art",
+  "game_icon": "assets/img/code_right.png",
+  "game_id": "Modern_Art",
+  "difficulty": "hard",
+  "stars": 3,
+  "category": "art"
+}
 ]
