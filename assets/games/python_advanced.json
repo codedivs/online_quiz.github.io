@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which Python module is used to work with regular expressions?",
+    "options": [
+      "regex",
+      "re",
+      "regexp",
+      "regexpy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of the `yield` keyword in Python?",
+    "options": [
+      "It is used to create a generator function",
+      "It is used to return values from a function",
+      "It is used to pause a function",
+      "It is used to define a constant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which function can be used to read a file line by line in Python?",
+    "options": [
+      "readlines()",
+      "read()",
+      "line()",
+      "file()"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the correct syntax for defining a lambda function in Python?",
+    "options": [
+      "lambda x: x + 1",
+      "function(x): x + 1",
+      "def lambda x: x + 1",
+      "lambda x => x + 1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the difference between `deepcopy()` and `copy()` in Python?",
+    "options": [
+      "`deepcopy()` creates a new object, `copy()` does not",
+      "`deepcopy()` creates a new object with a recursive copy of all nested objects, `copy()` only copies the outer object",
+      "`copy()` creates a new object, `deepcopy()` does not",
+      "There is no difference"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following methods is used to add an element to the end of a list?",
+    "options": [
+      "append()",
+      "insert()",
+      "extend()",
+      "add()"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the output of `print('Hello'.upper())` in Python?",
+    "options": [
+      "'HELLO'",
+      "'hello'",
+      "'Hello'",
+      "Error"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which Python function is used to convert a string to an integer?",
+    "options": [
+      "int()",
+      "str()",
+      "float()",
+      "convert()"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How do you handle exceptions in Python?",
+    "options": [
+      "try/except",
+      "catch/finally",
+      "try/catch",
+      "finally/except"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is true about Python dictionaries?",
+    "options": [
+      "Dictionaries are unordered collections",
+      "Dictionaries are ordered collections",
+      "Dictionaries only allow integer keys",
+      "Dictionaries can have duplicate keys"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which method is used to remove an item from a Python list?",
+    "options": [
+      "remove()",
+      "del()",
+      "pop()",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of the `__init__` method in Python?",
+    "options": [
+      "It initializes a new class instance",
+      "It initializes a new function",
+      "It initializes the class",
+      "It is used for exception handling"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a Python iterator?",
+    "options": [
+      "Range object",
+      "List",
+      "String",
+      "Tuple"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How do you declare a global variable in Python?",
+    "options": [
+      "global x",
+      "x = global",
+      "declare x",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the correct way to define a class in Python?",
+    "options": [
+      "class MyClass:",
+      "class MyClass[]:",
+      "MyClass class:",
+      "def MyClass:"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does the `@staticmethod` decorator do in Python?",
+    "options": [
+      "It defines a method that belongs to the class, not the instance",
+      "It defines a method that can be called from outside the class",
+      "It defines a method that doesn't access the class or instance",
+      "It defines a method that is executed asynchronously"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the output of `print([1, 2, 3] * 2)` in Python?",
+    "options": [
+      "[1, 2, 3, 1, 2, 3]",
+      "[2, 4, 6]",
+      "[1, 2, 3, 1, 2]",
+      "Error"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How do you define a private method in Python?",
+    "options": [
+      "By using two underscores before the method name",
+      "By using one underscore before the method name",
+      "By using a private keyword",
+      "Python does not support private methods"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the `zip()` function used for in Python?",
+    "options": [
+      "It merges two or more iterables",
+      "It zips a string into a tuple",
+      "It zips a list into another list",
+      "It is used to compress files"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which method is used to sort a list in Python?",
+    "options": [
+      "sort()",
+      "sorted()",
+      "order()",
+      "arrange()"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How do you check if a variable is of type integer in Python?",
+    "options": [
+      "isinstance(variable, int)",
+      "type(variable) == int",
+      "variable.is_int()",
+      "type(variable) == 'int'"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which function is used to check the length of a list in Python?",
+    "options": [
+      "length()",
+      "size()",
+      "len()",
+      "count()"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the output of `print(2 ** 3)` in Python?",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "Error"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the default value of the `end` parameter in the `print()` function?",
+    "options": [
+      "'\n'",
+      "''",
+      "' '",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is true about the `__str__()` method in Python?",
+    "options": [
+      "It is used to return a string representation of the object",
+      "It is used to initialize the class instance",
+      "It is used to compare two objects",
+      "It is used for inheritance"
+    ],
+    "answer": 0
+  }
+]
