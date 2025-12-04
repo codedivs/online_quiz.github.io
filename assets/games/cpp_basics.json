@@ -1,0 +1,302 @@
+[
+  {
+    "question": "What is the correct syntax to output 'Hello, World!' in C++?",
+    "options": [
+      "echo 'Hello, World!';",
+      "System.out.println('Hello, World!');",
+      "cout << 'Hello, World!';",
+      "printf('Hello, World!');"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which header file is needed to use the `cout` function in C++?",
+    "options": [
+      "<iostream>",
+      "<stdio.h>",
+      "<string.h>",
+      "<math.h>"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of these is a correct way to declare a variable in C++?",
+    "options": [
+      "int x;",
+      "int x = 10;",
+      "float y;",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How do you write a single-line comment in C++?",
+    "options": [
+      "// This is a comment",
+      "# This is a comment",
+      "/* This is a comment */",
+      "!! This is a comment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the purpose of the `main` function in C++?",
+    "options": [
+      "To store the program's data",
+      "To define the main logic of the program",
+      "To initialize variables",
+      "To display the output"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the correct way to declare a constant in C++?",
+    "options": [
+      "const int x = 5;",
+      "int const x = 5;",
+      "both 1 and 2",
+      "constant int x = 5;"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which data type is used to store a single character in C++?",
+    "options": [
+      "char",
+      "string",
+      "int",
+      "bool"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the size of an `int` variable in C++ on most systems?",
+    "options": [
+      "2 bytes",
+      "4 bytes",
+      "8 bytes",
+      "1 byte"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a valid loop structure in C++?",
+    "options": [
+      "for",
+      "while",
+      "do-while",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is used for conditional statements in C++?",
+    "options": [
+      "if-else",
+      "switch",
+      "ternary operator",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the correct syntax to declare an array of integers in C++?",
+    "options": [
+      "int arr[];",
+      "int arr[5];",
+      "array<int> arr;",
+      "int[5] arr;"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the use of `new` keyword in C++?",
+    "options": [
+      "To allocate memory dynamically",
+      "To create a constant",
+      "To define a class",
+      "To define a method"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "How do you define a function in C++?",
+    "options": [
+      "def function_name() {}",
+      "function function_name() {}",
+      "void function_name() {}",
+      "void function_name() -> {}"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which operator is used to access members of a class or struct in C++?",
+    "options": [
+      ".",
+      "->",
+      ":",
+      ";"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of these can be used to initialize a pointer in C++?",
+    "options": [
+      "int *ptr;",
+      "int ptr;",
+      "ptr = &value;",
+      "Both 1 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the correct way to create a class in C++?",
+    "options": [
+      "class ClassName { };",
+      "struct ClassName { };",
+      "create ClassName { };",
+      "class {ClassName} { };"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the output of the following code?\n`int a = 10; a++; cout << a;`",
+    "options": [
+      "10",
+      "11",
+      "Error",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How do you declare a reference variable in C++?",
+    "options": [
+      "int &x = y;",
+      "int x& = y;",
+      "ref int x = y;",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is used to prevent multiple inclusions of the same header file in C++?",
+    "options": [
+      "#define",
+      "#pragma once",
+      "#include",
+      "#import"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the function of `malloc()` in C++?",
+    "options": [
+      "Allocates memory dynamically",
+      "Frees dynamically allocated memory",
+      "Creates an array",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which keyword is used to define an abstract class in C++?",
+    "options": [
+      "abstract",
+      "virtual",
+      "interface",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which function is used to find the length of a string in C++?",
+    "options": [
+      "strlen()",
+      "size()",
+      "length()",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the correct syntax to create a constructor in C++?",
+    "options": [
+      "ClassName() {}",
+      "constructor() {}",
+      "void ClassName() {}",
+      "ClassName() -> {}"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT an access specifier in C++?",
+    "options": [
+      "private",
+      "protected",
+      "public",
+      "default"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is a destructor in C++?",
+    "options": [
+      "A function used to destroy objects when they go out of scope",
+      "A function used to initialize objects",
+      "A function used to clean up memory",
+      "Both 1 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is NOT allowed in C++?",
+    "options": [
+      "Function overloading",
+      "Operator overloading",
+      "Template classes",
+      "Multiple inheritance"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does the `this` pointer in C++ refer to?",
+    "options": [
+      "The object that called the method",
+      "The method in the current class",
+      "The class constructor",
+      "The static member of the class"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following operators can be used to compare two values in C++?",
+    "options": [
+      "==",
+      "===",
+      "=>",
+      "=!"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does the `break` statement do in C++?",
+    "options": [
+      "Terminates a loop",
+      "Skips to the next iteration of the loop",
+      "Stops the program",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a valid pointer declaration in C++?",
+    "options": [
+      "int *ptr;",
+      "ptr int*;",
+      "pointer int*;",
+      "int& ptr;"
+    ],
+    "answer": 0
+  }
+]
