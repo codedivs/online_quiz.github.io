@@ -102,5 +102,85 @@
   "difficulty": "hard",
   "stars": 3,
   "category": "art"
-}
+},
+{
+    "game_name": "World Leaders",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "World_Leaders",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "history"
+  },
+  {
+    "game_name": "Famous Inventions",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "Famous_Inventions",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "science"
+  },
+  {
+    "game_name": "Olympic Games",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "Olympic_Games",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "sports"
+  },
+  {
+    "game_name": "Mythology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "Mythology",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "history"
+  },
+  {
+    "game_name": "Famous Paintings",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "Famous_Paintings",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "art"
+  },
+  {
+    "game_name": "Animal Kingdom",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "Animal_Kingdom",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "nature"
+  },
+  {
+    "game_name": "Famous Battles",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "Famous_Battles",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "history"
+  },
+  {
+    "game_name": "World Capitals Challenge",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "World_Capitals_Challenge",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "cities"
+  },
+  {
+    "game_name": "Famous Scientists",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "Famous_Scientists",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "science"
+  },
+  {
+    "game_name": "Classic Literature",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "Classic_Literature",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "literature"
+  }
 ]
