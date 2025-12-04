@@ -183,4 +183,125 @@
     "stars": 2,
     "category": "literature"
   }
+  ,
+  {
+    "game_name": "Python Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "python_basics",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "programming"
+  },
+  {
+    "game_name": "Java Fundamentals",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "java_fundamentals",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "programming"
+  },
+  {
+    "game_name": "JavaScript Essentials",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "javascript_essentials",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "programming"
+  },
+  {
+    "game_name": "C++ Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cpp_basics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "programming"
+  },
+  {
+    "game_name": "HTML & CSS",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "html_css",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "web development"
+  },
+  {
+    "game_name": "Data Structures",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "data_structures",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "programming"
+  },
+  {
+    "game_name": "Algorithms Challenge",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "algorithms_challenge",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "programming"
+  },
+  {
+    "game_name": "Python Advanced",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "python_advanced",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "programming"
+  },
+  {
+    "game_name": "ReactJS Fundamentals",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "reactjs_fundamentals",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "web development"
+  },
+  {
+    "game_name": "Node.js Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "nodejs_basics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "web development"
+  },
+  {
+    "game_name": "SQL & Databases",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "sql_databases",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "database"
+  },
+  {
+    "game_name": "Object-Oriented Programming",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "oop",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "programming"
+  },
+  {
+    "game_name": "Git & Version Control",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "git_version_control",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "programming"
+  },
+  {
+    "game_name": "Python for Data Science",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "python_data_science",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "programming"
+  },
+  {
+    "game_name": "Cybersecurity Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cybersecurity_basics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "programming"
+  }
 ]
