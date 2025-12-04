@@ -1,0 +1,162 @@
+[
+    {
+      "question": "Who is the king of the Greek gods?",
+      "options": ["Zeus", "Poseidon", "Hades", "Apollo"],
+      "answer": 0
+    },
+    {
+      "question": "Who is the Norse god of thunder?",
+      "options": ["Odin", "Loki", "Thor", "Freyr"],
+      "answer": 1
+    },
+    {
+      "question": "Who is the Egyptian goddess of wisdom?",
+      "options": ["Isis", "Hathor", "Ma'at", "Nephthys"],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Roman goddess of love?",
+      "options": ["Venus", "Juno", "Minerva", "Diana"],
+      "answer": 3
+    },
+    {
+      "question": "Who is the Greek god of the sea?",
+      "options": ["Poseidon", "Zeus", "Hades", "Ares"],
+      "answer": 0
+    },
+    {
+      "question": "Who is the Norse trickster god?",
+      "options": ["Loki", "Odin", "Freya", "Baldur"],
+      "answer": 1
+    },
+    {
+      "question": "Who is the Egyptian god of the underworld?",
+      "options": ["Anubis", "Osiris", "Horus", "Set"],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Roman god of war?",
+      "options": ["Mars", "Mercury", "Saturn", "Vulcan"],
+      "answer": 3
+    },
+    {
+      "question": "Who is the Greek goddess of wisdom?",
+      "options": ["Athena", "Hera", "Artemis", "Demeter"],
+      "answer": 0
+    },
+    {
+      "question": "Who is the Norse goddess of love and fertility?",
+      "options": ["Freyja", "Hel", "Sif", "Idunn"],
+      "answer": 1
+    },
+    {
+      "question": "Who is the Egyptian sun god?",
+      "options": ["Ra", "Horus", "Thoth", "Amun"],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Roman king of gods?",
+      "options": ["Jupiter", "Neptune", "Pluto", "Apollo"],
+      "answer": 3
+    },
+    {
+      "question": "Who is the Greek god of war?",
+      "options": ["Ares", "Hephaestus", "Hermes", "Dionysus"],
+      "answer": 0
+    },
+    {
+      "question": "Who is the Norse god associated with death?",
+      "options": ["Hel", "Odin", "Tyr", "Baldr"],
+      "answer": 1
+    },
+    {
+      "question": "Who is the Egyptian goddess of magic and motherhood?",
+      "options": ["Isis", "Neith", "Sekhmet", "Hathor"],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Roman goddess of the hunt?",
+      "options": ["Diana", "Minerva", "Venus", "Ceres"],
+      "answer": 3
+    },
+    {
+      "question": "Who is the Greek god of the underworld?",
+      "options": ["Hades", "Hermes", "Poseidon", "Zeus"],
+      "answer": 0
+    },
+    {
+      "question": "Who is the Norse god of wisdom?",
+      "options": ["Odin", "Loki", "Thor", "Baldur"],
+      "answer": 1
+    },
+    {
+      "question": "Who is the Egyptian god of chaos?",
+      "options": ["Set", "Osiris", "Horus", "Thoth"],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Roman goddess of wisdom?",
+      "options": ["Minerva", "Juno", "Venus", "Diana"],
+      "answer": 3
+    },
+    {
+      "question": "Who is the Greek messenger god?",
+      "options": ["Hermes", "Apollo", "Ares", "Hephaestus"],
+      "answer": 0
+    },
+    {
+      "question": "Who is the Norse god of the sky?",
+      "options": ["Thor", "Odin", "Tyr", "Baldur"],
+      "answer": 1
+    },
+    {
+      "question": "Who is the Egyptian god of writing?",
+      "options": ["Thoth", "Ra", "Osiris", "Anubis"],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Roman god of the sea?",
+      "options": ["Neptune", "Jupiter", "Mars", "Saturn"],
+      "answer": 3
+    },
+    {
+      "question": "Who is the Greek goddess of the hunt?",
+      "options": ["Artemis", "Athena", "Hera", "Demeter"],
+      "answer": 0
+    },
+    {
+      "question": "Who is the Norse goddess of death?",
+      "options": ["Hel", "Freyja", "Frigg", "Sif"],
+      "answer": 1
+    },
+    {
+      "question": "Who is the Egyptian god of the sky?",
+      "options": ["Horus", "Ra", "Set", "Osiris"],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Roman god of fire and metalworking?",
+      "options": ["Vulcan", "Mars", "Neptune", "Mercury"],
+      "answer": 3
+    },
+    {
+      "question": "Who is the Greek god of wine and festivity?",
+      "options": ["Dionysus", "Hermes", "Ares", "Apollo"],
+      "answer": 0
+    },
+    {
+      "question": "Who is the Norse god of law and justice?",
+      "options": ["Tyr", "Odin", "Thor", "Loki"],
+      "answer": 1
+    },
+    {
+      "question": "Who is the Egyptian goddess of love?",
+      "options": ["Hathor", "Isis", "Sekhmet", "Bastet"],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Roman god of agriculture?",
+      "options": ["Ceres", "Saturn", "Jupiter", "Pluto"],
+      "answer": 3
+    }
+  ]
