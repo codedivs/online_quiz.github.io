@@ -308,5 +308,105 @@
       "Kruskal's Algorithm"
     ],
     "answer": 0
+  },
+    {
+    "question": "Which algorithm is used for finding the nearest neighbor in a 2D plane?",
+    "options": [
+      "Divide and Conquer",
+      "Greedy Algorithm",
+      "Dynamic Programming",
+      "Brute Force"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is true about a depth-first search (DFS) traversal?",
+    "options": [
+      "It explores a node's neighbors first before exploring deeper nodes",
+      "It uses a queue to explore nodes",
+      "It explores deeper nodes first and backtracks when necessary",
+      "It finds the shortest path in an unweighted graph"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the space complexity of an algorithm that sorts an array of length n using merge sort?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which data structure is most commonly used in a breadth-first search (BFS)?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Array",
+      "Tree"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following algorithms is used to solve the maximum subarray sum problem?",
+    "options": [
+      "Kadane's Algorithm",
+      "Quick Sort",
+      "Bubble Sort",
+      "Dijkstra's Algorithm"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following algorithms is not a comparison-based sorting algorithm?",
+    "options": [
+      "Merge Sort",
+      "Quick Sort",
+      "Bubble Sort",
+      "Counting Sort"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the time complexity of the selection sort algorithm?",
+    "options": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which algorithm is best suited for sorting a large number of records with a small range of keys?",
+    "options": [
+      "Merge Sort",
+      "Quick Sort",
+      "Counting Sort",
+      "Heap Sort"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following algorithms can be used to find the longest increasing subsequence (LIS)?",
+    "options": [
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy Algorithm",
+      "Backtracking"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a disadvantage of the bubble sort algorithm?",
+    "options": [
+      "It has a worst-case time complexity of O(n log n)",
+      "It is a stable sort but is inefficient for large datasets",
+      "It is not stable and does not preserve relative order",
+      "It is more complex than other algorithms"
+    ],
+    "answer": 1
   }
 ]
