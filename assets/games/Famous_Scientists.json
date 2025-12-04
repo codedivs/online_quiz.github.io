@@ -1,0 +1,152 @@
+[
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+      "answer": 0
+    },
+    {
+      "question": "Who is known as the father of modern physics?",
+      "options": ["Albert Einstein", "Isaac Newton", "Niels Bohr", "Max Planck"],
+      "answer": 1
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "options": ["Alexander Fleming", "Louis Pasteur", "Marie Curie", "Robert Koch"],
+      "answer": 2
+    },
+    {
+      "question": "Who is famous for the laws of motion?",
+      "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Johannes Kepler"],
+      "answer": 3
+    },
+    {
+      "question": "Who developed the theory of evolution by natural selection?",
+      "options": ["Charles Darwin", "Gregor Mendel", "Alfred Wallace", "Jean-Baptiste Lamarck"],
+      "answer": 0
+    },
+    {
+      "question": "Who discovered the structure of DNA?",
+      "options": ["James Watson and Francis Crick", "Rosalind Franklin", "Gregor Mendel", "Louis Pasteur"],
+      "answer": 1
+    },
+    {
+      "question": "Who is known as the father of modern chemistry?",
+      "options": ["Antoine Lavoisier", "Dmitri Mendeleev", "John Dalton", "Robert Boyle"],
+      "answer": 2
+    },
+    {
+      "question": "Who invented the first practical telephone?",
+      "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+      "answer": 3
+    },
+    {
+      "question": "Who proposed the heliocentric model of the solar system?",
+      "options": ["Nicolaus Copernicus", "Galileo Galilei", "Johannes Kepler", "Tycho Brahe"],
+      "answer": 0
+    },
+    {
+      "question": "Who is considered the father of genetics?",
+      "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "James Watson"],
+      "answer": 1
+    },
+    {
+      "question": "Who discovered radioactivity?",
+      "options": ["Marie Curie", "Henri Becquerel", "Albert Einstein", "Niels Bohr"],
+      "answer": 2
+    },
+    {
+      "question": "Who formulated the law of universal gravitation?",
+      "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Johannes Kepler"],
+      "answer": 3
+    },
+    {
+      "question": "Who invented the light bulb?",
+      "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Benjamin Franklin"],
+      "answer": 0
+    },
+    {
+      "question": "Who developed the periodic table of elements?",
+      "options": ["Dmitri Mendeleev", "Antoine Lavoisier", "John Dalton", "Robert Boyle"],
+      "answer": 1
+    },
+    {
+      "question": "Who is known for his work in electromagnetism?",
+      "options": ["Michael Faraday", "James Clerk Maxwell", "Nikola Tesla", "Albert Einstein"],
+      "answer": 2
+    },
+    {
+      "question": "Who discovered the law of conservation of mass?",
+      "options": ["Antoine Lavoisier", "Dmitri Mendeleev", "John Dalton", "Robert Boyle"],
+      "answer": 3
+    },
+    {
+      "question": "Who invented the first successful airplane?",
+      "options": ["Wright Brothers", "Charles Lindbergh", "Amelia Earhart", "Orville Wright"],
+      "answer": 0
+    },
+    {
+      "question": "Who is known for the theory of planetary motion?",
+      "options": ["Johannes Kepler", "Galileo Galilei", "Isaac Newton", "Tycho Brahe"],
+      "answer": 1
+    },
+    {
+      "question": "Who discovered the circulation of blood?",
+      "options": ["William Harvey", "Andreas Vesalius", "Louis Pasteur", "Joseph Lister"],
+      "answer": 2
+    },
+    {
+      "question": "Who invented the first practical radio?",
+      "options": ["Guglielmo Marconi", "Nikola Tesla", "Alexander Graham Bell", "Thomas Edison"],
+      "answer": 3
+    },
+    {
+      "question": "Who is known as the father of microbiology?",
+      "options": ["Louis Pasteur", "Robert Koch", "Alexander Fleming", "Joseph Lister"],
+      "answer": 0
+    },
+    {
+      "question": "Who formulated the uncertainty principle in quantum mechanics?",
+      "options": ["Werner Heisenberg", "Niels Bohr", "Albert Einstein", "Max Planck"],
+      "answer": 1
+    },
+    {
+      "question": "Who discovered the electron?",
+      "options": ["J. J. Thomson", "Ernest Rutherford", "Niels Bohr", "James Clerk Maxwell"],
+      "answer": 2
+    },
+    {
+      "question": "Who is famous for his work on the photoelectric effect?",
+      "options": ["Albert Einstein", "Max Planck", "Niels Bohr", "Galileo Galilei"],
+      "answer": 3
+    },
+    {
+      "question": "Who invented the first steam engine?",
+      "options": ["James Watt", "Thomas Newcomen", "Nikola Tesla", "George Stephenson"],
+      "answer": 0
+    },
+    {
+      "question": "Who discovered the principle of buoyancy?",
+      "options": ["Archimedes", "Isaac Newton", "Galileo Galilei", "Albert Einstein"],
+      "answer": 1
+    },
+    {
+      "question": "Who discovered oxygen?",
+      "options": ["Joseph Priestley", "Antoine Lavoisier", "Dmitri Mendeleev", "John Dalton"],
+      "answer": 2
+    },
+    {
+      "question": "Who is known for the uncertainty principle?",
+      "options": ["Werner Heisenberg", "Niels Bohr", "Albert Einstein", "Max Planck"],
+      "answer": 3
+    },
+    {
+      "question": "Who formulated the laws of planetary motion?",
+      "options": ["Johannes Kepler", "Galileo Galilei", "Isaac Newton", "Tycho Brahe"],
+      "answer": 0
+    },
+    {
+      "question": "Who discovered the neutron?",
+      "options": ["James Chadwick", "Ernest Rutherford", "Niels Bohr", "Albert Einstein"],
+      "answer": 1
+    }
+  ]
