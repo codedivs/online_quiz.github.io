@@ -158,5 +158,140 @@
     "question": "Which of the following is a method to check for missing values in a pandas DataFrame?",
     "options": ["df.isna()", "df.isnull()", "df.missing()", "df.nan()"],
     "answer": 1
+  },
+   {
+    "question": "Which function in pandas is used to join multiple DataFrames along rows or columns?",
+    "options": ["df.append()", "df.concat()", "df.merge()", "df.join()"],
+    "answer": 1
+  },
+  {
+    "question": "Which function is used to calculate the sum of each column in a pandas DataFrame?",
+    "options": ["df.sum()", "df.mean()", "df.aggregate()", "df.median()"],
+    "answer": 0
+  },
+  {
+    "question": "What is the purpose of the `sklearn.preprocessing.StandardScaler` class?",
+    "options": ["To scale and normalize data", "To perform feature selection", "To implement regression models", "To visualize data"],
+    "answer": 0
+  },
+  {
+    "question": "In machine learning, what does 'feature engineering' refer to?",
+    "options": ["Creating new features from raw data", "Selecting the best model for the data", "Splitting the dataset into training and testing sets", "Removing missing values from the dataset"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is true about the pandas `pivot_table()` method?",
+    "options": ["It is used to create a pivot table for aggregating data", "It sorts the data", "It joins DataFrames", "It removes duplicate values from a DataFrame"],
+    "answer": 0
+  },
+  {
+    "question": "What does the `np.dot()` function do in NumPy?",
+    "options": ["Performs dot product of two arrays", "Multiplies two arrays element-wise", "Performs matrix transpose", "Calculates the Euclidean distance between two arrays"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following statements is true about deep learning?",
+    "options": ["It uses neural networks with many layers", "It is a type of linear regression", "It is a machine learning algorithm for clustering", "It uses decision trees"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following methods in pandas is used to combine rows of two DataFrames?",
+    "options": ["df.concat()", "df.merge()", "df.append()", "df.join()"],
+    "answer": 2
+  },
+  {
+    "question": "Which Python library is often used for numerical computations and scientific computing?",
+    "options": ["numpy", "scipy", "pandas", "matplotlib"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is used for dimensionality reduction in machine learning?",
+    "options": ["Principal Component Analysis (PCA)", "Linear Regression", "Decision Trees", "K-means clustering"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is the correct way to import the scikit-learn library?",
+    "options": ["import sklearn", "import scikit-learn", "from sklearn import *", "import scikit as sk"],
+    "answer": 0
+  },
+  {
+    "question": "Which function is used to perform K-means clustering in scikit-learn?",
+    "options": ["KMeans()", "KMeansClassifier()", "KMeansCluster()", "cluster.KMeans()"],
+    "answer": 0
+  },
+  {
+    "question": "In machine learning, what is overfitting?",
+    "options": ["When the model performs well on training data but poorly on new data", "When the model performs well on both training and testing data", "When the model performs poorly on both training and testing data", "When the model is too simple for the problem"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following methods in scikit-learn is used for model evaluation?",
+    "options": ["cross_val_score()", "cross_validation()", "model_evaluation()", "evaluate_model()"],
+    "answer": 0
+  },
+  {
+    "question": "What does the `fit()` method in scikit-learn do?",
+    "options": ["Trains the model on the data", "Makes predictions with the model", "Evaluates the model performance", "Plots the model's performance graph"],
+    "answer": 0
+  },
+  {
+    "question": "Which method in pandas is used to check if a column contains any null values?",
+    "options": ["df.isna()", "df.isnull()", "df.notnull()", "df.containsnull()"],
+    "answer": 1
+  },
+  {
+    "question": "What does the `plt.show()` function do in matplotlib?",
+    "options": ["Displays the plot", "Saves the plot as an image", "Displays the plot in a new window", "Clears the plot"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following methods is used to sort a DataFrame by a column in pandas?",
+    "options": ["df.sort_values()", "df.sort()", "df.sort_by()", "df.order()"],
+    "answer": 0
+  },
+  {
+    "question": "In scikit-learn, which method is used to split the data into training and testing sets?",
+    "options": ["train_test_split()", "split_data()", "data_split()", "train_split()"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is used to handle categorical variables in machine learning?",
+    "options": ["One-hot encoding", "Normalization", "Standardization", "Polynomial expansion"],
+    "answer": 0
+  },
+  {
+    "question": "Which method is used to find the correlation between columns in a pandas DataFrame?",
+    "options": ["df.corr()", "df.cov()", "df.aggregate()", "df.median()"],
+    "answer": 0
+  },
+  {
+    "question": "In machine learning, which of the following algorithms is used for classification tasks?",
+    "options": ["Logistic Regression", "Linear Regression", "K-means clustering", "Principal Component Analysis"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a method to prevent overfitting in machine learning?",
+    "options": ["Cross-validation", "Normalization", "Reducing the number of features", "Using only a small training set"],
+    "answer": 0
+  },
+  {
+    "question": "What does the `drop_duplicates()` method in pandas do?",
+    "options": ["Removes duplicate rows from a DataFrame", "Drops rows with missing values", "Removes duplicate columns", "Replaces null values with zeros"],
+    "answer": 0
+  },
+  {
+    "question": "What is the purpose of the `fit_transform()` method in scikit-learn?",
+    "options": ["To fit the model to the data and transform the data", "To make predictions with the trained model", "To evaluate the model performance", "To split the data into training and testing sets"],
+    "answer": 0
+  },
+  {
+    "question": "What is the purpose of the `count()` method in pandas?",
+    "options": ["To count the number of non-null values in a DataFrame", "To count the total number of rows", "To count the total number of columns", "To count the number of duplicates in a DataFrame"],
+    "answer": 0
+  },
+  {
+    "question": "Which method in pandas is used to remove duplicate rows from a DataFrame?",
+    "options": ["df.drop_duplicates()", "df.remove_duplicates()", "df.filter_duplicates()", "df.clear_duplicates()"],
+    "answer": 0
   }
 ]
