@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the primary goal of Object-Oriented Programming?",
+    "options": ["Code reuse", "Performance optimization", "Concurrency", "Parallel processing"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT a core concept of Object-Oriented Programming?",
+    "options": ["Inheritance", "Polymorphism", "Encapsulation", "Iteration"],
+    "answer": 3
+  },
+  {
+    "question": "Which keyword is used to define a class in most programming languages?",
+    "options": ["object", "class", "define", "function"],
+    "answer": 1
+  },
+  {
+    "question": "What is inheritance in Object-Oriented Programming?",
+    "options": ["The ability to create new classes based on existing ones", "The ability to hide implementation details", "The ability to use multiple classes together", "The ability to execute code in sequence"],
+    "answer": 0
+  },
+  {
+    "question": "What does encapsulation mean in OOP?",
+    "options": ["Combining multiple objects into one", "Protecting an object's state from outside access", "Sharing data across multiple objects", "Reusing code in different objects"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is true about polymorphism?",
+    "options": ["It allows objects of different classes to be treated as objects of a common superclass", "It allows data to be shared between objects", "It is the process of combining multiple objects", "It prevents class inheritance"],
+    "answer": 0
+  },
+  {
+    "question": "What is an object in Object-Oriented Programming?",
+    "options": ["A variable", "A function", "An instance of a class", "A data structure"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a feature of object-oriented programming?",
+    "options": ["Methods", "Inheritance", "Polymorphism", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of a constructor in a class?",
+    "options": ["To initialize the object", "To define the methods", "To destroy the object", "To create a new class"],
+    "answer": 0
+  },
+  {
+    "question": "What is method overriding in OOP?",
+    "options": ["When a method in a subclass has the same name as a method in the superclass", "When a method is called in a loop", "When a method does not return anything", "When a method is private"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key benefit of inheritance in OOP?",
+    "options": ["Code reusability", "Code duplication", "Data hiding", "Encapsulation"],
+    "answer": 0
+  },
+  {
+    "question": "In OOP, which term describes a 'blueprint' for creating objects?",
+    "options": ["Class", "Method", "Function", "Interface"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT a feature of a class?",
+    "options": ["Attributes", "Methods", "Objects", "Functions"],
+    "answer": 2
+  },
+  {
+    "question": "What is the difference between a class and an object?",
+    "options": ["A class is a blueprint, and an object is an instance of that class", "A class is an object, and an object is a method", "A class contains data, and an object contains methods", "A class is a function, and an object is a variable"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following allows a class to inherit from another class?",
+    "options": ["extends", "implements", "inherits", "inheritsFrom"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a private method in a class?",
+    "options": ["It can be accessed from outside the class", "It cannot be accessed directly outside the class", "It is a class variable", "It is used for object creation"],
+    "answer": 1
+  },
+  {
+    "question": "What is an abstract class in Object-Oriented Programming?",
+    "options": ["A class that cannot be instantiated", "A class with only one method", "A class that cannot inherit other classes", "A class with no methods"],
+    "answer": 0
+  },
+  {
+    "question": "Which keyword is used to define an interface in OOP?",
+    "options": ["interface", "abstract", "class", "implements"],
+    "answer": 0
+  },
+  {
+    "question": "What is the difference between an interface and a class?",
+    "options": ["An interface cannot have method implementations", "A class cannot inherit from an interface", "An interface has variables, and a class does not", "A class can have abstract methods, but an interface cannot"],
+    "answer": 0
+  },
+  {
+    "question": "What is polymorphism in Object-Oriented Programming?",
+    "options": ["When different objects respond to the same method in different ways", "When multiple classes inherit from a single class", "When an object is destroyed after it is used", "When a method is called multiple times with different arguments"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a key principle of Object-Oriented Programming?",
+    "options": ["Abstraction", "Parallelism", "Multithreading", "Code optimization"],
+    "answer": 0
+  },
+  {
+    "question": "What is the role of the `super()` keyword in OOP?",
+    "options": ["It refers to the superclass's constructor", "It defines a private method", "It calls a method from the subclass", "It prevents inheritance"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following best describes 'abstraction' in OOP?",
+    "options": ["Hiding the complex implementation details from the user", "Allowing a class to inherit properties from another class", "Defining a method without implementation", "Calling a method in a loop"],
+    "answer": 0
+  },
+  {
+    "question": "In OOP, which term refers to the combination of data and methods that operate on that data?",
+    "options": ["Class", "Object", "Method", "Instance"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following terms refers to the ability to hide the internal state of an object?",
+    "options": ["Encapsulation", "Inheritance", "Abstraction", "Polymorphism"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is an example of method overloading?",
+    "options": ["Having multiple methods with the same name but different parameters", "Having a method that overrides a parent class method", "Having multiple classes with the same method", "Having a class with only one method"],
+    "answer": 0
+  },
+  {
+    "question": "What does the term 'instance' refer to in OOP?",
+    "options": ["An object created from a class", "A method defined in a class", "A class with a constructor", "A class with no methods"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is used to access a method of a class in OOP?",
+    "options": ["Object.method()", "Class.method()", "method.object()", "method.class()"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following describes a class that cannot be instantiated directly?",
+    "options": ["Abstract class", "Concrete class", "Interface", "Virtual class"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following defines the term 'constructor' in OOP?",
+    "options": ["A method used to initialize objects", "A method used to destroy objects", "A variable within a class", "A class that is not instantiated"],
+    "answer": 0
+  },
+  {
+    "question": "What does it mean when a class is said to 'implement' an interface?",
+    "options": ["The class must provide implementations for all methods declared in the interface", "The class can have optional methods", "The class must inherit from the interface", "The class cannot have any methods"],
+    "answer": 0
+  },
+  {
+    "question": "What is the benefit of using inheritance in OOP?",
+    "options": ["Reuse code in subclasses", "Hide methods from subclasses", "Force classes to define all methods", "Make classes less modular"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following statements about OOP is true?",
+    "options": ["Objects are instances of classes", "Classes are instances of objects", "Methods cannot be part of a class", "Objects cannot have attributes"],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary function of a method in a class?",
+    "options": ["To define an object's behavior", "To create an object", "To store object data", "To prevent object destruction"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following best describes method overriding?",
+    "options": ["A subclass provides its own version of a method defined in the superclass", "A class defines more methods", "A method calls another method", "A method is not allowed to be inherited"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following best describes a class in Object-Oriented Programming?",
+    "options": ["A template for creating objects", "A collection of functions", "A list of variables", "A method that performs actions"],
+    "answer": 0
+  }
+]
