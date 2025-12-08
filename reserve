@@ -1,0 +1,1586 @@
+[
+  {
+    "game_name": "Chemistry Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "chemistry_basics",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "science"
+  },
+  {
+    "game_name": "Advanced Chemistry",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "advanced_chemistry",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "science"
+  },
+  {
+    "game_name": "Psychology Fundamentals",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "psychology_fundamentals",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Philosophy of Mind",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "philosophy_of_mind",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "philosophy"
+  },
+  {
+    "game_name": "Introduction to Sociology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "intro_sociology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "social sciences"
+  },
+  {
+    "game_name": "World Religions",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "world_religions",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "religion"
+  },
+  {
+    "game_name": "Political Science Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "political_science_basics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "social sciences"
+  },
+  {
+    "game_name": "Environmental Science",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "environmental_science",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "science"
+  },
+  {
+    "game_name": "Introduction to Marketing",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "intro_marketing",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "business"
+  },
+  {
+    "game_name": "Digital Marketing",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "digital_marketing",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "Management Theory",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "management_theory",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "Accounting Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "accounting_basics",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "business"
+  },
+  {
+    "game_name": "International Business",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "international_business",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "Corporate Finance",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "corporate_finance",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "business"
+  },
+  {
+    "game_name": "Introduction to Economics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "intro_economics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "economics"
+  },
+  {
+    "game_name": "Microeconomics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "microeconomics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "economics"
+  },
+  {
+    "game_name": "Macroeconomics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "macroeconomics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "economics"
+  },
+  {
+    "game_name": "Urban Studies",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "urban_studies",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "social sciences"
+  },
+  {
+    "game_name": "Music Theory Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "music_theory_basics",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "music"
+  },
+  {
+    "game_name": "History of Music",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "history_of_music",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "music"
+  },
+  {
+    "game_name": "Cultural Anthropology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cultural_anthropology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "anthropology"
+  },
+  {
+    "game_name": "Human Evolution",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "human_evolution",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "anthropology"
+  },
+  {
+    "game_name": "Linguistics Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "linguistics_basics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "linguistics"
+  },
+  {
+    "game_name": "Applied Linguistics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "applied_linguistics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "linguistics"
+  },
+  {
+    "game_name": "Neuroscience Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "neuroscience_basics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "science"
+  },
+  {
+    "game_name": "Cognitive Psychology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cognitive_psychology",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Forensic Science",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "forensic_science",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "science"
+  },
+  {
+    "game_name": "Criminology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "criminology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "social sciences"
+  },
+  {
+    "game_name": "Introduction to Law",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "intro_law",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "law"
+  },
+  {
+    "game_name": "Contract Law",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "contract_law",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "law"
+  },
+  {
+    "game_name": "Constitutional Law",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "constitutional_law",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "law"
+  },
+  {
+    "game_name": "Environmental Law",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "environmental_law",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "law"
+  },
+  {
+    "game_name": "Astronomy",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "astronomy",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "science"
+  },
+  {
+    "game_name": "Geology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "geology",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "science"
+  },
+  {
+    "game_name": "Oceanography",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "oceanography",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "science"
+  },
+  [
+  {
+    "game_name": "Quantum Physics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "quantum_physics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "science"
+  },
+  {
+    "game_name": "Astrophysics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "astrophysics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "science"
+  },
+  {
+    "game_name": "Genetics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "genetics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "biology"
+  },
+  {
+    "game_name": "Microbiology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "microbiology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "biology"
+  },
+  {
+    "game_name": "Organic Chemistry",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "organic_chemistry",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "science"
+  },
+  {
+    "game_name": "Statistics Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "statistics_basics",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "mathematics"
+  },
+  {
+    "game_name": "Calculus I",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "calculus_1",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "mathematics"
+  },
+  {
+    "game_name": "Linear Algebra",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "linear_algebra",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "mathematics"
+  },
+  {
+    "game_name": "Differential Equations",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "differential_equations",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "mathematics"
+  },
+  {
+    "game_name": "Statistics Advanced",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "statistics_advanced",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "mathematics"
+  },
+  {
+    "game_name": "Machine Learning Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "machine_learning_basics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Artificial Intelligence Fundamentals",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "ai_fundamentals",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Neural Networks",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "neural_networks",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Cloud Computing",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cloud_computing",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Blockchain Technology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "blockchain_technology",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Web Development Fundamentals",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "web_dev_fundamentals",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "web development"
+  },
+  {
+    "game_name": "Web Design Principles",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "web_design_principles",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "web development"
+  },
+  {
+    "game_name": "ReactJS Advanced",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "reactjs_advanced",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "web development"
+  },
+  {
+    "game_name": "PHP & MySQL",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "php_mysql",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "web development"
+  },
+  {
+    "game_name": "SQL Performance Tuning",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "sql_performance_tuning",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "database"
+  },
+  {
+    "game_name": "Big Data & Analytics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "big_data_analytics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Cybersecurity Fundamentals",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cybersecurity_fundamentals",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Ethical Hacking",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "ethical_hacking",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Database Design",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "database_design",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "database"
+  },
+  {
+    "game_name": "Software Engineering",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "software_engineering",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "programming"
+  },
+  {
+    "game_name": "Mobile App Development",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "mobile_app_development",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Game Development Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "game_dev_basics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Game Theory",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "game_theory",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "mathematics"
+  },
+  {
+    "game_name": "Introduction to Robotics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "intro_robotics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Robotics Engineering",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "robotics_engineering",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Philosophy of Science",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "philosophy_of_science",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "philosophy"
+  },
+  {
+    "game_name": "Sociology of Education",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "sociology_of_education",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "social sciences"
+  },
+  {
+    "game_name": "Public Health",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "public_health",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "health"
+  },
+  {
+    "game_name": "Pharmacology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "pharmacology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "health"
+  },
+  {
+    "game_name": "Veterinary Medicine",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "veterinary_medicine",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "health"
+  },
+  {
+    "game_name": "Environmental Sustainability",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "environmental_sustainability",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "environment"
+  },
+    [
+  {
+    "game_name": "Cognitive Psychology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cognitive_psychology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Behavioral Economics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "behavioral_economics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "economics"
+  },
+  {
+    "game_name": "Microeconomics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "microeconomics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "economics"
+  },
+  {
+    "game_name": "Macroeconomics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "macroeconomics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "economics"
+  },
+  {
+    "game_name": "Econometrics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "econometrics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "economics"
+  },
+  {
+    "game_name": "Finance Fundamentals",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "finance_fundamentals",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "finance"
+  },
+  {
+    "game_name": "Investment Strategies",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "investment_strategies",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "finance"
+  },
+  {
+    "game_name": "Financial Accounting",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "financial_accounting",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "finance"
+  },
+  {
+    "game_name": "Corporate Finance",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "corporate_finance",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "finance"
+  },
+  {
+    "game_name": "Taxation",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "taxation",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "finance"
+  },
+  {
+    "game_name": "Public Speaking",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "public_speaking",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "communication"
+  },
+  {
+    "game_name": "Nonverbal Communication",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "nonverbal_communication",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "communication"
+  },
+  {
+    "game_name": "Marketing Principles",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "marketing_principles",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "Advertising Strategies",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "advertising_strategies",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "Digital Marketing",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "digital_marketing",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "Business Ethics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "business_ethics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "Organizational Behavior",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "organizational_behavior",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "Entrepreneurship",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "entrepreneurship",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "International Relations",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "international_relations",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "political science"
+  },
+  {
+    "game_name": "Global Economics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "global_economics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "economics"
+  },
+  {
+    "game_name": "International Business",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "international_business",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "Supply Chain Management",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "supply_chain_management",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "Business Law",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "business_law",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "law"
+  },
+  {
+    "game_name": "Labor Relations",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "labor_relations",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "business"
+  },
+  {
+    "game_name": "Project Management Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "project_management_basics",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "business"
+  },
+  {
+    "game_name": "Advanced Project Management",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "advanced_project_management",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "business"
+  },
+  {
+    "game_name": "Psychological Testing",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "psychological_testing",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Clinical Psychology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "clinical_psychology",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Forensic Psychology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "forensic_psychology",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Theories of Personality",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "theories_of_personality",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Abnormal Psychology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "abnormal_psychology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Social Psychology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "social_psychology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Neuroscience",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "neuroscience",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "biology"
+  },
+  {
+    "game_name": "Cultural Anthropology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cultural_anthropology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "anthropology"
+  },
+  {
+    "game_name": "Archaeology Basics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "archaeology_basics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "anthropology"
+  },
+      [
+  {
+    "game_name": "Philosophy of Language",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "philosophy_of_language",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "philosophy"
+  },
+  {
+    "game_name": "Ethics & Morality",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "ethics_morality",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "philosophy"
+  },
+  {
+    "game_name": "Classical Mechanics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "classical_mechanics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "physics"
+  },
+  {
+    "game_name": "Fluid Mechanics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "fluid_mechanics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "physics"
+  },
+  {
+    "game_name": "Political Theory",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "political_theory",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "political science"
+  },
+  {
+    "game_name": "Public Administration",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "public_administration",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "political science"
+  },
+  {
+    "game_name": "Econometric Analysis",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "econometric_analysis",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "economics"
+  },
+  {
+    "game_name": "International Trade",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "international_trade",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "economics"
+  },
+  {
+    "game_name": "Economic History",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "economic_history",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "economics"
+  },
+  {
+    "game_name": "Mathematical Logic",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "mathematical_logic",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "mathematics"
+  },
+  {
+    "game_name": "Topology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "topology",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "mathematics"
+  },
+  {
+    "game_name": "Set Theory",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "set_theory",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "mathematics"
+  },
+  {
+    "game_name": "Advanced Geometry",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "advanced_geometry",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "mathematics"
+  },
+  {
+    "game_name": "Astronomical Instrumentation",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "astronomical_instrumentation",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "astronomy"
+  },
+  {
+    "game_name": "Geography of Earth",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "geography_of_earth",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "geography"
+  },
+  {
+    "game_name": "Geographical Information Systems (GIS)",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "gis",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "geography"
+  },
+  {
+    "game_name": "Tectonics and Earthquakes",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "tectonics_earthquakes",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "geology"
+  },
+  {
+    "game_name": "Meteorology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "meteorology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "science"
+  },
+  {
+    "game_name": "Climate Change",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "climate_change",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "environment"
+  },
+  {
+    "game_name": "Ocean Circulation",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "ocean_circulation",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "science"
+  },
+  {
+    "game_name": "Advanced Robotics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "advanced_robotics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Smart Cities and IoT",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "smart_cities_iot",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Advanced Data Analytics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "advanced_data_analytics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Artificial Intelligence Ethics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "ai_ethics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Cybersecurity Risk Management",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cybersecurity_risk_management",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Web Security",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "web_security",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Digital Forensics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "digital_forensics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Quantum Computing",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "quantum_computing",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Database Administration",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "database_administration",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Linux for Beginners",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "linux_for_beginners",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "technology"
+  },
+  {
+    "game_name": "Deep Learning",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "deep_learning",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "technology"
+  },
+  {
+    "game_name": "Advanced Statistics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "advanced_statistics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "mathematics"
+  },
+  {
+    "game_name": "Data Mining",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "data_mining",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  }
+        [
+  {
+    "game_name": "Data Visualization",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "data_visualization",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Computational Biology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "computational_biology",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "biology"
+  },
+  {
+    "game_name": "Genomic Data Analysis",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "genomic_data_analysis",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "biology"
+  },
+  {
+    "game_name": "Bioinformatics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "bioinformatics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "biology"
+  },
+  {
+    "game_name": "Theories of Learning",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "theories_of_learning",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Cognitive Development",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cognitive_development",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Child Psychology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "child_psychology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Neuroplasticity",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "neuroplasticity",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Behavioral Neuroscience",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "behavioral_neuroscience",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Social Psychology of Communication",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "social_psychology_communication",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Theories of Motivation",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "theories_of_motivation",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "psychology"
+  },
+  {
+    "game_name": "Ethics in Technology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "ethics_in_technology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "technology"
+  },
+  {
+    "game_name": "Computational Chemistry",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "computational_chemistry",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "chemistry"
+  },
+  {
+    "game_name": "Organic Synthesis",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "organic_synthesis",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "chemistry"
+  },
+  {
+    "game_name": "Advanced Organic Chemistry",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "advanced_organic_chemistry",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "chemistry"
+  },
+  {
+    "game_name": "Material Science",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "material_science",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "science"
+  },
+  {
+    "game_name": "Nanotechnology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "nanotechnology",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "science"
+  },
+  {
+    "game_name": "Climate Modeling",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "climate_modeling",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "science"
+  },
+  {
+    "game_name": "Geophysics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "geophysics",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "science"
+  },
+  {
+    "game_name": "Advanced Environmental Science",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "advanced_environmental_science",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "science"
+  },
+  {
+    "game_name": "Ecology and Conservation",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "ecology_conservation",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "environment"
+  },
+  {
+    "game_name": "Pollution and Sustainability",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "pollution_sustainability",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "environment"
+  },
+  {
+    "game_name": "Sustainable Energy Systems",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "sustainable_energy_systems",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "environment"
+  },
+  {
+    "game_name": "Environmental Toxicology",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "environmental_toxicology",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "science"
+  },
+  {
+    "game_name": "Environmental Impact Assessment",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "environmental_impact_assessment",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "environment"
+  },
+  {
+    "game_name": "Urban Planning and Development",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "urban_planning_development",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "social sciences"
+  },
+  {
+    "game_name": "Public Policy and Governance",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "public_policy_governance",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "political science"
+  },
+  {
+    "game_name": "Public Health Systems",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "public_health_systems",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "health"
+  },
+  {
+    "game_name": "Medical Ethics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "medical_ethics",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "health"
+  },
+  {
+    "game_name": "Mental Health Disorders",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "mental_health_disorders",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "health"
+  },
+  {
+    "game_name": "Pharmaceutical Chemistry",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "pharmaceutical_chemistry",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "health"
+  },
+  {
+    "game_name": "Biotechnology and Medicine",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "biotechnology_medicine",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "health"
+  }
+]
+
+
+    ===================================
+Cognitive Psychology (Medium, Psychology)
+
+Behavioral Economics (Medium, Economics)
+
+Microeconomics (Medium, Economics)
+
+Macroeconomics (Medium, Economics)
+
+Econometrics (Hard, Economics)
+
+Finance Fundamentals (Easy, Finance)
+
+Investment Strategies (Medium, Finance)
+
+Financial Accounting (Medium, Finance)
+
+Corporate Finance (Hard, Finance)
+
+Taxation (Medium, Finance)
+
+Public Speaking (Easy, Communication)
+
+Nonverbal Communication (Medium, Communication)
+
+Marketing Principles (Medium, Business)
+
+Advertising Strategies (Medium, Business)
+
+Digital Marketing (Medium, Business)
+
+Business Ethics (Medium, Business)
+
+Organizational Behavior (Medium, Business)
+
+Entrepreneurship (Medium, Business)
+
+International Relations (Medium, Political Science)
+
+Global Economics (Medium, Economics)
+
+International Business (Medium, Business)
+
+Supply Chain Management (Medium, Business)
+
+Business Law (Medium, Law)
+
+Labor Relations (Medium, Business)
+
+Project Management Basics (Easy, Business)
+
+Advanced Project Management (Hard, Business)
+
+Psychological Testing (Medium, Psychology)
+
+Clinical Psychology (Hard, Psychology)
+
+Forensic Psychology (Hard, Psychology)
+
+Theories of Personality (Medium, Psychology)
+
+Abnormal Psychology (Medium, Psychology)
+
+Social Psychology (Medium, Psychology)
+
+Neuroscience (Hard, Biology)
+
+Cultural Anthropology (Medium, Anthropology)
+
+Archaeology Basics (Medium, Anthropology)
+
+Quantum Physics (Hard, Science)
+
+Astrophysics (Hard, Science)
+
+Genetics (Medium, Biology)
+
+Microbiology (Medium, Biology)
+
+Organic Chemistry (Hard, Science)
+
+Statistics Basics (Easy, Mathematics)
+
+Calculus I (Medium, Mathematics)
+
+Linear Algebra (Medium, Mathematics)
+
+Differential Equations (Hard, Mathematics)
+
+Machine Learning Basics (Medium, Technology)
+
+Artificial Intelligence Fundamentals (Medium, Technology)
+
+Neural Networks (Hard, Technology)
+
+Cloud Computing (Medium, Technology)
+
+Blockchain Technology (Hard, Technology)
+
+Web Development Fundamentals (Easy, Web Development)
+
+Web Design Principles (Medium, Web Development)
+
+ReactJS Advanced (Hard, Web Development)
+
+PHP & MySQL (Medium, Web Development)
+
+SQL Performance Tuning (Hard, Database)
+
+Big Data & Analytics (Hard, Technology)
+
+Cybersecurity Fundamentals (Medium, Technology)
+
+Ethical Hacking (Hard, Technology)
+
+Database Design (Medium, Database)
+
+Software Engineering (Medium, Programming)
+
+Mobile App Development (Medium, Technology)
+
+Game Development Basics (Medium, Technology)
+
+Game Theory (Hard, Mathematics)
+
+Introduction to Robotics (Medium, Technology)
+
+Robotics Engineering (Hard, Technology)
+
+Philosophy of Science (Hard, Philosophy)
+
+Sociology of Education (Medium, Social Sciences)
+
+Public Health (Medium, Health)
+
+Pharmacology (Medium, Health)
+
+Veterinary Medicine (Hard, Health)
+
+Environmental Sustainability (Medium, Environment)
+
+Chemistry Basics (Easy, Science)
+
+Advanced Chemistry (Hard, Science)
+
+Psychology Fundamentals (Medium, Psychology)
+
+Philosophy of Mind (Hard, Philosophy)
+
+Introduction to Sociology (Medium, Social Sciences)
+
+World Religions (Medium, Religion)
+
+Political Science Basics (Medium, Social Sciences)
+
+Environmental Science (Medium, Science)
+
+Introduction to Marketing (Easy, Business)
+
+Digital Marketing (Medium, Business)
+
+Management Theory (Medium, Business)
+
+Accounting Basics (Easy, Business)
+
+International Business (Medium, Business)
+
+Corporate Finance (Hard, Business)
+
+Introduction to Economics (Medium, Economics)
+
+Microeconomics (Medium, Economics)
+
+Macroeconomics (Hard, Economics)
+
+Urban Studies (Medium, Social Sciences)
+
+Music Theory Basics (Easy, Music)
+
+History of Music (Medium, Music)
+
+Cultural Anthropology (Medium, Anthropology)
+
+Human Evolution (Hard, Anthropology)
+
+Linguistics Basics (Medium, Linguistics)
+
+Applied Linguistics (Hard, Linguistics)
+
+Neuroscience Basics (Medium, Science)
+
+Cognitive Psychology (Hard, Psychology)
+
+Forensic Science (Medium, Science)
+
+Criminology (Medium, Social Sciences)
+
+Introduction to Law (Easy, Law)
+
+Contract Law (Medium, Law)
+
+Constitutional Law (Hard, Law)
+
+Environmental Law (Medium, Law)
+
+Astronomy (Medium, Science)
+
+Geology (Easy, Science)
+
+Oceanography (Medium, Science)
