@@ -1,152 +1,152 @@
- [
-    {
-      "question": "Which ancient civilization is credited with creating the first known writing system, cuneiform?",
-      "options": ["Sumerians", "Babylonians", "Hittites", "Phoenicians"],
-      "answer": 0
-    },
-    {
-      "question": "Which ancient empire constructed the Royal Road for efficient communication?",
-      "options": ["Roman Empire", "Persian Empire", "Greek City-States", "Egyptian Empire"],
-      "answer": 1
-    },
-    {
-      "question": "The city of Carthage was originally founded by which group?",
-      "options": ["Romans", "Greeks", "Phoenicians", "Etruscans"],
-      "answer": 2
-    },
-    {
-      "question": "Which ancient structure was built as a tomb for Pharaoh Khufu?",
-      "options": ["Temple of Karnak", "Luxor Obelisk", "Step Pyramid", "Great Pyramid of Giza"],
-      "answer": 3
-    },
-    {
-      "question": "Which ancient civilization is associated with the Oracle of Delphi?",
-      "options": ["Greeks", "Romans", "Persians", "Egyptians"],
-      "answer": 0
-    },
-    {
-      "question": "Which Mesoamerican civilization is known for its hieroglyphic writing and calendar?",
-      "options": ["Inca", "Maya", "Olmec", "Aztec"],
-      "answer": 1
-    },
-    {
-      "question": "The Trojan War is described primarily in which ancient epic?",
-      "options": ["Epic of Gilgamesh", "Aeneid", "Mahabharata", "Iliad"],
-      "answer": 2
-    },
-    {
-      "question": "Which ancient civilization built the massive stone city of Tenochtitlán?",
-      "options": ["Olmec", "Maya", "Inca", "Aztec"],
-      "answer": 3
-    },
-    {
-      "question": "Stonehenge is believed to have been constructed by which ancient culture?",
-      "options": ["Druids", "Romans", "Greeks", "Phoenicians"],
-      "answer": 0
-    },
-    {
-      "question": "Which river was essential to the development of ancient Egypt?",
-      "options": ["Tigris", "Euphrates", "Indus", "Nile"],
-      "answer": 1
-    },
-    {
-      "question": "Which civilization is known for the large stone heads found on Easter Island?",
-      "options": ["Inca", "Maori", "Olmec", "Rapa Nui"],
-      "answer": 2
-    },
-    {
-      "question": "Which ancient empire created an early postal system across its vast territory?",
-      "options": ["Byzantine", "Roman", "Mongol", "Persian"],
-      "answer": 3
-    },
-    {
-      "question": "The ancient city of Petra is located in which modern-day country?",
-      "options": ["Jordan", "Egypt", "Israel", "Syria"],
-      "answer": 0
-    },
-    {
-      "question": "Which empire was ruled by powerful warrior-kings known as Pharaohs?",
-      "options": ["Akkadian", "Greek", "Roman", "Egyptian"],
-      "answer": 1
-    },
-    {
-      "question": "What was the writing material invented by the ancient Egyptians?",
-      "options": ["Clay tablets", "Vellum", "Papyrus", "Parchment"],
-      "answer": 2
-    },
-    {
-      "question": "Which ancient civilization built the citadel of Machu Picchu?",
-      "options": ["Olmec", "Maya", "Aztec", "Inca"],
-      "answer": 3
-    },
-    {
-      "question": "Which empire used quipus (knotted strings) for record keeping?",
-      "options": ["Inca", "Aztec", "Maya", "Olmec"],
-      "answer": 0
-    },
-    {
-      "question": "The ancient city of Babylon was located near which river?",
-      "options": ["Indus", "Nile", "Amazon", "Euphrates"],
-      "answer": 1
-    },
-    {
-      "question": "The Rosetta Stone was crucial for deciphering which writing system?",
-      "options": ["Cuneiform", "Phoenician", "Greek", "Hieroglyphics"],
-      "answer": 2
-    },
-    {
-      "question": "Which ancient civilization constructed the massive temple complex at Angkor Wat?",
-      "options": ["Persian", "Chinese", "Mongol", "Khmer"],
-      "answer": 3
-    },
-    {
-      "question": "Which ancient law code is one of the oldest known written legal systems?",
-      "options": ["Code of Hammurabi", "Twelve Tables", "Edicts of Ashoka", "Napoleonic Code"],
-      "answer": 0
-    },
-    {
-      "question": "Which civilization created the 'Forbidden City' as its imperial palace?",
-      "options": ["Chinese", "Ottoman", "Mughal", "Persian"],
-      "answer": 1
-    },
-    {
-      "question": "Which ancient people were famous for their purple dye and maritime trade?",
-      "options": ["Romans", "Greeks", "Phoenicians", "Persians"],
-      "answer": 2
-    },
-    {
-      "question": "Which ancient battle saw 300 Spartans resist the Persian army?",
-      "options": ["Marathon", "Salamis", "Plataea", "Thermopylae"],
-      "answer": 3
-    },
-    {
-      "question": "Which civilization created the first democratic government?",
-      "options": ["Athenians", "Spartans", "Romans", "Carthaginians"],
-      "answer": 0
-    },
-    {
-      "question": "The Hanging Gardens are traditionally associated with which city?",
-      "options": ["Memphis", "Persepolis", "Alexandria", "Babylon"],
-      "answer": 1
-    },
-    {
-      "question": "Which ancient civilization built large geoglyphs known as the Nazca Lines?",
-      "options": ["Moche", "Inca", "Aztec", "Nazca"],
-      "answer": 2
-    },
-    {
-      "question": "Which empire built Persepolis as a ceremonial capital?",
-      "options": ["Assyrian", "Egyptian", "Greek", "Persian"],
-      "answer": 3
-    },
-    {
-      "question": "Which ancient people developed the concept of zero?",
-      "options": ["Maya", "Egyptians", "Chinese", "Romans"],
-      "answer": 0
-    },
-    {
-      "question": "The Indus Valley Civilization was known for its advanced city planning, including what feature?",
-      "options": ["Hanging gardens", "Arched bridges", "Sewage systems", "Stone ziggurats"],
-      "answer": 1
-    }
-  ]
+[
+  {
+    "question": "Which ancient civilization is credited with creating the first known writing system, cuneiform?",
+    "options": ["Sumerians", "Babylonians", "Hittites", "Phoenicians"],
+    "answer": "Sumerians"
+  },
+  {
+    "question": "Which ancient empire constructed the Royal Road for efficient communication?",
+    "options": ["Roman Empire", "Persian Empire", "Greek City-States", "Egyptian Empire"],
+    "answer": "Persian Empire"
+  },
+  {
+    "question": "The city of Carthage was originally founded by which group?",
+    "options": ["Romans", "Greeks", "Phoenicians", "Etruscans"],
+    "answer": "Phoenicians"
+  },
+  {
+    "question": "Which ancient structure was built as a tomb for Pharaoh Khufu?",
+    "options": ["Temple of Karnak", "Luxor Obelisk", "Step Pyramid", "Great Pyramid of Giza"],
+    "answer": "Great Pyramid of Giza"
+  },
+  {
+    "question": "Which ancient civilization is associated with the Oracle of Delphi?",
+    "options": ["Greeks", "Romans", "Persians", "Egyptians"],
+    "answer": "Greeks"
+  },
+  {
+    "question": "Which Mesoamerican civilization is known for its hieroglyphic writing and calendar?",
+    "options": ["Inca", "Maya", "Olmec", "Aztec"],
+    "answer": "Maya"
+  },
+  {
+    "question": "The Trojan War is described primarily in which ancient epic?",
+    "options": ["Epic of Gilgamesh", "Aeneid", "Mahabharata", "Iliad"],
+    "answer": "Iliad"
+  },
+  {
+    "question": "Which ancient civilization built the massive stone city of Tenochtitlán?",
+    "options": ["Olmec", "Maya", "Inca", "Aztec"],
+    "answer": "Aztec"
+  },
+  {
+    "question": "Stonehenge is believed to have been constructed by which ancient culture?",
+    "options": ["Druids", "Romans", "Greeks", "Phoenicians"],
+    "answer": "Druids"
+  },
+  {
+    "question": "Which river was essential to the development of ancient Egypt?",
+    "options": ["Tigris", "Euphrates", "Indus", "Nile"],
+    "answer": "Nile"
+  },
+  {
+    "question": "Which civilization is known for the large stone heads found on Easter Island?",
+    "options": ["Inca", "Maori", "Olmec", "Rapa Nui"],
+    "answer": "Rapa Nui"
+  },
+  {
+    "question": "Which ancient empire created an early postal system across its vast territory?",
+    "options": ["Byzantine", "Roman", "Mongol", "Persian"],
+    "answer": "Persian"
+  },
+  {
+    "question": "The ancient city of Petra is located in which modern-day country?",
+    "options": ["Jordan", "Egypt", "Israel", "Syria"],
+    "answer": "Jordan"
+  },
+  {
+    "question": "Which empire was ruled by powerful warrior-kings known as Pharaohs?",
+    "options": ["Akkadian", "Greek", "Roman", "Egyptian"],
+    "answer": "Egyptian"
+  },
+  {
+    "question": "What was the writing material invented by the ancient Egyptians?",
+    "options": ["Clay tablets", "Vellum", "Papyrus", "Parchment"],
+    "answer": "Papyrus"
+  },
+  {
+    "question": "Which ancient civilization built the citadel of Machu Picchu?",
+    "options": ["Olmec", "Maya", "Aztec", "Inca"],
+    "answer": "Inca"
+  },
+  {
+    "question": "Which empire used quipus (knotted strings) for record keeping?",
+    "options": ["Inca", "Aztec", "Maya", "Olmec"],
+    "answer": "Inca"
+  },
+  {
+    "question": "The ancient city of Babylon was located near which river?",
+    "options": ["Indus", "Nile", "Amazon", "Euphrates"],
+    "answer": "Euphrates"
+  },
+  {
+    "question": "The Rosetta Stone was crucial for deciphering which writing system?",
+    "options": ["Cuneiform", "Phoenician", "Greek", "Hieroglyphics"],
+    "answer": "Hieroglyphics"
+  },
+  {
+    "question": "Which ancient civilization constructed the massive temple complex at Angkor Wat?",
+    "options": ["Persian", "Chinese", "Mongol", "Khmer"],
+    "answer": "Khmer"
+  },
+  {
+    "question": "Which ancient law code is one of the oldest known written legal systems?",
+    "options": ["Code of Hammurabi", "Twelve Tables", "Edicts of Ashoka", "Napoleonic Code"],
+    "answer": "Code of Hammurabi"
+  },
+  {
+    "question": "Which civilization created the 'Forbidden City' as its imperial palace?",
+    "options": ["Chinese", "Ottoman", "Mughal", "Persian"],
+    "answer": "Chinese"
+  },
+  {
+    "question": "Which ancient people were famous for their purple dye and maritime trade?",
+    "options": ["Romans", "Greeks", "Phoenicians", "Persians"],
+    "answer": "Phoenicians"
+  },
+  {
+    "question": "Which ancient battle saw 300 Spartans resist the Persian army?",
+    "options": ["Marathon", "Salamis", "Plataea", "Thermopylae"],
+    "answer": "Thermopylae"
+  },
+  {
+    "question": "Which civilization created the first democratic government?",
+    "options": ["Athenians", "Spartans", "Romans", "Carthaginians"],
+    "answer": "Athenians"
+  },
+  {
+    "question": "The Hanging Gardens are traditionally associated with which city?",
+    "options": ["Memphis", "Persepolis", "Alexandria", "Babylon"],
+    "answer": "Babylon"
+  },
+  {
+    "question": "Which ancient civilization built large geoglyphs known as the Nazca Lines?",
+    "options": ["Moche", "Inca", "Aztec", "Nazca"],
+    "answer": "Nazca"
+  },
+  {
+    "question": "Which empire built Persepolis as a ceremonial capital?",
+    "options": ["Assyrian", "Egyptian", "Greek", "Persian"],
+    "answer": "Persian"
+  },
+  {
+    "question": "Which ancient people developed the concept of zero?",
+    "options": ["Maya", "Egyptians", "Chinese", "Romans"],
+    "answer": "Maya"
+  },
+  {
+    "question": "The Indus Valley Civilization was known for its advanced city planning, including what feature?",
+    "options": ["Hanging gardens", "Arched bridges", "Sewage systems", "Stone ziggurats"],
+    "answer": "Sewage systems"
+  }
+]
