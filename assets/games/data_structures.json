@@ -1,302 +1,152 @@
 [
   {
     "question": "What is the time complexity of accessing an element in an array?",
-    "options": [
-      "O(1)",
-      "O(n)",
-      "O(log n)",
-      "O(n^2)"
-    ],
-    "answer": 0
+    "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+    "answer": "O(1)"
   },
   {
     "question": "Which of the following is not a type of linked list?",
-    "options": [
-      "Singly Linked List",
-      "Doubly Linked List",
-      "Circular Linked List",
-      "Queue Linked List"
-    ],
-    "answer": 3
+    "options": ["Singly Linked List", "Doubly Linked List", "Circular Linked List", "Queue Linked List"],
+    "answer": "Queue Linked List"
   },
   {
     "question": "In which type of data structure are elements added and removed from the same end?",
-    "options": [
-      "Stack",
-      "Queue",
-      "Tree",
-      "Linked List"
-    ],
-    "answer": 0
+    "options": ["Stack", "Queue", "Tree", "Linked List"],
+    "answer": "Stack"
   },
   {
     "question": "What is the primary advantage of a doubly linked list over a singly linked list?",
-    "options": [
-      "Allows traversal in both directions",
-      "Uses less memory",
-      "Does not require dynamic memory allocation",
-      "Easier to implement"
-    ],
-    "answer": 0
+    "options": ["Allows traversal in both directions", "Uses less memory", "Does not require dynamic memory allocation", "Easier to implement"],
+    "answer": "Allows traversal in both directions"
   },
   {
     "question": "Which data structure uses LIFO (Last In First Out) order?",
-    "options": [
-      "Stack",
-      "Queue",
-      "Tree",
-      "Graph"
-    ],
-    "answer": 0
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": "Stack"
   },
   {
     "question": "What is the worst-case time complexity of searching for an element in a balanced binary search tree?",
-    "options": [
-      "O(log n)",
-      "O(n)",
-      "O(n log n)",
-      "O(1)"
-    ],
-    "answer": 0
+    "options": ["O(log n)", "O(n)", "O(n log n)", "O(1)"],
+    "answer": "O(log n)"
   },
   {
     "question": "Which data structure is used for implementing recursion?",
-    "options": [
-      "Stack",
-      "Queue",
-      "Linked List",
-      "Array"
-    ],
-    "answer": 0
+    "options": ["Stack", "Queue", "Linked List", "Array"],
+    "answer": "Stack"
   },
   {
     "question": "Which of the following is not a type of tree?",
-    "options": [
-      "Binary Search Tree",
-      "AVL Tree",
-      "Trie",
-      "Queue Tree"
-    ],
-    "answer": 3
+    "options": ["Binary Search Tree", "AVL Tree", "Trie", "Queue Tree"],
+    "answer": "Queue Tree"
   },
   {
     "question": "What does the term 'heap' refer to in data structures?",
-    "options": [
-      "A complete binary tree with specific order properties",
-      "An unordered list of elements",
-      "A collection of sorted elements",
-      "A type of graph"
-    ],
-    "answer": 0
+    "options": ["A complete binary tree with specific order properties", "An unordered list of elements", "A collection of sorted elements", "A type of graph"],
+    "answer": "A complete binary tree with specific order properties"
   },
   {
     "question": "Which of the following sorting algorithms is not comparison-based?",
-    "options": [
-      "Quick Sort",
-      "Merge Sort",
-      "Heap Sort",
-      "Counting Sort"
-    ],
-    "answer": 3
+    "options": ["Quick Sort", "Merge Sort", "Heap Sort", "Counting Sort"],
+    "answer": "Counting Sort"
   },
   {
     "question": "What is the primary purpose of a hash table?",
-    "options": [
-      "Storing data in key-value pairs",
-      "Sorting elements",
-      "Searching for elements in O(log n)",
-      "Storing elements in a tree structure"
-    ],
-    "answer": 0
+    "options": ["Storing data in key-value pairs", "Sorting elements", "Searching for elements in O(log n)", "Storing elements in a tree structure"],
+    "answer": "Storing data in key-value pairs"
   },
   {
     "question": "Which of the following is true for a priority queue?",
-    "options": [
-      "It uses a heap-based structure to order elements",
-      "It follows a LIFO order",
-      "It always stores elements in sorted order",
-      "It is implemented using a hash table"
-    ],
-    "answer": 0
+    "options": ["It uses a heap-based structure to order elements", "It follows a LIFO order", "It always stores elements in sorted order", "It is implemented using a hash table"],
+    "answer": "It uses a heap-based structure to order elements"
   },
   {
     "question": "Which of the following is the most efficient way to implement a graph in terms of space complexity?",
-    "options": [
-      "Adjacency Matrix",
-      "Adjacency List",
-      "Edge List",
-      "Incidence Matrix"
-    ],
-    "answer": 1
+    "options": ["Adjacency Matrix", "Adjacency List", "Edge List", "Incidence Matrix"],
+    "answer": "Adjacency List"
   },
   {
     "question": "What is the time complexity of inserting an element into a heap?",
-    "options": [
-      "O(log n)",
-      "O(n)",
-      "O(n log n)",
-      "O(1)"
-    ],
-    "answer": 0
+    "options": ["O(log n)", "O(n)", "O(n log n)", "O(1)"],
+    "answer": "O(log n)"
   },
   {
     "question": "Which data structure is used to implement depth-first search (DFS)?",
-    "options": [
-      "Stack",
-      "Queue",
-      "Linked List",
-      "Array"
-    ],
-    "answer": 0
+    "options": ["Stack", "Queue", "Linked List", "Array"],
+    "answer": "Stack"
   },
   {
     "question": "Which of the following is a characteristic of a binary search tree (BST)?",
-    "options": [
-      "The left child is smaller than the parent",
-      "The right child is smaller than the parent",
-      "The parent is larger than both children",
-      "None of the above"
-    ],
-    "answer": 0
+    "options": ["The left child is smaller than the parent", "The right child is smaller than the parent", "The parent is larger than both children", "None of the above"],
+    "answer": "The left child is smaller than the parent"
   },
   {
     "question": "Which algorithm is used to find the shortest path in a weighted graph?",
-    "options": [
-      "Dijkstra's Algorithm",
-      "BFS (Breadth First Search)",
-      "Quick Sort",
-      "Binary Search"
-    ],
-    "answer": 0
+    "options": ["Dijkstra's Algorithm", "BFS (Breadth First Search)", "Quick Sort", "Binary Search"],
+    "answer": "Dijkstra's Algorithm"
   },
   {
     "question": "What is the time complexity of accessing an element in a hash table?",
-    "options": [
-      "O(1)",
-      "O(log n)",
-      "O(n)",
-      "O(n^2)"
-    ],
-    "answer": 0
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+    "answer": "O(1)"
   },
   {
     "question": "Which of the following operations is not constant time in a doubly linked list?",
-    "options": [
-      "Insertion at the head",
-      "Deletion from the head",
-      "Traversal",
-      "Insertion at the tail"
-    ],
-    "answer": 2
+    "options": ["Insertion at the head", "Deletion from the head", "Traversal", "Insertion at the tail"],
+    "answer": "Traversal"
   },
   {
     "question": "What is a circular linked list?",
-    "options": [
-      "A list where the last node points to the first node",
-      "A list that contains only even-indexed elements",
-      "A list with no head node",
-      "A list that automatically sorts elements"
-    ],
-    "answer": 0
+    "options": ["A list where the last node points to the first node", "A list that contains only even-indexed elements", "A list with no head node", "A list that automatically sorts elements"],
+    "answer": "A list where the last node points to the first node"
   },
   {
     "question": "In a binary heap, which property is always true for the parent node?",
-    "options": [
-      "It is greater than or equal to its children (max heap)",
-      "It is smaller than or equal to its children (min heap)",
-      "It is equal to its children",
-      "It is randomly ordered"
-    ],
-    "answer": 1
+    "options": ["It is greater than or equal to its children (max heap)", "It is smaller than or equal to its children (min heap)", "It is equal to its children", "It is randomly ordered"],
+    "answer": "It is smaller than or equal to its children (min heap)"
   },
   {
     "question": "Which of the following is not a type of graph traversal?",
-    "options": [
-      "In-order traversal",
-      "Pre-order traversal",
-      "Breadth-first search",
-      "Depth-first search"
-    ],
-    "answer": 0
+    "options": ["In-order traversal", "Pre-order traversal", "Breadth-first search", "Depth-first search"],
+    "answer": "In-order traversal"
   },
   {
     "question": "Which sorting algorithm has the best average time complexity?",
-    "options": [
-      "Merge Sort",
-      "Bubble Sort",
-      "Quick Sort",
-      "Insertion Sort"
-    ],
-    "answer": 2
+    "options": ["Merge Sort", "Bubble Sort", "Quick Sort", "Insertion Sort"],
+    "answer": "Quick Sort"
   },
   {
     "question": "What is the time complexity of deleting an element from a doubly linked list?",
-    "options": [
-      "O(1)",
-      "O(n)",
-      "O(log n)",
-      "O(n log n)"
-    ],
-    "answer": 0
+    "options": ["O(1)", "O(n)", "O(log n)", "O(n log n)"],
+    "answer": "O(1)"
   },
   {
     "question": "Which of the following operations is the most time-consuming in a hash table?",
-    "options": [
-      "Insertion",
-      "Search",
-      "Deletion",
-      "Collision resolution"
-    ],
-    "answer": 3
+    "options": ["Insertion", "Search", "Deletion", "Collision resolution"],
+    "answer": "Collision resolution"
   },
   {
     "question": "Which of the following is true for an AVL tree?",
-    "options": [
-      "It is a self-balancing binary search tree",
-      "It uses a heap structure",
-      "It stores elements in sorted order",
-      "It is used for breadth-first search"
-    ],
-    "answer": 0
+    "options": ["It is a self-balancing binary search tree", "It uses a heap structure", "It stores elements in sorted order", "It is used for breadth-first search"],
+    "answer": "It is a self-balancing binary search tree"
   },
   {
     "question": "In which data structure are elements accessed using keys?",
-    "options": [
-      "Hash Table",
-      "Stack",
-      "Queue",
-      "Linked List"
-    ],
-    "answer": 0
+    "options": ["Hash Table", "Stack", "Queue", "Linked List"],
+    "answer": "Hash Table"
   },
   {
     "question": "Which of the following is true about a queue?",
-    "options": [
-      "It follows FIFO (First In, First Out) order",
-      "It follows LIFO (Last In, First Out) order",
-      "It is used for depth-first search",
-      "It is implemented using a hash table"
-    ],
-    "answer": 0
+    "options": ["It follows FIFO (First In, First Out) order", "It follows LIFO (Last In, First Out) order", "It is used for depth-first search", "It is implemented using a hash table"],
+    "answer": "It follows FIFO (First In, First Out) order"
   },
   {
     "question": "What is the space complexity of storing a binary tree with 'n' nodes?",
-    "options": [
-      "O(n)",
-      "O(log n)",
-      "O(n^2)",
-      "O(1)"
-    ],
-    "answer": 0
+    "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+    "answer": "O(n)"
   },
   {
     "question": "Which type of data structure is used for implementing a breadth-first search (BFS)?",
-    "options": [
-      "Queue",
-      "Stack",
-      "Linked List",
-      "Array"
-    ],
-    "answer": 0
+    "options": ["Queue", "Stack", "Linked List", "Array"],
+    "answer": "Queue"
   }
 ]
