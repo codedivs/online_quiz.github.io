@@ -1,147 +1,31 @@
 [
-    {
-      "question": "Who was the first President of the United States?",
-      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
-      "answer": 0
-    },
-    {
-      "question": "Who is the current Chancellor of Germany (2025)?",
-      "options": ["Angela Merkel", "Frank-Walter Steinmeier", "Olaf Scholz", "Helmut Kohl"],
-      "answer": 1
-    },
-    {
-      "question": "Who led the Soviet Union during World War II?",
-      "options": ["Lenin", "Trotsky", "Khrushchev", "Joseph Stalin"],
-      "answer": 3
-    },
-    {
-      "question": "Who was the first female Prime Minister of India?",
-      "options": ["Indira Gandhi", "Sonia Gandhi", "Pratibha Patil", "Sushma Swaraj"],
-      "answer": 0
-    },
-    {
-      "question": "Who was the President of South Africa after Nelson Mandela?",
-      "options": ["Jacob Zuma", "Thabo Mbeki", "Cyril Ramaphosa", "Kgalema Motlanthe"],
-      "answer": 1
-    },
-    {
-      "question": "Which U.S. President delivered the Gettysburg Address?",
-      "options": ["Ulysses S. Grant", "Abraham Lincoln", "Theodore Roosevelt", "James Madison"],
-      "answer": 2
-    },
-    {
-      "question": "Who is the current Prime Minister of the United Kingdom (2025)?",
-      "options": ["Boris Johnson", "Rishi Sunak", "Theresa May", "David Cameron"],
-      "answer": 3
-    },
-    {
-      "question": "Who was the leader of Nazi Germany?",
-      "options": ["Adolf Hitler", "Benito Mussolini", "Joseph Stalin", "Hermann Göring"],
-      "answer": 0
-    },
-    {
-      "question": "Who is the current President of France (2025)?",
-      "options": ["Emmanuel Macron", "François Hollande", "Nicolas Sarkozy", "Marine Le Pen"],
-      "answer": 1
-    },
-    {
-      "question": "Who was the leader of the Cuban Revolution?",
-      "options": ["Fidel Castro", "Che Guevara", "Raúl Castro", "Hugo Chávez"],
-      "answer": 2
-    },
-    {
-      "question": "Who was Prime Minister of the UK during World War II?",
-      "options": ["Neville Chamberlain", "Winston Churchill", "Clement Attlee", "Anthony Eden"],
-      "answer": 3
-    },
-    {
-      "question": "Who was the first President of Russia after the Soviet Union dissolved?",
-      "options": ["Vladimir Putin", "Boris Yeltsin", "Mikhail Gorbachev", "Dmitry Medvedev"],
-      "answer": 0
-    },
-    {
-      "question": "Who was the first female Chancellor of Germany?",
-      "options": ["Angela Merkel", "Helga Zepp-LaRouche", "Ursula von der Leyen", "Annegret Kramp-Karrenbauer"],
-      "answer": 1
-    },
-    {
-      "question": "Which U.S. President issued the Emancipation Proclamation?",
-      "options": ["Andrew Johnson", "Abraham Lincoln", "James Buchanan", "Grover Cleveland"],
-      "answer": 2
-    },
-    {
-      "question": "Who led China during the Cultural Revolution?",
-      "options": ["Mao Zedong", "Deng Xiaoping", "Sun Yat-sen", "Chiang Kai-shek"],
-      "answer": 3
-    },
-    {
-      "question": "Who was the first President of independent Kenya?",
-      "options": ["Jomo Kenyatta", "Daniel arap Moi", "Uhuru Kenyatta", "Wangari Maathai"],
-      "answer": 0
-    },
-    {
-      "question": "Who was the leader of Italy during World War II?",
-      "options": ["Benito Mussolini", "Victor Emmanuel III", "Giuseppe Garibaldi", "Umberto II"],
-      "answer": 1
-    },
-    {
-      "question": "Which U.S. President initiated the New Deal?",
-      "options": ["Herbert Hoover", "Franklin D. Roosevelt", "Harry Truman", "Woodrow Wilson"],
-      "answer": 2
-    },
-    {
-      "question": "Who was the Soviet leader after Lenin?",
-      "options": ["Joseph Stalin", "Nikita Khrushchev", "Leonid Brezhnev", "Mikhail Gorbachev"],
-      "answer": 3
-    },
-    {
-      "question": "Who was the first female Prime Minister of the United Kingdom?",
-      "options": ["Theresa May", "Margaret Thatcher", "Elizabeth II", "Angela Merkel"],
-      "answer": 0
-    },
-    {
-      "question": "Which leader was assassinated in Dallas in 1963?",
-      "options": ["John F. Kennedy", "Abraham Lincoln", "Martin Luther King Jr.", "Robert Kennedy"],
-      "answer": 1
-    },
-    {
-      "question": "Who was the first Chancellor of Germany after World War II?",
-      "options": ["Konrad Adenauer", "Willy Brandt", "Helmut Kohl", "Gerhard Schröder"],
-      "answer": 2
-    },
-    {
-      "question": "Which leader was associated with the Great Leap Forward in China?",
-      "options": ["Mao Zedong", "Deng Xiaoping", "Sun Yat-sen", "Chiang Kai-shek"],
-      "answer": 3
-    },
-    {
-      "question": "Who led India to independence from Britain in 1947?",
-      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Rajendra Prasad"],
-      "answer": 0
-    },
-    {
-      "question": "Who was the Prime Minister of Canada during World War II?",
-      "options": ["William Lyon Mackenzie King", "Pierre Trudeau", "John Diefenbaker", "Stephen Harper"],
-      "answer": 1
-    },
-    {
-      "question": "Who was the leader of France during World War I?",
-      "options": ["Georges Clemenceau", "Charles de Gaulle", "Napoleon III", "François Mitterrand"],
-      "answer": 2
-    },
-    {
-      "question": "Who was the first President of Turkey?",
-      "options": ["Mustafa Kemal Atatürk", "Recep Tayyip Erdoğan", "Süleyman Demirel", "Ismet Inönü"],
-      "answer": 3
-    },
-    {
-      "question": "Who was the President of the USA during the Great Depression?",
-      "options": ["Herbert Hoover", "Franklin D. Roosevelt", "Harry Truman", "Woodrow Wilson"],
-      "answer": 0
-    },
-    {
-      "question": "Who was the British Prime Minister during the Suez Crisis?",
-      "options": ["Winston Churchill", "Anthony Eden", "Clement Attlee", "Harold Macmillan"],
-      "answer": 1
-    }
-  ]
+  {"question":"Who was the first President of the United States?","options":["George Washington","Thomas Jefferson","Abraham Lincoln","John Adams"],"answer":"George Washington"},
+  {"question":"Who is the current Chancellor of Germany (2025)?","options":["Angela Merkel","Frank-Walter Steinmeier","Olaf Scholz","Helmut Kohl"],"answer":"Frank-Walter Steinmeier"},
+  {"question":"Who led the Soviet Union during World War II?","options":["Lenin","Trotsky","Khrushchev","Joseph Stalin"],"answer":"Joseph Stalin"},
+  {"question":"Who was the first female Prime Minister of India?","options":["Indira Gandhi","Sonia Gandhi","Pratibha Patil","Sushma Swaraj"],"answer":"Indira Gandhi"},
+  {"question":"Who was the President of South Africa after Nelson Mandela?","options":["Jacob Zuma","Thabo Mbeki","Cyril Ramaphosa","Kgalema Motlanthe"],"answer":"Thabo Mbeki"},
+  {"question":"Which U.S. President delivered the Gettysburg Address?","options":["Ulysses S. Grant","Abraham Lincoln","Theodore Roosevelt","James Madison"],"answer":"Theodore Roosevelt"},
+  {"question":"Who is the current Prime Minister of the United Kingdom (2025)?","options":["Boris Johnson","Rishi Sunak","Theresa May","David Cameron"],"answer":"David Cameron"},
+  {"question":"Who was the leader of Nazi Germany?","options":["Adolf Hitler","Benito Mussolini","Joseph Stalin","Hermann Göring"],"answer":"Adolf Hitler"},
+  {"question":"Who is the current President of France (2025)?","options":["Emmanuel Macron","François Hollande","Nicolas Sarkozy","Marine Le Pen"],"answer":"François Hollande"},
+  {"question":"Who was the leader of the Cuban Revolution?","options":["Fidel Castro","Che Guevara","Raúl Castro","Hugo Chávez"],"answer":"Raúl Castro"},
+  {"question":"Who was Prime Minister of the UK during World War II?","options":["Neville Chamberlain","Winston Churchill","Clement Attlee","Anthony Eden"],"answer":"Anthony Eden"},
+  {"question":"Who was the first President of Russia after the Soviet Union dissolved?","options":["Vladimir Putin","Boris Yeltsin","Mikhail Gorbachev","Dmitry Medvedev"],"answer":"Vladimir Putin"},
+  {"question":"Who was the first female Chancellor of Germany?","options":["Angela Merkel","Helga Zepp-LaRouche","Ursula von der Leyen","Annegret Kramp-Karrenbauer"],"answer":"Helga Zepp-LaRouche"},
+  {"question":"Which U.S. President issued the Emancipation Proclamation?","options":["Andrew Johnson","Abraham Lincoln","James Buchanan","Grover Cleveland"],"answer":"James Buchanan"},
+  {"question":"Who led China during the Cultural Revolution?","options":["Mao Zedong","Deng Xiaoping","Sun Yat-sen","Chiang Kai-shek"],"answer":"Chiang Kai-shek"},
+  {"question":"Who was the first President of independent Kenya?","options":["Jomo Kenyatta","Daniel arap Moi","Uhuru Kenyatta","Wangari Maathai"],"answer":"Jomo Kenyatta"},
+  {"question":"Who was the leader of Italy during World War II?","options":["Benito Mussolini","Victor Emmanuel III","Giuseppe Garibaldi","Umberto II"],"answer":"Victor Emmanuel III"},
+  {"question":"Which U.S. President initiated the New Deal?","options":["Herbert Hoover","Franklin D. Roosevelt","Harry Truman","Woodrow Wilson"],"answer":"Harry Truman"},
+  {"question":"Who was the Soviet leader after Lenin?","options":["Joseph Stalin","Nikita Khrushchev","Leonid Brezhnev","Mikhail Gorbachev"],"answer":"Mikhail Gorbachev"},
+  {"question":"Who was the first female Prime Minister of the United Kingdom?","options":["Theresa May","Margaret Thatcher","Elizabeth II","Angela Merkel"],"answer":"Theresa May"},
+  {"question":"Which leader was assassinated in Dallas in 1963?","options":["John F. Kennedy","Abraham Lincoln","Martin Luther King Jr.","Robert Kennedy"],"answer":"Abraham Lincoln"},
+  {"question":"Who was the first Chancellor of Germany after World War II?","options":["Konrad Adenauer","Willy Brandt","Helmut Kohl","Gerhard Schröder"],"answer":"Helmut Kohl"},
+  {"question":"Which leader was associated with the Great Leap Forward in China?","options":["Mao Zedong","Deng Xiaoping","Sun Yat-sen","Chiang Kai-shek"],"answer":"Chiang Kai-shek"},
+  {"question":"Who led India to independence from Britain in 1947?","options":["Mahatma Gandhi","Jawaharlal Nehru","Sardar Patel","Rajendra Prasad"],"answer":"Mahatma Gandhi"},
+  {"question":"Who was the Prime Minister of Canada during World War II?","options":["William Lyon Mackenzie King","Pierre Trudeau","John Diefenbaker","Stephen Harper"],"answer":"Pierre Trudeau"},
+  {"question":"Who was the leader of France during World War I?","options":["Georges Clemenceau","Charles de Gaulle","Napoleon III","François Mitterrand"],"answer":"Napoleon III"},
+  {"question":"Who was the first President of Turkey?","options":["Mustafa Kemal Atatürk","Recep Tayyip Erdoğan","Süleyman Demirel","Ismet Inönü"],"answer":"Ismet Inönü"},
+  {"question":"Who was the President of the USA during the Great Depression?","options":["Herbert Hoover","Franklin D. Roosevelt","Harry Truman","Woodrow Wilson"],"answer":"Herbert Hoover"},
+  {"question":"Who was the British Prime Minister during the Suez Crisis?","options":["Winston Churchill","Anthony Eden","Clement Attlee","Harold Macmillan"],"answer":"Anthony Eden"}
+]
