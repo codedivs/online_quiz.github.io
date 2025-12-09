@@ -1,152 +1,152 @@
 [
-    {
-      "question": "Who wrote 'Pride and Prejudice'?",
-      "options": ["Jane Austen", "Charlotte Brontë", "Emily Dickinson", "Mary Shelley"],
-      "answer": 0
-    },
-    {
-      "question": "Who is the author of 'Moby Dick'?",
-      "options": ["Herman Melville", "Mark Twain", "Nathaniel Hawthorne", "Edgar Allan Poe"],
-      "answer": 1
-    },
-    {
-      "question": "Who wrote 'Hamlet'?",
-      "options": ["William Shakespeare", "Christopher Marlowe", "John Milton", "Ben Jonson"],
-      "answer": 2
-    },
-    {
-      "question": "Who wrote 'War and Peace'?",
-      "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov", "Ivan Turgenev"],
-      "answer": 3
-    },
-    {
-      "question": "Who is the author of 'Great Expectations'?",
-      "options": ["Charles Dickens", "Thomas Hardy", "George Eliot", "William Thackeray"],
-      "answer": 0
-    },
-    {
-      "question": "Who wrote 'Crime and Punishment'?",
-      "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Ivan Turgenev", "Anton Chekhov"],
-      "answer": 1
-    },
-    {
-      "question": "Who is the author of 'Wuthering Heights'?",
-      "options": ["Emily Brontë", "Charlotte Brontë", "Anne Brontë", "Jane Austen"],
-      "answer": 2
-    },
-    {
-      "question": "Who wrote 'The Odyssey'?",
-      "options": ["Homer", "Virgil", "Sophocles", "Euripides"],
-      "answer": 3
-    },
-    {
-      "question": "Who wrote 'Frankenstein'?",
-      "options": ["Mary Shelley", "Jane Austen", "Charlotte Brontë", "Emily Dickinson"],
-      "answer": 0
-    },
-    {
-      "question": "Who is the author of 'The Great Gatsby'?",
-      "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "William Faulkner"],
-      "answer": 1
-    },
-    {
-      "question": "Who wrote 'Anna Karenina'?",
-      "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Ivan Turgenev", "Anton Chekhov"],
-      "answer": 2
-    },
-    {
-      "question": "Who is the author of 'To the Lighthouse'?",
-      "options": ["Virginia Woolf", "James Joyce", "E. M. Forster", "D. H. Lawrence"],
-      "answer": 3
-    },
-    {
-      "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
-      "options": ["Mark Twain", "Herman Melville", "Nathaniel Hawthorne", "Edgar Allan Poe"],
-      "answer": 0
-    },
-    {
-      "question": "Who wrote 'Don Quixote'?",
-      "options": ["Miguel de Cervantes", "Lope de Vega", "Federico García Lorca", "Jorge Luis Borges"],
-      "answer": 1
-    },
-    {
-      "question": "Who wrote 'Les Misérables'?",
-      "options": ["Victor Hugo", "Gustave Flaubert", "Alexandre Dumas", "Émile Zola"],
-      "answer": 2
-    },
-    {
-      "question": "Who is the author of 'Jane Eyre'?",
-      "options": ["Charlotte Brontë", "Emily Brontë", "Anne Brontë", "Elizabeth Gaskell"],
-      "answer": 3
-    },
-    {
-      "question": "Who wrote 'Madame Bovary'?",
-      "options": ["Gustave Flaubert", "Victor Hugo", "Émile Zola", "Honoré de Balzac"],
-      "answer": 0
-    },
-    {
-      "question": "Who wrote 'The Divine Comedy'?",
-      "options": ["Dante Alighieri", "Geoffrey Chaucer", "John Milton", "Homer"],
-      "answer": 1
-    },
-    {
-      "question": "Who is the author of 'Great Expectations'?",
-      "options": ["Charles Dickens", "Thomas Hardy", "George Eliot", "William Thackeray"],
-      "answer": 2
-    },
-    {
-      "question": "Who wrote 'Paradise Lost'?",
-      "options": ["John Milton", "William Shakespeare", "Edmund Spenser", "Geoffrey Chaucer"],
-      "answer": 3
-    },
-    {
-      "question": "Who wrote 'The Scarlet Letter'?",
-      "options": ["Nathaniel Hawthorne", "Herman Melville", "Edgar Allan Poe", "Mark Twain"],
-      "answer": 0
-    },
-    {
-      "question": "Who wrote 'Dracula'?",
-      "options": ["Bram Stoker", "Mary Shelley", "Robert Louis Stevenson", "H. G. Wells"],
-      "answer": 1
-    },
-    {
-      "question": "Who is the author of 'Oliver Twist'?",
-      "options": ["Charles Dickens", "William Thackeray", "Thomas Hardy", "George Eliot"],
-      "answer": 2
-    },
-    {
-      "question": "Who wrote 'A Tale of Two Cities'?",
-      "options": ["Charles Dickens", "Leo Tolstoy", "Victor Hugo", "Mark Twain"],
-      "answer": 3
-    },
-    {
-      "question": "Who is the author of 'The Iliad'?",
-      "options": ["Homer", "Virgil", "Sophocles", "Euripides"],
-      "answer": 0
-    },
-    {
-      "question": "Who wrote 'Heart of Darkness'?",
-      "options": ["Joseph Conrad", "William Golding", "Herman Melville", "George Eliot"],
-      "answer": 1
-    },
-    {
-      "question": "Who wrote 'The Picture of Dorian Gray'?",
-      "options": ["Oscar Wilde", "James Joyce", "George Bernard Shaw", "H. G. Wells"],
-      "answer": 2
-    },
-    {
-      "question": "Who wrote 'Crime and Punishment'?",
-      "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Ivan Turgenev"],
-      "answer": 3
-    },
-    {
-      "question": "Who wrote 'The Brothers Karamazov'?",
-      "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Ivan Turgenev", "Anton Chekhov"],
-      "answer": 0
-    },
-    {
-      "question": "Who is the author of 'Dr. Jekyll and Mr. Hyde'?",
-      "options": ["Robert Louis Stevenson", "Bram Stoker", "H. G. Wells", "Mary Shelley"],
-      "answer": 1
-    }
-  ]
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": ["Jane Austen", "Charlotte Brontë", "Emily Dickinson", "Mary Shelley"],
+    "answer": "Jane Austen"
+  },
+  {
+    "question": "Who is the author of 'Moby Dick'?",
+    "options": ["Herman Melville", "Mark Twain", "Nathaniel Hawthorne", "Edgar Allan Poe"],
+    "answer": "Herman Melville"
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["William Shakespeare", "Christopher Marlowe", "John Milton", "Ben Jonson"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Who wrote 'War and Peace'?",
+    "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov", "Ivan Turgenev"],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "question": "Who is the author of 'Great Expectations'?",
+    "options": ["Charles Dickens", "Thomas Hardy", "George Eliot", "William Thackeray"],
+    "answer": "Charles Dickens"
+  },
+  {
+    "question": "Who wrote 'Crime and Punishment'?",
+    "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Ivan Turgenev", "Anton Chekhov"],
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "question": "Who is the author of 'Wuthering Heights'?",
+    "options": ["Emily Brontë", "Charlotte Brontë", "Anne Brontë", "Jane Austen"],
+    "answer": "Emily Brontë"
+  },
+  {
+    "question": "Who wrote 'The Odyssey'?",
+    "options": ["Homer", "Virgil", "Sophocles", "Euripides"],
+    "answer": "Homer"
+  },
+  {
+    "question": "Who wrote 'Frankenstein'?",
+    "options": ["Mary Shelley", "Jane Austen", "Charlotte Brontë", "Emily Dickinson"],
+    "answer": "Mary Shelley"
+  },
+  {
+    "question": "Who is the author of 'The Great Gatsby'?",
+    "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "William Faulkner"],
+    "answer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Who wrote 'Anna Karenina'?",
+    "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Ivan Turgenev", "Anton Chekhov"],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "question": "Who is the author of 'To the Lighthouse'?",
+    "options": ["Virginia Woolf", "James Joyce", "E. M. Forster", "D. H. Lawrence"],
+    "answer": "Virginia Woolf"
+  },
+  {
+    "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+    "options": ["Mark Twain", "Herman Melville", "Nathaniel Hawthorne", "Edgar Allan Poe"],
+    "answer": "Mark Twain"
+  },
+  {
+    "question": "Who wrote 'Don Quixote'?",
+    "options": ["Miguel de Cervantes", "Lope de Vega", "Federico García Lorca", "Jorge Luis Borges"],
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "question": "Who wrote 'Les Misérables'?",
+    "options": ["Victor Hugo", "Gustave Flaubert", "Alexandre Dumas", "Émile Zola"],
+    "answer": "Victor Hugo"
+  },
+  {
+    "question": "Who is the author of 'Jane Eyre'?",
+    "options": ["Charlotte Brontë", "Emily Brontë", "Anne Brontë", "Elizabeth Gaskell"],
+    "answer": "Charlotte Brontë"
+  },
+  {
+    "question": "Who wrote 'Madame Bovary'?",
+    "options": ["Gustave Flaubert", "Victor Hugo", "Émile Zola", "Honoré de Balzac"],
+    "answer": "Gustave Flaubert"
+  },
+  {
+    "question": "Who wrote 'The Divine Comedy'?",
+    "options": ["Dante Alighieri", "Geoffrey Chaucer", "John Milton", "Homer"],
+    "answer": "Dante Alighieri"
+  },
+  {
+    "question": "Who is the author of 'Great Expectations'?",
+    "options": ["Charles Dickens", "Thomas Hardy", "George Eliot", "William Thackeray"],
+    "answer": "Charles Dickens"
+  },
+  {
+    "question": "Who wrote 'Paradise Lost'?",
+    "options": ["John Milton", "William Shakespeare", "Edmund Spenser", "Geoffrey Chaucer"],
+    "answer": "John Milton"
+  },
+  {
+    "question": "Who wrote 'The Scarlet Letter'?",
+    "options": ["Nathaniel Hawthorne", "Herman Melville", "Edgar Allan Poe", "Mark Twain"],
+    "answer": "Nathaniel Hawthorne"
+  },
+  {
+    "question": "Who wrote 'Dracula'?",
+    "options": ["Bram Stoker", "Mary Shelley", "Robert Louis Stevenson", "H. G. Wells"],
+    "answer": "Bram Stoker"
+  },
+  {
+    "question": "Who is the author of 'Oliver Twist'?",
+    "options": ["Charles Dickens", "William Thackeray", "Thomas Hardy", "George Eliot"],
+    "answer": "Charles Dickens"
+  },
+  {
+    "question": "Who wrote 'A Tale of Two Cities'?",
+    "options": ["Charles Dickens", "Leo Tolstoy", "Victor Hugo", "Mark Twain"],
+    "answer": "Charles Dickens"
+  },
+  {
+    "question": "Who is the author of 'The Iliad'?",
+    "options": ["Homer", "Virgil", "Sophocles", "Euripides"],
+    "answer": "Homer"
+  },
+  {
+    "question": "Who wrote 'Heart of Darkness'?",
+    "options": ["Joseph Conrad", "William Golding", "Herman Melville", "George Eliot"],
+    "answer": "Joseph Conrad"
+  },
+  {
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "options": ["Oscar Wilde", "James Joyce", "George Bernard Shaw", "H. G. Wells"],
+    "answer": "Oscar Wilde"
+  },
+  {
+    "question": "Who wrote 'Crime and Punishment'?",
+    "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Ivan Turgenev"],
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "question": "Who wrote 'The Brothers Karamazov'?",
+    "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Ivan Turgenev", "Anton Chekhov"],
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "question": "Who is the author of 'Dr. Jekyll and Mr. Hyde'?",
+    "options": ["Robert Louis Stevenson", "Bram Stoker", "H. G. Wells", "Mary Shelley"],
+    "answer": "Robert Louis Stevenson"
+  }
+]
