@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "NaCl"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which subatomic particle carries a negative charge?",
+    "options": ["Proton", "Neutron", "Electron", "Positron"],
+    "answer": "Electron"
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "options": ["O", "Ox", "O2", "O3"],
+    "answer": "O"
+  },
+  {
+    "question": "What is the smallest unit of matter?",
+    "options": ["Atom", "Molecule", "Cell", "Compound"],
+    "answer": "Atom"
+  },
+  {
+    "question": "Which element is necessary for combustion?",
+    "options": ["Nitrogen", "Oxygen", "Helium", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Table salt is chemically known as what?",
+    "options": ["HCl", "NaCl", "KCl", "CaCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "question": "Which state of matter has a definite shape and volume?",
+    "options": ["Solid", "Liquid", "Gas", "Plasma"],
+    "answer": "Solid"
+  },
+  {
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the center of an atom called?",
+    "options": ["Shell", "Electron Cloud", "Nucleus", "Proton"],
+    "answer": "Nucleus"
+  },
+  {
+    "question": "Which element is represented by the symbol 'C'?",
+    "options": ["Calcium", "Carbon", "Chlorine", "Copper"],
+    "answer": "Carbon"
+  },
+  {
+    "question": "What type of charge does a proton have?",
+    "options": ["Positive", "Negative", "Neutral", "Variable"],
+    "answer": "Positive"
+  },
+  {
+    "question": "Which element is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Nitrogen"
+  }
+]
