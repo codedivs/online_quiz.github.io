@@ -7,7 +7,7 @@
       "regexp",
       "regexpy"
     ],
-    "answer": 1
+    "answer": "re"
   },
   {
     "question": "What is the purpose of the `yield` keyword in Python?",
@@ -17,7 +17,7 @@
       "It is used to pause a function",
       "It is used to define a constant"
     ],
-    "answer": 0
+    "answer": "It is used to create a generator function"
   },
   {
     "question": "Which function can be used to read a file line by line in Python?",
@@ -27,7 +27,7 @@
       "line()",
       "file()"
     ],
-    "answer": 0
+    "answer": "readlines()"
   },
   {
     "question": "What is the correct syntax for defining a lambda function in Python?",
@@ -37,7 +37,7 @@
       "def lambda x: x + 1",
       "lambda x => x + 1"
     ],
-    "answer": 0
+    "answer": "lambda x: x + 1"
   },
   {
     "question": "What is the difference between `deepcopy()` and `copy()` in Python?",
@@ -47,7 +47,7 @@
       "`copy()` creates a new object, `deepcopy()` does not",
       "There is no difference"
     ],
-    "answer": 1
+    "answer": "`deepcopy()` creates a new object with a recursive copy of all nested objects, `copy()` only copies the outer object"
   },
   {
     "question": "Which of the following methods is used to add an element to the end of a list?",
@@ -57,7 +57,7 @@
       "extend()",
       "add()"
     ],
-    "answer": 0
+    "answer": "append()"
   },
   {
     "question": "What is the output of `print('Hello'.upper())` in Python?",
@@ -67,7 +67,7 @@
       "'Hello'",
       "Error"
     ],
-    "answer": 0
+    "answer": "'HELLO'"
   },
   {
     "question": "Which Python function is used to convert a string to an integer?",
@@ -77,7 +77,7 @@
       "float()",
       "convert()"
     ],
-    "answer": 0
+    "answer": "int()"
   },
   {
     "question": "How do you handle exceptions in Python?",
@@ -87,7 +87,7 @@
       "try/catch",
       "finally/except"
     ],
-    "answer": 0
+    "answer": "try/except"
   },
   {
     "question": "Which of the following is true about Python dictionaries?",
@@ -97,7 +97,7 @@
       "Dictionaries only allow integer keys",
       "Dictionaries can have duplicate keys"
     ],
-    "answer": 0
+    "answer": "Dictionaries are unordered collections"
   },
   {
     "question": "Which method is used to remove an item from a Python list?",
@@ -107,7 +107,7 @@
       "pop()",
       "All of the above"
     ],
-    "answer": 3
+    "answer": "All of the above"
   },
   {
     "question": "What is the purpose of the `__init__` method in Python?",
@@ -117,7 +117,7 @@
       "It initializes the class",
       "It is used for exception handling"
     ],
-    "answer": 0
+    "answer": "It initializes a new class instance"
   },
   {
     "question": "Which of the following is a Python iterator?",
@@ -127,7 +127,7 @@
       "String",
       "Tuple"
     ],
-    "answer": 0
+    "answer": "Range object"
   },
   {
     "question": "How do you declare a global variable in Python?",
@@ -137,7 +137,7 @@
       "declare x",
       "None of the above"
     ],
-    "answer": 0
+    "answer": "global x"
   },
   {
     "question": "Which of the following is the correct way to define a class in Python?",
@@ -147,7 +147,7 @@
       "MyClass class:",
       "def MyClass:"
     ],
-    "answer": 0
+    "answer": "class MyClass:"
   },
   {
     "question": "What does the `@staticmethod` decorator do in Python?",
@@ -157,7 +157,7 @@
       "It defines a method that doesn't access the class or instance",
       "It defines a method that is executed asynchronously"
     ],
-    "answer": 2
+    "answer": "It defines a method that doesn't access the class or instance"
   },
   {
     "question": "What is the output of `print([1, 2, 3] * 2)` in Python?",
@@ -167,7 +167,7 @@
       "[1, 2, 3, 1, 2]",
       "Error"
     ],
-    "answer": 0
+    "answer": "[1, 2, 3, 1, 2, 3]"
   },
   {
     "question": "How do you define a private method in Python?",
@@ -177,7 +177,7 @@
       "By using a private keyword",
       "Python does not support private methods"
     ],
-    "answer": 0
+    "answer": "By using two underscores before the method name"
   },
   {
     "question": "What is the `zip()` function used for in Python?",
@@ -187,7 +187,7 @@
       "It zips a list into another list",
       "It is used to compress files"
     ],
-    "answer": 0
+    "answer": "It merges two or more iterables"
   },
   {
     "question": "Which method is used to sort a list in Python?",
@@ -197,7 +197,7 @@
       "order()",
       "arrange()"
     ],
-    "answer": 0
+    "answer": "sort()"
   },
   {
     "question": "How do you check if a variable is of type integer in Python?",
@@ -207,7 +207,7 @@
       "variable.is_int()",
       "type(variable) == 'int'"
     ],
-    "answer": 0
+    "answer": "isinstance(variable, int)"
   },
   {
     "question": "Which function is used to check the length of a list in Python?",
@@ -217,7 +217,7 @@
       "len()",
       "count()"
     ],
-    "answer": 2
+    "answer": "len()"
   },
   {
     "question": "What is the output of `print(2 ** 3)` in Python?",
@@ -227,7 +227,7 @@
       "9",
       "Error"
     ],
-    "answer": 1
+    "answer": "8"
   },
   {
     "question": "What is the default value of the `end` parameter in the `print()` function?",
@@ -237,7 +237,7 @@
       "' '",
       "None"
     ],
-    "answer": 0
+    "answer": "'\n'"
   },
   {
     "question": "Which of the following is true about the `__str__()` method in Python?",
@@ -247,6 +247,6 @@
       "It is used to compare two objects",
       "It is used for inheritance"
     ],
-    "answer": 0
+    "answer": "It is used to return a string representation of the object"
   }
 ]
