@@ -2,206 +2,206 @@
   {
     "question": "Which command is used to install Node.js packages?",
     "options": ["npm install", "node install", "npm init", "node init"],
-    "answer": 0
+    "answer": "npm install"
   },
   {
     "question": "What does npm stand for?",
     "options": ["Node Package Manager", "Node Process Manager", "Network Package Manager", "New Package Manager"],
-    "answer": 0
+    "answer": "Node Package Manager"
   },
   {
     "question": "Which module is used to create a basic HTTP server in Node.js?",
     "options": ["http", "express", "url", "fs"],
-    "answer": 0
+    "answer": "http"
   },
   {
     "question": "How do you import a module in Node.js?",
     "options": ["import module from 'module'", "require('module')", "import 'module'", "use 'module'"],
-    "answer": 1
+    "answer": "require('module')"
   },
   {
     "question": "Which method is used to read a file asynchronously in Node.js?",
     "options": ["fs.readFileSync()", "fs.readFile()", "fs.open()", "fs.createReadStream()"],
-    "answer": 1
+    "answer": "fs.readFile()"
   },
   {
     "question": "What is the function of `process.env` in Node.js?",
     "options": ["To store environment variables", "To process data", "To manage files", "To handle errors"],
-    "answer": 0
+    "answer": "To store environment variables"
   },
   {
     "question": "Which of the following is used to handle HTTP requests and responses more easily in Node.js?",
     "options": ["express", "http", "axios", "url"],
-    "answer": 0
+    "answer": "express"
   },
   {
     "question": "Which function in Node.js allows you to run JavaScript asynchronously?",
     "options": ["setTimeout()", "setInterval()", "Promise", "process.nextTick()"],
-    "answer": 2
+    "answer": "Promise"
   },
   {
     "question": "How do you handle errors in Node.js?",
     "options": ["Using try-catch blocks", "Using error-first callback", "Using async-await", "All of the above"],
-    "answer": 3
+    "answer": "All of the above"
   },
   {
     "question": "What is the default port for a basic HTTP server in Node.js?",
     "options": ["8080", "3000", "80", "5000"],
-    "answer": 2
+    "answer": "80"
   },
   {
     "question": "Which of the following is used to create a new directory in Node.js?",
     "options": ["fs.mkdir()", "fs.writeFile()", "fs.createFile()", "fs.readFile()"],
-    "answer": 0
+    "answer": "fs.mkdir()"
   },
   {
     "question": "Which method is used to send HTTP responses in Node.js?",
     "options": ["res.send()", "res.write()", "response.send()", "response.write()"],
-    "answer": 0
+    "answer": "res.send()"
   },
   {
     "question": "What is the role of `callback` functions in Node.js?",
     "options": ["To handle asynchronous tasks", "To handle HTTP requests", "To create new files", "To write to a database"],
-    "answer": 0
+    "answer": "To handle asynchronous tasks"
   },
   {
     "question": "Which module is used for working with file systems in Node.js?",
     "options": ["fs", "url", "http", "path"],
-    "answer": 0
+    "answer": "fs"
   },
   {
     "question": "How do you create a basic HTTP server in Node.js?",
     "options": ["http.createServer()", "http.create()", "node.createServer()", "fs.createServer()"],
-    "answer": 0
+    "answer": "http.createServer()"
   },
   {
     "question": "Which method is used to parse JSON in Node.js?",
     "options": ["JSON.parse()", "parse.json()", "JSON.stringify()", "parseJson()"],
-    "answer": 0
+    "answer": "JSON.parse()"
   },
   {
     "question": "What does the `__dirname` variable represent in Node.js?",
     "options": ["The absolute path of the current directory", "The name of the directory", "The current file name", "The base URL"],
-    "answer": 0
+    "answer": "The absolute path of the current directory"
   },
   {
     "question": "How do you install a package globally in Node.js?",
     "options": ["npm install -g package-name", "npm install package-name -g", "npm global install package-name", "npm install package-name --global"],
-    "answer": 0
+    "answer": "npm install -g package-name"
   },
   {
     "question": "Which Node.js module is used to create child processes?",
     "options": ["child_process", "http", "fs", "os"],
-    "answer": 0
+    "answer": "child_process"
   },
   {
     "question": "Which of the following commands is used to initialize a Node.js project?",
     "options": ["npm init", "npm install", "node init", "node create"],
-    "answer": 0
+    "answer": "npm init"
   },
   {
     "question": "What does `process.exit()` do in Node.js?",
     "options": ["Exits the Node.js process", "Creates a new process", "Pauses the process", "Stops the server"],
-    "answer": 0
+    "answer": "Exits the Node.js process"
   },
   {
     "question": "Which method is used to append data to a file in Node.js?",
     "options": ["fs.appendFile()", "fs.writeFile()", "fs.append()", "fs.addFile()"],
-    "answer": 0
+    "answer": "fs.appendFile()"
   },
   {
     "question": "Which of the following is used to handle HTTP requests and responses in a RESTful API in Node.js?",
     "options": ["Express", "url", "axios", "path"],
-    "answer": 0
+    "answer": "Express"
   },
   {
     "question": "Which method is used to send HTTP requests in Node.js?",
     "options": ["http.request()", "http.get()", "axios.request()", "fetch()"],
-    "answer": 0
+    "answer": "http.request()"
   },
   {
     "question": "How do you create a module in Node.js?",
     "options": ["By using `module.exports`", "By using `require()`", "By using `exports()`", "By using `module.create()`"],
-    "answer": 0
+    "answer": "By using `module.exports`"
   },
   {
     "question": "What does the `path` module in Node.js do?",
     "options": ["Handles file and directory paths", "Handles HTTP requests", "Handles URL parsing", "Handles routing"],
-    "answer": 0
+    "answer": "Handles file and directory paths"
   },
   {
     "question": "What is the difference between `fs.readFileSync()` and `fs.readFile()` in Node.js?",
     "options": ["`fs.readFileSync()` is synchronous, while `fs.readFile()` is asynchronous", "`fs.readFileSync()` is faster", "`fs.readFile()` throws an error, while `fs.readFileSync()` does not", "`fs.readFileSync()` is asynchronous"],
-    "answer": 0
+    "answer": "`fs.readFileSync()` is synchronous, while `fs.readFile()` is asynchronous"
   },
   {
     "question": "How can you debug a Node.js application?",
     "options": ["Using `console.log()`", "Using the `debugger` keyword", "Using the `inspect` flag", "All of the above"],
-    "answer": 3
+    "answer": "All of the above"
   },
   {
     "question": "Which module in Node.js is used for working with URLs?",
     "options": ["url", "http", "fs", "path"],
-    "answer": 0
+    "answer": "url"
   },
   {
     "question": "Which function in Node.js allows you to handle signals like Ctrl+C?",
     "options": ["process.on()", "process.exit()", "fs.on()", "http.on()"],
-    "answer": 0
+    "answer": "process.on()"
   },
   {
     "question": "Which method is used to create a readable stream in Node.js?",
     "options": ["fs.createReadStream()", "http.createReadStream()", "fs.createWriteStream()", "http.createWriteStream()"],
-    "answer": 0
+    "answer": "fs.createReadStream()"
   },
   {
     "question": "Which of the following is the default HTTP method in Node.js?",
     "options": ["GET", "POST", "PUT", "DELETE"],
-    "answer": 0
+    "answer": "GET"
   },
   {
     "question": "How do you add a header to an HTTP response in Node.js?",
     "options": ["res.setHeader()", "res.addHeader()", "response.setHeader()", "response.addHeader()"],
-    "answer": 0
+    "answer": "res.setHeader()"
   },
   {
     "question": "Which of the following is true about Node.js?",
     "options": ["It is single-threaded", "It uses a multi-threaded architecture", "It does not support asynchronous operations", "It uses Java for runtime"],
-    "answer": 0
+    "answer": "It is single-threaded"
   },
   {
     "question": "Which method is used to create an HTTP server in Node.js?",
     "options": ["http.createServer()", "http.startServer()", "fs.createServer()", "http.initServer()"],
-    "answer": 0
+    "answer": "http.createServer()"
   },
   {
     "question": "Which of the following is a common use case for Node.js?",
     "options": ["Building RESTful APIs", "Server-side rendering", "Real-time applications like chat apps", "All of the above"],
-    "answer": 3
+    "answer": "All of the above"
   },
   {
     "question": "What does the `require()` function do in Node.js?",
     "options": ["Loads modules and files", "Instantiates a class", "Handles HTTP requests", "Creates a server"],
-    "answer": 0
+    "answer": "Loads modules and files"
   },
   {
     "question": "What is the event loop in Node.js?",
     "options": ["A mechanism to handle asynchronous tasks", "A function to pause execution", "A method for creating loops", "A function for file handling"],
-    "answer": 0
+    "answer": "A mechanism to handle asynchronous tasks"
   },
   {
     "question": "Which module is used for working with operating system-specific utilities in Node.js?",
     "options": ["os", "fs", "url", "http"],
-    "answer": 0
+    "answer": "os"
   },
   {
     "question": "How do you stop the execution of a running Node.js server?",
     "options": ["CTRL+C", "node stop", "npm stop", "process.exit()"],
-    "answer": 0
+    "answer": "CTRL+C"
   },
   {
     "question": "Which method is used to send a JSON response in Node.js?",
     "options": ["res.json()", "res.sendJson()", "response.json()", "response.sendJson()"],
-    "answer": 0
+    "answer": "res.json()"
   }
 ]
