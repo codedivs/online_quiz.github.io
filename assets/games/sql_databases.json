@@ -2,166 +2,166 @@
   {
     "question": "What does SQL stand for?",
     "options": ["Structured Query Language", "Simple Query Language", "Systematic Query Language", "Standard Query Language"],
-    "answer": 0
+    "answer": "Structured Query Language"
   },
   {
     "question": "Which of the following is a valid SQL SELECT statement?",
     "options": ["FROM users SELECT *", "SELECT users FROM *", "SELECT * FROM users", "SELECT * users FROM"],
-    "answer": 2
+    "answer": "SELECT * FROM users"
   },
   {
     "question": "What is the purpose of the `JOIN` operation in SQL?",
     "options": ["Delete rows from a table", "Combine rows from two or more tables", "Sort rows based on columns", "Create new tables"],
-    "answer": 1
+    "answer": "Combine rows from two or more tables"
   },
   {
     "question": "Which keyword is used to sort the results in SQL?",
     "options": ["ORDER BY", "GROUP BY", "FILTER BY", "SORT BY"],
-    "answer": 0
+    "answer": "ORDER BY"
   },
   {
     "question": "Which clause is used to filter records in SQL?",
     "options": ["HAVING", "WHERE", "SELECT", "FROM"],
-    "answer": 1
+    "answer": "WHERE"
   },
   {
     "question": "What is the purpose of the `GROUP BY` clause in SQL?",
     "options": ["To group rows with the same values into summary rows", "To filter records", "To delete rows", "To join multiple tables"],
-    "answer": 0
+    "answer": "To group rows with the same values into summary rows"
   },
   {
     "question": "What is an SQL primary key?",
     "options": ["A column for grouping data", "A column used for sorting", "A column that uniquely identifies a row", "A type of index"],
-    "answer": 2
+    "answer": "A column that uniquely identifies a row"
   },
   {
     "question": "Which SQL command is used to delete data from a table?",
     "options": ["REMOVE", "DROP", "DELETE", "ERASE"],
-    "answer": 2
+    "answer": "DELETE"
   },
   {
     "question": "Which of the following is a correct SQL INSERT statement?",
     "options": ["INSERT INTO table_name (col1, col2) VALUES (value1, value2)", "INSERT INTO table_name VALUES (value1, value2)", "INSERT (col1, col2) VALUES (value1, value2) INTO table_name", "INSERT INTO table_name VALUES (value1, value2, col1, col2)"],
-    "answer": 0
+    "answer": "INSERT INTO table_name (col1, col2) VALUES (value1, value2)"
   },
   {
     "question": "Which SQL command is used to modify an existing record?",
     "options": ["UPDATE", "INSERT", "ALTER", "CHANGE"],
-    "answer": 0
+    "answer": "UPDATE"
   },
   {
     "question": "Which of the following SQL clauses is used to filter groups of rows?",
     "options": ["WHERE", "HAVING", "GROUP BY", "ORDER BY"],
-    "answer": 1
+    "answer": "HAVING"
   },
   {
     "question": "What is a foreign key in SQL?",
     "options": ["A column used to sort data", "A column that establishes a relationship between two tables", "A type of index", "A column that prevents duplicate values"],
-    "answer": 1
+    "answer": "A column that establishes a relationship between two tables"
   },
   {
     "question": "Which of the following SQL commands is used to create a table?",
     "options": ["CREATE TABLE", "NEW TABLE", "ADD TABLE", "MAKE TABLE"],
-    "answer": 0
+    "answer": "CREATE TABLE"
   },
   {
     "question": "Which SQL statement is used to remove a table from a database?",
     "options": ["DROP TABLE", "DELETE TABLE", "REMOVE TABLE", "ERASE TABLE"],
-    "answer": 0
+    "answer": "DROP TABLE"
   },
   {
     "question": "What does the `DISTINCT` keyword do in SQL?",
     "options": ["Groups rows by a specified column", "Removes duplicate rows from the result", "Sorts the result in ascending order", "Combines rows from two tables"],
-    "answer": 1
+    "answer": "Removes duplicate rows from the result"
   },
   {
     "question": "Which operator is used to match a pattern in SQL?",
     "options": ["LIKE", "MATCH", "REGEX", "PATTERN"],
-    "answer": 0
+    "answer": "LIKE"
   },
   {
     "question": "What is the purpose of the `LIMIT` clause in SQL?",
     "options": ["To specify the columns to include in the result", "To restrict the number of rows returned by a query", "To sort the result in descending order", "To filter records based on a condition"],
-    "answer": 1
+    "answer": "To restrict the number of rows returned by a query"
   },
   {
     "question": "Which SQL function is used to return the number of rows in a table?",
     "options": ["COUNT()", "SUM()", "MAX()", "AVG()"],
-    "answer": 0
+    "answer": "COUNT()"
   },
   {
     "question": "Which SQL function is used to return the highest value in a column?",
     "options": ["MAX()", "MIN()", "COUNT()", "AVG()"],
-    "answer": 0
+    "answer": "MAX()"
   },
   {
     "question": "Which SQL clause is used to combine multiple conditions in a WHERE clause?",
     "options": ["AND", "OR", "NOT", "IN"],
-    "answer": 0
+    "answer": "AND"
   },
   {
     "question": "Which type of join returns all rows from the left table and matching rows from the right table?",
     "options": ["LEFT JOIN", "RIGHT JOIN", "INNER JOIN", "FULL JOIN"],
-    "answer": 0
+    "answer": "LEFT JOIN"
   },
   {
     "question": "Which of the following is a valid SQL data type for storing text?",
     "options": ["VARCHAR", "TEXT", "CHAR", "All of the above"],
-    "answer": 3
+    "answer": "All of the above"
   },
   {
     "question": "What is a unique constraint in SQL?",
     "options": ["It ensures that no null values are allowed in a column", "It forces a column to be indexed", "It ensures that all values in a column are unique", "It creates a primary key on the column"],
-    "answer": 2
+    "answer": "It ensures that all values in a column are unique"
   },
   {
     "question": "Which of the following is used to add a new column to an existing table in SQL?",
     "options": ["ALTER TABLE ADD COLUMN", "ADD COLUMN TO TABLE", "INSERT COLUMN INTO TABLE", "UPDATE TABLE ADD COLUMN"],
-    "answer": 0
+    "answer": "ALTER TABLE ADD COLUMN"
   },
   {
     "question": "Which of the following is a correct way to rename a table in SQL?",
     "options": ["ALTER TABLE table_name RENAME TO new_table_name", "RENAME TABLE table_name TO new_table_name", "RENAME table_name TO new_table_name", "ALTER table_name TO new_table_name"],
-    "answer": 0
+    "answer": "ALTER TABLE table_name RENAME TO new_table_name"
   },
   {
     "question": "What is the purpose of a `VIEW` in SQL?",
     "options": ["To store raw data", "To create backups of tables", "To optimize queries", "To store the results of a query as a virtual table"],
-    "answer": 3
+    "answer": "To store the results of a query as a virtual table"
   },
   {
     "question": "Which of the following SQL clauses is used to order the result of a query?",
     "options": ["GROUP BY", "ORDER BY", "FILTER BY", "SORT BY"],
-    "answer": 1
+    "answer": "ORDER BY"
   },
   {
     "question": "What is the purpose of an index in SQL?",
     "options": ["To store large amounts of data", "To create relationships between tables", "To enforce data integrity", "To speed up the retrieval of rows"],
-    "answer": 3
+    "answer": "To speed up the retrieval of rows"
   },
   {
     "question": "Which SQL keyword is used to combine the results of two queries?",
     "options": ["UNION", "JOIN", "INTERSECT", "COMBINE"],
-    "answer": 0
+    "answer": "UNION"
   },
   {
     "question": "Which of the following is used to retrieve data from a database?",
     "options": ["DELETE", "UPDATE", "SELECT", "INSERT"],
-    "answer": 2
+    "answer": "SELECT"
   },
   {
     "question": "Which SQL clause is used to group rows that have the same values into summary rows?",
     "options": ["GROUP BY", "ORDER BY", "WHERE", "HAVING"],
-    "answer": 0
+    "answer": "GROUP BY"
   },
   {
     "question": "Which SQL operator is used to check if a value is within a range of values?",
     "options": ["BETWEEN", "IN", "LIKE", "NOT LIKE"],
-    "answer": 0
+    "answer": "BETWEEN"
   },
   {
     "question": "Which SQL clause is used to combine multiple conditions in a `WHERE` clause?",
     "options": ["AND", "OR", "IN", "LIKE"],
-    "answer": 0
+    "answer": "AND"
   }
 ]
