@@ -2,151 +2,151 @@
     {
       "question": "Where is the Great Pyramid of Giza located?",
       "options": ["Egypt", "Mexico", "Greece", "Italy"],
-      "answer": 0
+      "answer": "Egypt"
     },
     {
       "question": "Where is the Hanging Gardens of Babylon believed to be?",
       "options": ["Iraq", "Egypt", "Turkey", "Iran"],
-      "answer": 1
+      "answer": "Iraq"
     },
     {
       "question": "Where is the Statue of Zeus at Olympia located?",
       "options": ["Greece", "Italy", "Turkey", "Egypt"],
-      "answer": 2
+      "answer": "Greece"
     },
     {
       "question": "Where is the Temple of Artemis at Ephesus located?",
       "options": ["Turkey", "Greece", "Italy", "Egypt"],
-      "answer": 3
+      "answer": "Turkey"
     },
     {
       "question": "Where is the Mausoleum at Halicarnassus located?",
       "options": ["Turkey", "Greece", "Egypt", "Italy"],
-      "answer": 0
+      "answer": "Turkey"
     },
     {
       "question": "Where is the Colossus of Rhodes located?",
       "options": ["Greece", "Italy", "Turkey", "Egypt"],
-      "answer": 1
+      "answer": "Greece"
     },
     {
       "question": "Where is the Lighthouse of Alexandria located?",
       "options": ["Egypt", "Greece", "Italy", "Turkey"],
-      "answer": 2
+      "answer": "Egypt"
     },
     {
       "question": "Where is the Great Wall of China located?",
       "options": ["China", "Japan", "India", "Mongolia"],
-      "answer": 3
+      "answer": "China"
     },
     {
       "question": "Where is Petra located?",
       "options": ["Jordan", "Egypt", "Saudi Arabia", "Syria"],
-      "answer": 0
+      "answer": "Jordan"
     },
     {
       "question": "Where is Christ the Redeemer located?",
       "options": ["Brazil", "Portugal", "Spain", "Mexico"],
-      "answer": 1
+      "answer": "Brazil"
     },
     {
       "question": "Where is Machu Picchu located?",
       "options": ["Peru", "Chile", "Bolivia", "Ecuador"],
-      "answer": 2
+      "answer": "Peru"
     },
     {
       "question": "Where is the Chichen Itza located?",
       "options": ["Mexico", "Peru", "Brazil", "Argentina"],
-      "answer": 3
+      "answer": "Mexico"
     },
     {
       "question": "Where is the Roman Colosseum located?",
       "options": ["Italy", "Greece", "Turkey", "Egypt"],
-      "answer": 0
+      "answer": "Italy"
     },
     {
       "question": "Where is the Taj Mahal located?",
       "options": ["India", "Pakistan", "Nepal", "Bangladesh"],
-      "answer": 1
+      "answer": "India"
     },
     {
       "question": "Where is the Great Wall at Badaling located?",
       "options": ["China", "Mongolia", "Japan", "Thailand"],
-      "answer": 2
+      "answer": "China"
     },
     {
       "question": "Where is the Moai statues of Easter Island located?",
       "options": ["Chile", "Peru", "Mexico", "Brazil"],
-      "answer": 3
+      "answer": "Chile"
     },
     {
       "question": "Where is the Petra Treasury located?",
       "options": ["Jordan", "Egypt", "Turkey", "Greece"],
-      "answer": 0
+      "answer": "Jordan"
     },
     {
       "question": "Where is the Sydney Opera House located?",
       "options": ["Australia", "New Zealand", "Canada", "USA"],
-      "answer": 1
+      "answer": "Australia"
     },
     {
       "question": "Where is the Angkor Wat located?",
       "options": ["Cambodia", "Thailand", "Vietnam", "Laos"],
-      "answer": 2
+      "answer": "Cambodia"
     },
     {
       "question": "Where is the Burj Khalifa located?",
       "options": ["UAE", "Saudi Arabia", "Qatar", "Oman"],
-      "answer": 3
+      "answer": "UAE"
     },
     {
       "question": "Where is the Stonehenge located?",
       "options": ["UK", "Ireland", "France", "Germany"],
-      "answer": 0
+      "answer": "UK"
     },
     {
       "question": "Where is the Leaning Tower of Pisa located?",
       "options": ["Italy", "France", "Spain", "Germany"],
-      "answer": 1
+      "answer": "Italy"
     },
     {
       "question": "Where is the Eiffel Tower located?",
       "options": ["France", "Italy", "Germany", "Spain"],
-      "answer": 2
+      "answer": "France"
     },
     {
       "question": "Where is the Golden Gate Bridge located?",
       "options": ["USA", "Canada", "Australia", "UK"],
-      "answer": 3
+      "answer": "USA"
     },
     {
       "question": "Where is the Mount Rushmore located?",
       "options": ["USA", "Canada", "Mexico", "Brazil"],
-      "answer": 0
+      "answer": "USA"
     },
     {
       "question": "Where is the Great Sphinx located?",
       "options": ["Egypt", "Greece", "Turkey", "Italy"],
-      "answer": 1
+      "answer": "Egypt"
     },
     {
       "question": "Where is the Forbidden City located?",
       "options": ["China", "Japan", "Korea", "Mongolia"],
-      "answer": 2
+      "answer": "China"
     },
     {
       "question": "Where is the Leaning Tower of Suurhusen located?",
       "options": ["Germany", "Netherlands", "Switzerland", "Belgium"],
-      "answer": 3
+      "answer": "Germany"
     },
     {
       "question": "Where is the Alhambra located?",
       "options": ["Spain", "Italy", "Portugal", "France"],
-      "answer": 0
+      "answer": "Spain"
     },
     {
       "question": "Where is the Kremlin located?",
       "options": ["Russia", "Ukraine", "Poland", "Turkey"],
-      "answer": 1
+      "answer": "Russia"
     }
-  ]
+]
