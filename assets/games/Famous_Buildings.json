@@ -1,147 +1,31 @@
 [
-    {
-      "question": "Where is the Taj Mahal located?",
-      "options": ["Agra, India", "Jaipur, India", "Delhi, India", "Mumbai, India"],
-      "answer": 0
-    },
-    {
-      "question": "Where is the Eiffel Tower located?",
-      "options": ["London, UK", "Paris, France", "Rome, Italy", "Berlin, Germany"],
-      "answer": 1
-    },
-    {
-      "question": "Where is the Colosseum located?",
-      "options": ["Athens, Greece", "Rome, Italy", "Istanbul, Turkey", "Florence, Italy"],
-      "answer": 2
-    },
-    {
-      "question": "Where is the Sydney Opera House located?",
-      "options": ["Melbourne, Australia", "Sydney, Australia", "Auckland, New Zealand", "Brisbane, Australia"],
-      "answer": 3
-    },
-    {
-      "question": "Where is the Great Wall located?",
-      "options": ["Beijing, China", "Xi’an, China", "Shanghai, China", "Tianjin, China"],
-      "answer": 0
-    },
-    {
-      "question": "Where is the Leaning Tower of Pisa located?",
-      "options": ["Florence, Italy", "Pisa, Italy", "Rome, Italy", "Venice, Italy"],
-      "answer": 1
-    },
-    {
-      "question": "Where is the Burj Khalifa located?",
-      "options": ["Abu Dhabi, UAE", "Dubai, UAE", "Doha, Qatar", "Riyadh, Saudi Arabia"],
-      "answer": 2
-    },
-    {
-      "question": "Where is the Sagrada Familia located?",
-      "options": ["Barcelona, Spain", "Madrid, Spain", "Lisbon, Portugal", "Valencia, Spain"],
-      "answer": 3
-    },
-    {
-      "question": "Where is Machu Picchu located?",
-      "options": ["Cusco, Peru", "Lima, Peru", "Machu Picchu, Peru", "Arequipa, Peru"],
-      "answer": 0
-    },
-    {
-      "question": "Where is Neuschwanstein Castle located?",
-      "options": ["Munich, Germany", "Füssen, Germany", "Berlin, Germany", "Hamburg, Germany"],
-      "answer": 1
-    },
-    {
-      "question": "Where is St. Basil’s Cathedral located?",
-      "options": ["Moscow, Russia", "Saint Petersburg, Russia", "Kazan, Russia", "Sochi, Russia"],
-      "answer": 2
-    },
-    {
-      "question": "Where is the Parthenon located?",
-      "options": ["Athens, Greece", "Rome, Italy", "Istanbul, Turkey", "Corinth, Greece"],
-      "answer": 3
-    },
-    {
-      "question": "Where is the Petra archaeological site located?",
-      "options": ["Amman, Jordan", "Petra, Jordan", "Jerusalem, Israel", "Cairo, Egypt"],
-      "answer": 0
-    },
-    {
-      "question": "Where is the Tower of London located?",
-      "options": ["London, UK", "Manchester, UK", "Edinburgh, UK", "Birmingham, UK"],
-      "answer": 1
-    },
-    {
-      "question": "Where is the Hagia Sophia located?",
-      "options": ["Athens, Greece", "Istanbul, Turkey", "Rome, Italy", "Ankara, Turkey"],
-      "answer": 2
-    },
-    {
-      "question": "Where is the Golden Gate Bridge located?",
-      "options": ["Los Angeles, USA", "San Francisco, USA", "New York, USA", "Seattle, USA"],
-      "answer": 3
-    },
-    {
-      "question": "Where is the Mont-Saint-Michel located?",
-      "options": ["Paris, France", "Mont-Saint-Michel, France", "Nice, France", "Lyon, France"],
-      "answer": 0
-    },
-    {
-      "question": "Where is the Kremlin located?",
-      "options": ["Moscow, Russia", "Saint Petersburg, Russia", "Novosibirsk, Russia", "Sochi, Russia"],
-      "answer": 1
-    },
-    {
-      "question": "Where is the Chichen Itza located?",
-      "options": ["Mexico City, Mexico", "Cancún, Mexico", "Chichen Itza, Mexico", "Tulum, Mexico"],
-      "answer": 2
-    },
-    {
-      "question": "Where is the Leaning Tower of Suurhusen located?",
-      "options": ["Germany", "Netherlands", "Switzerland", "Belgium"],
-      "answer": 3
-    },
-    {
-      "question": "Where is the Angkor Wat located?",
-      "options": ["Siem Reap, Cambodia", "Phnom Penh, Cambodia", "Bangkok, Thailand", "Vientiane, Laos"],
-      "answer": 0
-    },
-    {
-      "question": "Where is the Basilica di Santa Maria del Fiore located?",
-      "options": ["Florence, Italy", "Rome, Italy", "Venice, Italy", "Milan, Italy"],
-      "answer": 1
-    },
-    {
-      "question": "Where is the CN Tower located?",
-      "options": ["Toronto, Canada", "Vancouver, Canada", "Montreal, Canada", "Ottawa, Canada"],
-      "answer": 2
-    },
-    {
-      "question": "Where is the Sydney Harbour Bridge located?",
-      "options": ["Sydney, Australia", "Melbourne, Australia", "Brisbane, Australia", "Perth, Australia"],
-      "answer": 3
-    },
-    {
-      "question": "Where is the Alhambra located?",
-      "options": ["Granada, Spain", "Seville, Spain", "Barcelona, Spain", "Madrid, Spain"],
-      "answer": 0
-    },
-    {
-      "question": "Where is the Potala Palace located?",
-      "options": ["Lhasa, Tibet", "Beijing, China", "Kathmandu, Nepal", "Shigatse, Tibet"],
-      "answer": 1
-    },
-    {
-      "question": "Where is the Basilica of Saint Peter located?",
-      "options": ["Florence, Italy", "Rome, Italy", "Venice, Italy", "Naples, Italy"],
-      "answer": 2
-    },
-    {
-      "question": "Where is the Palace of Versailles located?",
-      "options": ["Paris, France", "Versailles, France", "Lyon, France", "Marseille, France"],
-      "answer": 3
-    },
-    {
-      "question": "Where is the Sydney Tower Eye located?",
-      "options": ["Melbourne, Australia", "Sydney, Australia", "Brisbane, Australia", "Perth, Australia"],
-      "answer": 0
-    }
-  ]
+  {"question": "Where is the Taj Mahal located?", "options": ["Agra, India", "Jaipur, India", "Delhi, India", "Mumbai, India"], "answer": "Agra, India"},
+  {"question": "Where is the Eiffel Tower located?", "options": ["London, UK", "Paris, France", "Rome, Italy", "Berlin, Germany"], "answer": "Paris, France"},
+  {"question": "Where is the Colosseum located?", "options": ["Athens, Greece", "Rome, Italy", "Istanbul, Turkey", "Florence, Italy"], "answer": "Rome, Italy"},
+  {"question": "Where is the Sydney Opera House located?", "options": ["Melbourne, Australia", "Sydney, Australia", "Auckland, New Zealand", "Brisbane, Australia"], "answer": "Sydney, Australia"},
+  {"question": "Where is the Great Wall located?", "options": ["Beijing, China", "Xi’an, China", "Shanghai, China", "Tianjin, China"], "answer": "China"}, 
+  {"question": "Where is the Leaning Tower of Pisa located?", "options": ["Florence, Italy", "Pisa, Italy", "Rome, Italy", "Venice, Italy"], "answer": "Pisa, Italy"},
+  {"question": "Where is the Burj Khalifa located?", "options": ["Abu Dhabi, UAE", "Dubai, UAE", "Doha, Qatar", "Riyadh, Saudi Arabia"], "answer": "Dubai, UAE"},
+  {"question": "Where is the Sagrada Familia located?", "options": ["Barcelona, Spain", "Madrid, Spain", "Lisbon, Portugal", "Valencia, Spain"], "answer": "Barcelona, Spain"},
+  {"question": "Where is Machu Picchu located?", "options": ["Cusco, Peru", "Lima, Peru", "Machu Picchu, Peru", "Arequipa, Peru"], "answer": "Cusco, Peru"},
+  {"question": "Where is Neuschwanstein Castle located?", "options": ["Munich, Germany", "Füssen, Germany", "Berlin, Germany", "Hamburg, Germany"], "answer": "Füssen, Germany"},
+  {"question": "Where is St. Basil’s Cathedral located?", "options": ["Moscow, Russia", "Saint Petersburg, Russia", "Kazan, Russia", "Sochi, Russia"], "answer": "Moscow, Russia"},
+  {"question": "Where is the Parthenon located?", "options": ["Athens, Greece", "Rome, Italy", "Istanbul, Turkey", "Corinth, Greece"], "answer": "Athens, Greece"},
+  {"question": "Where is the Petra archaeological site located?", "options": ["Amman, Jordan", "Petra, Jordan", "Jerusalem, Israel", "Cairo, Egypt"], "answer": "Petra, Jordan"},
+  {"question": "Where is the Tower of London located?", "options": ["London, UK", "Manchester, UK", "Edinburgh, UK", "Birmingham, UK"], "answer": "London, UK"},
+  {"question": "Where is the Hagia Sophia located?", "options": ["Athens, Greece", "Istanbul, Turkey", "Rome, Italy", "Ankara, Turkey"], "answer": "Istanbul, Turkey"},
+  {"question": "Where is the Golden Gate Bridge located?", "options": ["Los Angeles, USA", "San Francisco, USA", "New York, USA", "Seattle, USA"], "answer": "San Francisco, USA"},
+  {"question": "Where is the Mont-Saint-Michel located?", "options": ["Paris, France", "Mont-Saint-Michel, France", "Nice, France", "Lyon, France"], "answer": "Mont-Saint-Michel, France"},
+  {"question": "Where is the Kremlin located?", "options": ["Moscow, Russia", "Saint Petersburg, Russia", "Novosibirsk, Russia", "Sochi, Russia"], "answer": "Moscow, Russia"},
+  {"question": "Where is the Chichen Itza located?", "options": ["Mexico City, Mexico", "Cancún, Mexico", "Chichen Itza, Mexico", "Tulum, Mexico"], "answer": "Chichen Itza, Mexico"},
+  {"question": "Where is the Leaning Tower of Suurhusen located?", "options": ["Germany", "Netherlands", "Switzerland", "Belgium"], "answer": "Germany"},
+  {"question": "Where is the Angkor Wat located?", "options": ["Siem Reap, Cambodia", "Phnom Penh, Cambodia", "Bangkok, Thailand", "Vientiane, Laos"], "answer": "Siem Reap, Cambodia"},
+  {"question": "Where is the Basilica di Santa Maria del Fiore located?", "options": ["Florence, Italy", "Rome, Italy", "Venice, Italy", "Milan, Italy"], "answer": "Florence, Italy"},
+  {"question": "Where is the CN Tower located?", "options": ["Toronto, Canada", "Vancouver, Canada", "Montreal, Canada", "Ottawa, Canada"], "answer": "Toronto, Canada"},
+  {"question": "Where is the Sydney Harbour Bridge located?", "options": ["Sydney, Australia", "Melbourne, Australia", "Brisbane, Australia", "Perth, Australia"], "answer": "Sydney, Australia"},
+  {"question": "Where is the Alhambra located?", "options": ["Granada, Spain", "Seville, Spain", "Barcelona, Spain", "Madrid, Spain"], "answer": "Granada, Spain"},
+  {"question": "Where is the Potala Palace located?", "options": ["Lhasa, Tibet", "Beijing, China", "Kathmandu, Nepal", "Shigatse, Tibet"], "answer": "Lhasa, Tibet"},
+  {"question": "Where is the Basilica of Saint Peter located?", "options": ["Florence, Italy", "Rome, Italy", "Venice, Italy", "Naples, Italy"], "answer": "Rome, Italy"},
+  {"question": "Where is the Palace of Versailles located?", "options": ["Paris, France", "Versailles, France", "Lyon, France", "Marseille, France"], "answer": "Versailles, France"},
+  {"question": "Where is the Sydney Tower Eye located?", "options": ["Melbourne, Australia", "Sydney, Australia", "Brisbane, Australia", "Perth, Australia"], "answer": "Sydney, Australia"}
+]
