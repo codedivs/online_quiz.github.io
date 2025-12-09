@@ -1,412 +1,207 @@
 [
   {
     "question": "What is the time complexity of binary search?",
-    "options": [
-      "O(1)",
-      "O(n)",
-      "O(log n)",
-      "O(n log n)"
-    ],
-    "answer": 2
+    "options": ["O(1)", "O(n)", "O(log n)", "O(n log n)"],
+    "answer": "O(log n)"
   },
   {
     "question": "Which algorithm is used to find the shortest path in an unweighted graph?",
-    "options": [
-      "Dijkstra's Algorithm",
-      "Floyd-Warshall Algorithm",
-      "Bellman-Ford Algorithm",
-      "Breadth-First Search (BFS)"
-    ],
-    "answer": 3
+    "options": ["Dijkstra's Algorithm", "Floyd-Warshall Algorithm", "Bellman-Ford Algorithm", "Breadth-First Search (BFS)"],
+    "answer": "Breadth-First Search (BFS)"
   },
   {
     "question": "Which sorting algorithm has the best worst-case time complexity?",
-    "options": [
-      "Bubble Sort",
-      "Quick Sort",
-      "Merge Sort",
-      "Heap Sort"
-    ],
-    "answer": 2
+    "options": ["Bubble Sort", "Quick Sort", "Merge Sort", "Heap Sort"],
+    "answer": "Merge Sort"
   },
   {
     "question": "Which of the following is a greedy algorithm?",
-    "options": [
-      "Dijkstra's Algorithm",
-      "Prim's Algorithm",
-      "Merge Sort",
-      "Quick Sort"
-    ],
-    "answer": 1
+    "options": ["Dijkstra's Algorithm", "Prim's Algorithm", "Merge Sort", "Quick Sort"],
+    "answer": "Prim's Algorithm"
   },
   {
     "question": "Which algorithm is used for finding the maximum subarray sum?",
-    "options": [
-      "Kadane's Algorithm",
-      "Dijkstra's Algorithm",
-      "Floyd-Warshall Algorithm",
-      "Quick Sort"
-    ],
-    "answer": 0
+    "options": ["Kadane's Algorithm", "Dijkstra's Algorithm", "Floyd-Warshall Algorithm", "Quick Sort"],
+    "answer": "Kadane's Algorithm"
   },
   {
     "question": "What is the time complexity of Quick Sort in the average case?",
-    "options": [
-      "O(n log n)",
-      "O(n^2)",
-      "O(log n)",
-      "O(n)"
-    ],
-    "answer": 0
+    "options": ["O(n log n)", "O(n^2)", "O(log n)", "O(n)"],
+    "answer": "O(n log n)"
   },
   {
     "question": "Which of the following algorithms uses the divide and conquer approach?",
-    "options": [
-      "Quick Sort",
-      "Bubble Sort",
-      "Insertion Sort",
-      "Selection Sort"
-    ],
-    "answer": 0
+    "options": ["Quick Sort", "Bubble Sort", "Insertion Sort", "Selection Sort"],
+    "answer": "Quick Sort"
   },
   {
     "question": "Which of the following is not a stable sorting algorithm?",
-    "options": [
-      "Merge Sort",
-      "Insertion Sort",
-      "Bubble Sort",
-      "Quick Sort"
-    ],
-    "answer": 3
+    "options": ["Merge Sort", "Insertion Sort", "Bubble Sort", "Quick Sort"],
+    "answer": "Quick Sort"
   },
   {
     "question": "Which algorithm is used to find the shortest path in a graph with negative weights?",
-    "options": [
-      "Dijkstra's Algorithm",
-      "Floyd-Warshall Algorithm",
-      "Bellman-Ford Algorithm",
-      "Prim's Algorithm"
-    ],
-    "answer": 2
+    "options": ["Dijkstra's Algorithm", "Floyd-Warshall Algorithm", "Bellman-Ford Algorithm", "Prim's Algorithm"],
+    "answer": "Bellman-Ford Algorithm"
   },
   {
     "question": "What is the time complexity of merge sort?",
-    "options": [
-      "O(n log n)",
-      "O(n^2)",
-      "O(n)",
-      "O(log n)"
-    ],
-    "answer": 0
+    "options": ["O(n log n)", "O(n^2)", "O(n)", "O(log n)"],
+    "answer": "O(n log n)"
   },
   {
     "question": "Which algorithm is used for finding the longest common subsequence?",
-    "options": [
-      "Dynamic Programming",
-      "Greedy Algorithm",
-      "Divide and Conquer",
-      "Backtracking"
-    ],
-    "answer": 0
+    "options": ["Dynamic Programming", "Greedy Algorithm", "Divide and Conquer", "Backtracking"],
+    "answer": "Dynamic Programming"
   },
   {
     "question": "What is the time complexity of the Floyd-Warshall Algorithm for finding all pairs shortest paths?",
-    "options": [
-      "O(n^3)",
-      "O(n^2)",
-      "O(n log n)",
-      "O(n^4)"
-    ],
-    "answer": 0
+    "options": ["O(n^3)", "O(n^2)", "O(n log n)", "O(n^4)"],
+    "answer": "O(n^3)"
   },
   {
     "question": "Which of the following algorithms is used to solve the knapsack problem?",
-    "options": [
-      "Greedy Algorithm",
-      "Dynamic Programming",
-      "Brute Force",
-      "Divide and Conquer"
-    ],
-    "answer": 1
+    "options": ["Greedy Algorithm", "Dynamic Programming", "Brute Force", "Divide and Conquer"],
+    "answer": "Dynamic Programming"
   },
   {
     "question": "Which of the following is true for a binary heap?",
-    "options": [
-      "It is a complete binary tree",
-      "It is a balanced binary search tree",
-      "It uses a hash table for efficient access",
-      "It does not allow duplicate elements"
-    ],
-    "answer": 0
+    "options": ["It is a complete binary tree", "It is a balanced binary search tree", "It uses a hash table for efficient access", "It does not allow duplicate elements"],
+    "answer": "It is a complete binary tree"
   },
   {
     "question": "Which algorithm is used to find the closest pair of points in a 2D plane?",
-    "options": [
-      "Divide and Conquer",
-      "Greedy Algorithm",
-      "Dynamic Programming",
-      "Brute Force"
-    ],
-    "answer": 0
+    "options": ["Divide and Conquer", "Greedy Algorithm", "Dynamic Programming", "Brute Force"],
+    "answer": "Divide and Conquer"
   },
   {
     "question": "Which algorithm is used to detect a cycle in a directed graph?",
-    "options": [
-      "Depth-First Search (DFS)",
-      "Breadth-First Search (BFS)",
-      "Kruskal's Algorithm",
-      "Prim's Algorithm"
-    ],
-    "answer": 0
+    "options": ["Depth-First Search (DFS)", "Breadth-First Search (BFS)", "Kruskal's Algorithm", "Prim's Algorithm"],
+    "answer": "Depth-First Search (DFS)"
   },
   {
     "question": "Which algorithm is used to find the minimum spanning tree of a graph?",
-    "options": [
-      "Prim's Algorithm",
-      "Dijkstra's Algorithm",
-      "Bellman-Ford Algorithm",
-      "Floyd-Warshall Algorithm"
-    ],
-    "answer": 0
+    "options": ["Prim's Algorithm", "Dijkstra's Algorithm", "Bellman-Ford Algorithm", "Floyd-Warshall Algorithm"],
+    "answer": "Prim's Algorithm"
   },
   {
     "question": "What is the time complexity of the Bellman-Ford algorithm?",
-    "options": [
-      "O(n^2)",
-      "O(n log n)",
-      "O(n)",
-      "O(n^3)"
-    ],
-    "answer": 0
+    "options": ["O(n^2)", "O(n log n)", "O(n)", "O(n^3)"],
+    "answer": "O(n^2)"
   },
   {
     "question": "Which of the following is true about dynamic programming?",
-    "options": [
-      "It solves problems by breaking them down into overlapping subproblems",
-      "It only works with greedy algorithms",
-      "It is faster than greedy algorithms",
-      "It uses a bottom-up approach"
-    ],
-    "answer": 0
+    "options": ["It solves problems by breaking them down into overlapping subproblems", "It only works with greedy algorithms", "It is faster than greedy algorithms", "It uses a bottom-up approach"],
+    "answer": "It solves problems by breaking them down into overlapping subproblems"
   },
   {
     "question": "Which algorithm is used for topological sorting of a directed acyclic graph?",
-    "options": [
-      "Depth-First Search (DFS)",
-      "Breadth-First Search (BFS)",
-      "Kruskal's Algorithm",
-      "Prim's Algorithm"
-    ],
-    "answer": 0
+    "options": ["Depth-First Search (DFS)", "Breadth-First Search (BFS)", "Kruskal's Algorithm", "Prim's Algorithm"],
+    "answer": "Depth-First Search (DFS)"
   },
   {
     "question": "What is the time complexity of inserting an element into a red-black tree?",
-    "options": [
-      "O(log n)",
-      "O(n)",
-      "O(n log n)",
-      "O(1)"
-    ],
-    "answer": 0
+    "options": ["O(log n)", "O(n)", "O(n log n)", "O(1)"],
+    "answer": "O(log n)"
   },
   {
     "question": "Which of the following algorithms is used for solving the traveling salesman problem?",
-    "options": [
-      "Greedy Algorithm",
-      "Dynamic Programming",
-      "Backtracking",
-      "Brute Force"
-    ],
-    "answer": 1
+    "options": ["Greedy Algorithm", "Dynamic Programming", "Backtracking", "Brute Force"],
+    "answer": "Dynamic Programming"
   },
   {
     "question": "Which algorithm is used for solving the subset sum problem?",
-    "options": [
-      "Dynamic Programming",
-      "Greedy Algorithm",
-      "Backtracking",
-      "Brute Force"
-    ],
-    "answer": 0
+    "options": ["Dynamic Programming", "Greedy Algorithm", "Backtracking", "Brute Force"],
+    "answer": "Dynamic Programming"
   },
   {
     "question": "Which of the following is true for the quick sort algorithm?",
-    "options": [
-      "It uses the divide and conquer approach",
-      "It is a stable sorting algorithm",
-      "Its time complexity is O(n^2) in the best case",
-      "It requires extra memory for sorting"
-    ],
-    "answer": 0
+    "options": ["It uses the divide and conquer approach", "It is a stable sorting algorithm", "Its time complexity is O(n^2) in the best case", "It requires extra memory for sorting"],
+    "answer": "It uses the divide and conquer approach"
   },
   {
     "question": "Which algorithm is used to find the median of two sorted arrays?",
-    "options": [
-      "Binary Search",
-      "Merge Sort",
-      "Quick Sort",
-      "Heap Sort"
-    ],
-    "answer": 0
+    "options": ["Binary Search", "Merge Sort", "Quick Sort", "Heap Sort"],
+    "answer": "Binary Search"
   },
   {
     "question": "What is the time complexity of the longest common subsequence (LCS) problem?",
-    "options": [
-      "O(n^2)",
-      "O(n log n)",
-      "O(n)",
-      "O(n^3)"
-    ],
-    "answer": 0
+    "options": ["O(n^2)", "O(n log n)", "O(n)", "O(n^3)"],
+    "answer": "O(n^2)"
   },
   {
     "question": "What is the time complexity of performing a binary search on a sorted array?",
-    "options": [
-      "O(n)",
-      "O(log n)",
-      "O(n log n)",
-      "O(1)"
-    ],
-    "answer": 1
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "answer": "O(log n)"
   },
   {
     "question": "Which of the following is not a divide and conquer algorithm?",
-    "options": [
-      "Merge Sort",
-      "Quick Sort",
-      "Binary Search",
-      "Selection Sort"
-    ],
-    "answer": 3
+    "options": ["Merge Sort", "Quick Sort", "Binary Search", "Selection Sort"],
+    "answer": "Selection Sort"
   },
   {
     "question": "What is the worst-case time complexity of the heap sort algorithm?",
-    "options": [
-      "O(n log n)",
-      "O(n^2)",
-      "O(log n)",
-      "O(n)"
-    ],
-    "answer": 0
+    "options": ["O(n log n)", "O(n^2)", "O(log n)", "O(n)"],
+    "answer": "O(n log n)"
   },
   {
     "question": "Which of the following problems can be solved using dynamic programming?",
-    "options": [
-      "Fibonacci sequence",
-      "Longest Common Subsequence",
-      "Knapsack problem",
-      "All of the above"
-    ],
-    "answer": 3
+    "options": ["Fibonacci sequence", "Longest Common Subsequence", "Knapsack problem", "All of the above"],
+    "answer": "All of the above"
   },
   {
     "question": "Which algorithm is used to solve the maximum flow problem in a network?",
-    "options": [
-      "Ford-Fulkerson Algorithm",
-      "Bellman-Ford Algorithm",
-      "Dijkstra's Algorithm",
-      "Kruskal's Algorithm"
-    ],
-    "answer": 0
+    "options": ["Ford-Fulkerson Algorithm", "Bellman-Ford Algorithm", "Dijkstra's Algorithm", "Kruskal's Algorithm"],
+    "answer": "Ford-Fulkerson Algorithm"
   },
-    {
+  {
     "question": "Which algorithm is used for finding the nearest neighbor in a 2D plane?",
-    "options": [
-      "Divide and Conquer",
-      "Greedy Algorithm",
-      "Dynamic Programming",
-      "Brute Force"
-    ],
-    "answer": 0
+    "options": ["Divide and Conquer", "Greedy Algorithm", "Dynamic Programming", "Brute Force"],
+    "answer": "Divide and Conquer"
   },
   {
     "question": "Which of the following is true about a depth-first search (DFS) traversal?",
-    "options": [
-      "It explores a node's neighbors first before exploring deeper nodes",
-      "It uses a queue to explore nodes",
-      "It explores deeper nodes first and backtracks when necessary",
-      "It finds the shortest path in an unweighted graph"
-    ],
-    "answer": 2
+    "options": ["It explores a node's neighbors first before exploring deeper nodes", "It uses a queue to explore nodes", "It explores deeper nodes first and backtracks when necessary", "It finds the shortest path in an unweighted graph"],
+    "answer": "It explores deeper nodes first and backtracks when necessary"
   },
   {
     "question": "What is the space complexity of an algorithm that sorts an array of length n using merge sort?",
-    "options": [
-      "O(n)",
-      "O(log n)",
-      "O(n log n)",
-      "O(1)"
-    ],
-    "answer": 0
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "answer": "O(n)"
   },
   {
     "question": "Which data structure is most commonly used in a breadth-first search (BFS)?",
-    "options": [
-      "Stack",
-      "Queue",
-      "Array",
-      "Tree"
-    ],
-    "answer": 1
+    "options": ["Stack", "Queue", "Array", "Tree"],
+    "answer": "Queue"
   },
   {
     "question": "Which of the following algorithms is used to solve the maximum subarray sum problem?",
-    "options": [
-      "Kadane's Algorithm",
-      "Quick Sort",
-      "Bubble Sort",
-      "Dijkstra's Algorithm"
-    ],
-    "answer": 0
+    "options": ["Kadane's Algorithm", "Quick Sort", "Bubble Sort", "Dijkstra's Algorithm"],
+    "answer": "Kadane's Algorithm"
   },
   {
     "question": "Which of the following algorithms is not a comparison-based sorting algorithm?",
-    "options": [
-      "Merge Sort",
-      "Quick Sort",
-      "Bubble Sort",
-      "Counting Sort"
-    ],
-    "answer": 3
+    "options": ["Merge Sort", "Quick Sort", "Bubble Sort", "Counting Sort"],
+    "answer": "Counting Sort"
   },
   {
     "question": "What is the time complexity of the selection sort algorithm?",
-    "options": [
-      "O(n log n)",
-      "O(n^2)",
-      "O(n)",
-      "O(log n)"
-    ],
-    "answer": 1
+    "options": ["O(n log n)", "O(n^2)", "O(n)", "O(log n)"],
+    "answer": "O(n^2)"
   },
   {
     "question": "Which algorithm is best suited for sorting a large number of records with a small range of keys?",
-    "options": [
-      "Merge Sort",
-      "Quick Sort",
-      "Counting Sort",
-      "Heap Sort"
-    ],
-    "answer": 2
+    "options": ["Merge Sort", "Quick Sort", "Counting Sort", "Heap Sort"],
+    "answer": "Counting Sort"
   },
   {
     "question": "Which of the following algorithms can be used to find the longest increasing subsequence (LIS)?",
-    "options": [
-      "Binary Search",
-      "Dynamic Programming",
-      "Greedy Algorithm",
-      "Backtracking"
-    ],
-    "answer": 1
+    "options": ["Binary Search", "Dynamic Programming", "Greedy Algorithm", "Backtracking"],
+    "answer": "Dynamic Programming"
   },
   {
     "question": "Which of the following is a disadvantage of the bubble sort algorithm?",
-    "options": [
-      "It has a worst-case time complexity of O(n log n)",
-      "It is a stable sort but is inefficient for large datasets",
-      "It is not stable and does not preserve relative order",
-      "It is more complex than other algorithms"
-    ],
-    "answer": 1
+    "options": ["It has a worst-case time complexity of O(n log n)", "It is a stable sort but is inefficient for large datasets", "It is not stable and does not preserve relative order", "It is more complex than other algorithms"],
+    "answer": "It is a stable sort but is inefficient for large datasets"
   }
 ]
