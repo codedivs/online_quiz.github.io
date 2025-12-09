@@ -1,152 +1,152 @@
 [
-    {
-      "question": "Which classic film features the character Rick Blaine?",
-      "options": ["Casablanca", "Roman Holiday", "Citizen Kane", "Vertigo"],
-      "answer": 0
-    },
-    {
-      "question": "Who played the lead role in 'The Sound of Music'?",
-      "options": ["Audrey Hepburn", "Julie Andrews", "Grace Kelly", "Ingrid Bergman"],
-      "answer": 1
-    },
-    {
-      "question": "Which movie features the iconic line 'You can’t handle the truth!'?",
-      "options": ["Psycho", "The Godfather", "A Few Good Men", "Rear Window"],
-      "answer": 2
-    },
-    {
-      "question": "Which Alfred Hitchcock film is known for its shower scene?",
-      "options": ["The Birds", "Rebecca", "Vertigo", "Psycho"],
-      "answer": 3
-    },
-    {
-      "question": "Which classic film stars Charlie Chaplin in his iconic Tramp persona?",
-      "options": ["City Lights", "Modern Times", "The Kid", "The Gold Rush"],
-      "answer": 0
-    },
-    {
-      "question": "In which film does the song 'Over the Rainbow' appear?",
-      "options": ["Cinderella", "The Wizard of Oz", "Mary Poppins", "Singin' in the Rain"],
-      "answer": 1
-    },
-    {
-      "question": "Which film introduced the character Don Vito Corleone?",
-      "options": ["Goodfellas", "Scarface", "The Godfather", "Casino"],
-      "answer": 2
-    },
-    {
-      "question": "Which movie features a spaceship called the Nostromo?",
-      "options": ["Star Wars", "2001: A Space Odyssey", "Blade Runner", "Alien"],
-      "answer": 3
-    },
-    {
-      "question": "Which actress starred as Holly Golightly in 'Breakfast at Tiffany’s'?",
-      "options": ["Audrey Hepburn", "Marilyn Monroe", "Grace Kelly", "Vivien Leigh"],
-      "answer": 0
-    },
-    {
-      "question": "Which film won the first Academy Award for Best Picture?",
-      "options": ["Gone with the Wind", "Wings", "All Quiet on the Western Front", "The Jazz Singer"],
-      "answer": 1
-    },
-    {
-      "question": "Which movie is famous for the line 'Here's looking at you, kid'?",
-      "options": ["Citizen Kane", "Gone with the Wind", "Casablanca", "Ben-Hur"],
-      "answer": 2
-    },
-    {
-      "question": "Which film includes the character Norman Bates?",
-      "options": ["Rear Window", "Vertigo", "The Birds", "Psycho"],
-      "answer": 3
-    },
-    {
-      "question": "Which actor played Indiana Jones in the original trilogy?",
-      "options": ["Tom Selleck", "Harrison Ford", "Christopher Reeve", "Michael Douglas"],
-      "answer": 0
-    },
-    {
-      "question": "Who directed 'Citizen Kane'?",
-      "options": ["Stanley Kubrick", "Alfred Hitchcock", "Orson Welles", "Sidney Lumet"],
-      "answer": 1
-    },
-    {
-      "question": "Which movie follows the story of a young woman named Scarlett O’Hara?",
-      "options": ["Rebecca", "The Sound of Music", "Gone with the Wind", "Giant"],
-      "answer": 2
-    },
-    {
-      "question": "Which film features the iconic line 'Frankly, my dear, I don't give a damn'?",
-      "options": ["Casablanca", "Citizen Kane", "Psycho", "Gone with the Wind"],
-      "answer": 3
-    },
-    {
-      "question": "Which movie stars Gene Kelly dancing in the rain?",
-      "options": ["An American in Paris", "Singin' in the Rain", "Top Hat", "Holiday Inn"],
-      "answer": 0
-    },
-    {
-      "question": "Which film is known for the line 'Say hello to my little friend!'?",
-      "options": ["Goodfellas", "Scarface", "The Godfather Part II", "Taxi Driver"],
-      "answer": 1
-    },
-    {
-      "question": "Which sci-fi classic features HAL 9000?",
-      "options": ["Alien", "Blade Runner", "2001: A Space Odyssey", "Close Encounters"],
-      "answer": 2
-    },
-    {
-      "question": "Which film stars Humphrey Bogart and Lauren Bacall?",
-      "options": ["Notorious", "Rebecca", "The Maltese Falcon", "To Have and Have Not"],
-      "answer": 3
-    },
-    {
-      "question": "Which film features the character Dorothy Gale?",
-      "options": ["Snow White", "The Wizard of Oz", "Fantasia", "Pinocchio"],
-      "answer": 0
-    },
-    {
-      "question": "Which movie features the character Atticus Finch?",
-      "options": ["12 Angry Men", "To Kill a Mockingbird", "Mr. Smith Goes to Washington", "On the Waterfront"],
-      "answer": 1
-    },
-    {
-      "question": "Which film features the famous sled named 'Rosebud'?",
-      "options": ["Ben-Hur", "Casablanca", "Citizen Kane", "The Third Man"],
-      "answer": 2
-    },
-    {
-      "question": "Which Alfred Hitchcock film focuses on a man watching his neighbors through a window?",
-      "options": ["Psycho", "Vertigo", "Notorious", "Rear Window"],
-      "answer": 3
-    },
-    {
-      "question": "Which musical features the song 'My Favorite Things'?",
-      "options": ["West Side Story", "The Sound of Music", "Mary Poppins", "Annie"],
-      "answer": 0
-    },
-    {
-      "question": "Which film features the iconic character Rocky Balboa?",
-      "options": ["Raging Bull", "Creed", "Rocky", "The Fighter"],
-      "answer": 1
-    },
-    {
-      "question": "Which film is famous for the quote 'I’ll be back'?",
-      "options": ["Die Hard", "Robocop", "The Terminator", "Predator"],
-      "answer": 2
-    },
-    {
-      "question": "Which movie stars Gregory Peck as a naval officer tracking a submarine?",
-      "options": ["The Big Sleep", "Notorious", "The Third Man", "On the Beach"],
-      "answer": 3
-    },
-    {
-      "question": "Which film features the character George Bailey?",
-      "options": ["It’s a Wonderful Life", "Casablanca", "The Apartment", "The Philadelphia Story"],
-      "answer": 0
-    },
-    {
-      "question": "Which actress starred in the classic film 'All About Eve'?",
-      "options": ["Audrey Hepburn", "Bette Davis", "Marilyn Monroe", "Vivien Leigh"],
-      "answer": 1
-    }
-  ]
+  {
+    "question": "Which classic film features the character Rick Blaine?",
+    "options": ["Casablanca", "Roman Holiday", "Citizen Kane", "Vertigo"],
+    "answer": "Casablanca"
+  },
+  {
+    "question": "Who played the lead role in 'The Sound of Music'?",
+    "options": ["Audrey Hepburn", "Julie Andrews", "Grace Kelly", "Ingrid Bergman"],
+    "answer": "Julie Andrews"
+  },
+  {
+    "question": "Which movie features the iconic line 'You can’t handle the truth!'?",
+    "options": ["Psycho", "The Godfather", "A Few Good Men", "Rear Window"],
+    "answer": "A Few Good Men"
+  },
+  {
+    "question": "Which Alfred Hitchcock film is known for its shower scene?",
+    "options": ["The Birds", "Rebecca", "Vertigo", "Psycho"],
+    "answer": "Psycho"
+  },
+  {
+    "question": "Which classic film stars Charlie Chaplin in his iconic Tramp persona?",
+    "options": ["City Lights", "Modern Times", "The Kid", "The Gold Rush"],
+    "answer": "City Lights"
+  },
+  {
+    "question": "In which film does the song 'Over the Rainbow' appear?",
+    "options": ["Cinderella", "The Wizard of Oz", "Mary Poppins", "Singin' in the Rain"],
+    "answer": "The Wizard of Oz"
+  },
+  {
+    "question": "Which film introduced the character Don Vito Corleone?",
+    "options": ["Goodfellas", "Scarface", "The Godfather", "Casino"],
+    "answer": "The Godfather"
+  },
+  {
+    "question": "Which movie features a spaceship called the Nostromo?",
+    "options": ["Star Wars", "2001: A Space Odyssey", "Blade Runner", "Alien"],
+    "answer": "Alien"
+  },
+  {
+    "question": "Which actress starred as Holly Golightly in 'Breakfast at Tiffany’s'?",
+    "options": ["Audrey Hepburn", "Marilyn Monroe", "Grace Kelly", "Vivien Leigh"],
+    "answer": "Audrey Hepburn"
+  },
+  {
+    "question": "Which film won the first Academy Award for Best Picture?",
+    "options": ["Gone with the Wind", "Wings", "All Quiet on the Western Front", "The Jazz Singer"],
+    "answer": "Wings"
+  },
+  {
+    "question": "Which movie is famous for the line 'Here's looking at you, kid'?",
+    "options": ["Citizen Kane", "Gone with the Wind", "Casablanca", "Ben-Hur"],
+    "answer": "Casablanca"
+  },
+  {
+    "question": "Which film includes the character Norman Bates?",
+    "options": ["Rear Window", "Vertigo", "The Birds", "Psycho"],
+    "answer": "Psycho"
+  },
+  {
+    "question": "Which actor played Indiana Jones in the original trilogy?",
+    "options": ["Tom Selleck", "Harrison Ford", "Christopher Reeve", "Michael Douglas"],
+    "answer": "Harrison Ford"
+  },
+  {
+    "question": "Who directed 'Citizen Kane'?",
+    "options": ["Stanley Kubrick", "Alfred Hitchcock", "Orson Welles", "Sidney Lumet"],
+    "answer": "Orson Welles"
+  },
+  {
+    "question": "Which movie follows the story of a young woman named Scarlett O’Hara?",
+    "options": ["Rebecca", "The Sound of Music", "Gone with the Wind", "Giant"],
+    "answer": "Gone with the Wind"
+  },
+  {
+    "question": "Which film features the iconic line 'Frankly, my dear, I don't give a damn'?",
+    "options": ["Casablanca", "Citizen Kane", "Psycho", "Gone with the Wind"],
+    "answer": "Gone with the Wind"
+  },
+  {
+    "question": "Which movie stars Gene Kelly dancing in the rain?",
+    "options": ["An American in Paris", "Singin' in the Rain", "Top Hat", "Holiday Inn"],
+    "answer": "Singin' in the Rain"
+  },
+  {
+    "question": "Which film is known for the line 'Say hello to my little friend!'?",
+    "options": ["Goodfellas", "Scarface", "The Godfather Part II", "Taxi Driver"],
+    "answer": "Scarface"
+  },
+  {
+    "question": "Which sci-fi classic features HAL 9000?",
+    "options": ["Alien", "Blade Runner", "2001: A Space Odyssey", "Close Encounters"],
+    "answer": "2001: A Space Odyssey"
+  },
+  {
+    "question": "Which film stars Humphrey Bogart and Lauren Bacall?",
+    "options": ["Notorious", "Rebecca", "The Maltese Falcon", "To Have and Have Not"],
+    "answer": "To Have and Have Not"
+  },
+  {
+    "question": "Which film features the character Dorothy Gale?",
+    "options": ["Snow White", "The Wizard of Oz", "Fantasia", "Pinocchio"],
+    "answer": "The Wizard of Oz"
+  },
+  {
+    "question": "Which movie features the character Atticus Finch?",
+    "options": ["12 Angry Men", "To Kill a Mockingbird", "Mr. Smith Goes to Washington", "On the Waterfront"],
+    "answer": "To Kill a Mockingbird"
+  },
+  {
+    "question": "Which film features the famous sled named 'Rosebud'?",
+    "options": ["Ben-Hur", "Casablanca", "Citizen Kane", "The Third Man"],
+    "answer": "Citizen Kane"
+  },
+  {
+    "question": "Which Alfred Hitchcock film focuses on a man watching his neighbors through a window?",
+    "options": ["Psycho", "Vertigo", "Notorious", "Rear Window"],
+    "answer": "Rear Window"
+  },
+  {
+    "question": "Which musical features the song 'My Favorite Things'?",
+    "options": ["West Side Story", "The Sound of Music", "Mary Poppins", "Annie"],
+    "answer": "The Sound of Music"
+  },
+  {
+    "question": "Which film features the iconic character Rocky Balboa?",
+    "options": ["Raging Bull", "Creed", "Rocky", "The Fighter"],
+    "answer": "Rocky"
+  },
+  {
+    "question": "Which film is famous for the quote 'I’ll be back'?",
+    "options": ["Die Hard", "Robocop", "The Terminator", "Predator"],
+    "answer": "The Terminator"
+  },
+  {
+    "question": "Which movie stars Gregory Peck as a naval officer tracking a submarine?",
+    "options": ["The Big Sleep", "Notorious", "The Third Man", "On the Beach"],
+    "answer": "On the Beach"
+  },
+  {
+    "question": "Which film features the character George Bailey?",
+    "options": ["It’s a Wonderful Life", "Casablanca", "The Apartment", "The Philadelphia Story"],
+    "answer": "It’s a Wonderful Life"
+  },
+  {
+    "question": "Which actress starred in the classic film 'All About Eve'?",
+    "options": ["Audrey Hepburn", "Bette Davis", "Marilyn Monroe", "Vivien Leigh"],
+    "answer": "Bette Davis"
+  }
+]
