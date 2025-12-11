@@ -1,0 +1,157 @@
+[
+  {
+    "question": "Would you rather be able to fly or be invisible?",
+    "options": ["Fly", "Invisible"],
+    "answer": "Fly"
+  },
+  {
+    "question": "Would you rather eat ice cream or cake?",
+    "options": ["Ice Cream", "Cake"],
+    "answer": "Ice Cream"
+  },
+  {
+    "question": "Would you rather be super strong or super fast?",
+    "options": ["Super Strong", "Super Fast"],
+    "answer": "Super Fast"
+  },
+  {
+    "question": "Would you rather live at the beach or in the mountains?",
+    "options": ["Beach", "Mountains"],
+    "answer": "Beach"
+  },
+  {
+    "question": "Would you rather have a pet dog or a pet cat?",
+    "options": ["Dog", "Cat"],
+    "answer": "Dog"
+  },
+  {
+    "question": "Would you rather travel to the past or the future?",
+    "options": ["Past", "Future"],
+    "answer": "Future"
+  },
+  {
+    "question": "Would you rather be a famous singer or a famous actor?",
+    "options": ["Singer", "Actor"],
+    "answer": "Singer"
+  },
+  {
+    "question": "Would you rather live in a castle or a treehouse?",
+    "options": ["Castle", "Treehouse"],
+    "answer": "Treehouse"
+  },
+  {
+    "question": "Would you rather swim in a pool or in the ocean?",
+    "options": ["Pool", "Ocean"],
+    "answer": "Ocean"
+  },
+  {
+    "question": "Would you rather ride a roller coaster or a ferris wheel?",
+    "options": ["Roller Coaster", "Ferris Wheel"],
+    "answer": "Roller Coaster"
+  },
+  {
+    "question": "Would you rather have the ability to talk to animals or read minds?",
+    "options": ["Talk to Animals", "Read Minds"],
+    "answer": "Talk to Animals"
+  },
+  {
+    "question": "Would you rather eat pizza or burgers?",
+    "options": ["Pizza", "Burgers"],
+    "answer": "Pizza"
+  },
+  {
+    "question": "Would you rather explore space or the deep sea?",
+    "options": ["Space", "Deep Sea"],
+    "answer": "Space"
+  },
+  {
+    "question": "Would you rather always be hot or always be cold?",
+    "options": ["Hot", "Cold"],
+    "answer": "Cold"
+  },
+  {
+    "question": "Would you rather live without TV or without the internet?",
+    "options": ["TV", "Internet"],
+    "answer": "TV"
+  },
+  {
+    "question": "Would you rather be invisible for a day or be able to fly for a day?",
+    "options": ["Invisible", "Fly"],
+    "answer": "Fly"
+  },
+  {
+    "question": "Would you rather always eat sweet or always eat salty?",
+    "options": ["Sweet", "Salty"],
+    "answer": "Sweet"
+  },
+  {
+    "question": "Would you rather have a superpower or be extremely rich?",
+    "options": ["Superpower", "Rich"],
+    "answer": "Superpower"
+  },
+  {
+    "question": "Would you rather live in a city or in a village?",
+    "options": ["City", "Village"],
+    "answer": "City"
+  },
+  {
+    "question": "Would you rather be able to speak all languages or play all instruments?",
+    "options": ["Speak All Languages", "Play All Instruments"],
+    "answer": "Speak All Languages"
+  },
+  {
+    "question": "Would you rather have a magical unicorn or a friendly dragon as a pet?",
+    "options": ["Unicorn", "Dragon"],
+    "answer": "Unicorn"
+  },
+  {
+    "question": "Would you rather be able to teleport anywhere or be able to time travel?",
+    "options": ["Teleport", "Time Travel"],
+    "answer": "Teleport"
+  },
+  {
+    "question": "Would you rather eat chocolate or ice cream for dessert?",
+    "options": ["Chocolate", "Ice Cream"],
+    "answer": "Chocolate"
+  },
+  {
+    "question": "Would you rather read books or watch movies?",
+    "options": ["Read Books", "Watch Movies"],
+    "answer": "Watch Movies"
+  },
+  {
+    "question": "Would you rather be famous or be happy without fame?",
+    "options": ["Famous", "Happy"],
+    "answer": "Happy"
+  },
+  {
+    "question": "Would you rather have the ability to fly or breathe underwater?",
+    "options": ["Fly", "Breathe Underwater"],
+    "answer": "Fly"
+  },
+  {
+    "question": "Would you rather have unlimited pizza or unlimited ice cream?",
+    "options": ["Pizza", "Ice Cream"],
+    "answer": "Pizza"
+  },
+  {
+    "question": "Would you rather be a superhero or a wizard?",
+    "options": ["Superhero", "Wizard"],
+    "answer": "Superhero"
+  },
+  {
+    "question": "Would you rather be able to talk to plants or talk to animals?",
+    "options": ["Talk to Plants", "Talk to Animals"],
+    "answer": "Talk to Animals"
+  },
+  {
+    "question": "Would you rather always have summer or always have winter?",
+    "options": ["Summer", "Winter"],
+    "answer": "Summer"
+  },
+  {
+    "question": "Would you rather live on an island or in a big city?",
+    "options": ["Island", "City"],
+    "answer": "Island"
+  }
+]
