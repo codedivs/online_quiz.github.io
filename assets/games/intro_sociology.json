@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Who is often referred to as the father of sociology?",
+    "options": ["Karl Marx", "Max Weber", "Émile Durkheim", "Auguste Comte"],
+    "answer": "Auguste Comte"
+  },
+  {
+    "question": "What is the study of society and social behavior called?",
+    "options": ["Anthropology", "Psychology", "Sociology", "Economics"],
+    "answer": "Sociology"
+  },
+  {
+    "question": "Which term refers to a group of people who share a common culture?",
+    "options": ["Society", "Family", "Institution", "Community"],
+    "answer": "Society"
+  },
+  {
+    "question": "Which concept refers to rules and expectations for behavior?",
+    "options": ["Values", "Norms", "Culture", "Beliefs"],
+    "answer": "Norms"
+  },
+  {
+    "question": "What is the feeling of disorientation when encountering an unfamiliar culture called?",
+    "options": ["Ethnocentrism", "Cultural lag", "Culture shock", "Assimilation"],
+    "answer": "Culture shock"
+  },
+  {
+    "question": "Which sociologist studied social integration and suicide?",
+    "options": ["Karl Marx", "Max Weber", "Émile Durkheim", "Herbert Spencer"],
+    "answer": "Émile Durkheim"
+  },
+  {
+    "question": "Which theory views society as a system of interrelated parts?",
+    "options": ["Conflict theory", "Symbolic interactionism", "Structural functionalism", "Evolutionary theory"],
+    "answer": "Structural functionalism"
+  },
+  {
+    "question": "Which concept refers to judging another culture by one's own standards?",
+    "options": ["Cultural relativism", "Ethnocentrism", "Assimilation", "Cultural diffusion"],
+    "answer": "Ethnocentrism"
+  },
+  {
+    "question": "What is an element of culture that represents something else?",
+    "options": ["Symbol", "Norm", "Value", "Belief"],
+    "answer": "Symbol"
+  },
+  {
+    "question": "Which term describes the spread of cultural elements from one society to another?",
+    "options": ["Enculturation", "Assimilation", "Cultural diffusion", "Acculturation"],
+    "answer": "Cultural diffusion"
+  },
+  {
+    "question": "Which perspective focuses on meaning that individuals attach to actions?",
+    "options": ["Functionalism", "Conflict theory", "Symbolic interactionism", "Feminist theory"],
+    "answer": "Symbolic interactionism"
+  },
+  {
+    "question": "Which type of group is small, personal, and long-lasting?",
+    "options": ["Primary group", "Secondary group", "Reference group", "Peer group"],
+    "answer": "Primary group"
+  },
+  {
+    "question": "What is a status assigned at birth called?",
+    "options": ["Achieved status", "Ascribed status", "Master status", "Role status"],
+    "answer": "Ascribed status"
+  },
+  {
+    "question": "Which term refers to expected behavior associated with a status?",
+    "options": ["Value", "Role", "Norm", "Identity"],
+    "answer": "Role"
+  },
+  {
+    "question": "Which theory emphasizes power inequality in society?",
+    "options": ["Functionalism", "Symbolic interactionism", "Conflict theory", "Exchange theory"],
+    "answer": "Conflict theory"
+  },
+  {
+    "question": "Which concept refers to patterned ways of meeting society’s needs?",
+    "options": ["Values", "Roles", "Social institutions", "Norms"],
+    "answer": "Social institutions"
+  },
+  {
+    "question": "Which method involves in-depth study of an individual or group?",
+    "options": ["Survey", "Experiment", "Case study", "Observation"],
+    "answer": "Case study"
+  },
+  {
+    "question": "Which term describes learning the values and norms of a culture?",
+    "options": ["Socialization", "Assimilation", "Enculturation", "Acculturation"],
+    "answer": "Socialization"
+  },
+  {
+    "question": "Which institution is primarily responsible for secondary socialization?",
+    "options": ["Family", "Peers", "School", "Media"],
+    "answer": "School"
+  },
+  {
+    "question": "What is the process of giving up old norms and adopting new ones?",
+    "options": ["Re-socialization", "Assimilation", "Acculturation", "Internalization"],
+    "answer": "Re-socialization"
+  },
+  {
+    "question": "Which term refers to unequal distribution of wealth and power?",
+    "options": ["Social stratification", "Social mobility", "Social inequality", "Class conflict"],
+    "answer": "Social inequality"
+  },
+  {
+    "question": "Which system of stratification is based on birth and fixed for life?",
+    "options": ["Class system", "Caste system", "Estate system", "Meritocracy"],
+    "answer": "Caste system"
+  },
+  {
+    "question": "Which concept refers to movement between social classes?",
+    "options": ["Socialization", "Social mobility", "Social order", "Social ranking"],
+    "answer": "Social mobility"
+  },
+  {
+    "question": "Who wrote *The Sociological Imagination*?",
+    "options": ["Karl Marx", "C. Wright Mills", "Max Weber", "George Mead"],
+    "answer": "C. Wright Mills"
+  },
+  {
+    "question": "Which term refers to a violation of social norms?",
+    "options": ["Value", "Belief", "Deviance", "Subculture"],
+    "answer": "Deviance"
+  },
+  {
+    "question": "Which theory suggests deviance results from social reaction and labeling?",
+    "options": ["Strain theory", "Labeling theory", "Conflict theory", "Control theory"],
+    "answer": "Labeling theory"
+  },
+  {
+    "question": "Which term describes groups with values that oppose the dominant culture?",
+    "options": ["Subculture", "Counterculture", "Multicultural group", "Norm group"],
+    "answer": "Counterculture"
+  },
+  {
+    "question": "What is the tendency to believe one’s culture is superior?",
+    "options": ["Cultural relativism", "Ethnocentrism", "Assimilation", "Enculturation"],
+    "answer": "Ethnocentrism"
+  },
+  {
+    "question": "Which concept describes learning through interacting with others?",
+    "options": ["Socialization", "Cooperation", "Conflict", "Competition"],
+    "answer": "Socialization"
+  },
+  {
+    "question": "Which term refers to expected behavior patterns for men and women?",
+    "options": ["Gender roles", "Sex roles", "Cultural norms", "Mores"],
+    "answer": "Gender roles"
+  },
+  {
+    "question": "Which sociologist developed the theory of rationalization?",
+    "options": ["Karl Marx", "Max Weber", "Émile Durkheim", "Herbert Spencer"],
+    "answer": "Max Weber"
+  },
+  {
+    "question": "Which concept refers to the shared beliefs and values of a society?",
+    "options": ["Culture", "Norms", "Roles", "Institutions"],
+    "answer": "Culture"
+  },
+  {
+    "question": "Which type of solidarity is based on interdependence in modern societies?",
+    "options": ["Mechanical solidarity", "Organic solidarity", "Collective solidarity", "Cultural solidarity"],
+    "answer": "Organic solidarity"
+  },
+  {
+    "question": "Which term refers to the ability to understand social behavior in context?",
+    "options": ["Sociological imagination", "Social perspective", "Interactionism", "Symbolic view"],
+    "answer": "Sociological imagination"
+  },
+  {
+    "question": "Which theory states society is a competition for limited resources?",
+    "options": ["Functionalism", "Conflict theory", "Symbolic interactionism", "Role theory"],
+    "answer": "Conflict theory"
+  },
+  {
+    "question": "Which concept refers to expected patterns of behavior in a group?",
+    "options": ["Norms", "Values", "Beliefs", "Institutions"],
+    "answer": "Norms"
+  },
+  {
+    "question": "Which term refers to a group people use as a standard for evaluation?",
+    "options": ["In-group", "Reference group", "Peer group", "Primary group"],
+    "answer": "Reference group"
+  },
+  {
+    "question": "Which method collects data through questionnaires?",
+    "options": ["Experiment", "Survey", "Case study", "Observation"],
+    "answer": "Survey"
+  },
+  {
+    "question": "Which type of culture includes intangible ideas like beliefs and values?",
+    "options": ["Material culture", "Symbolic culture", "Cultural artifact", "Normative culture"],
+    "answer": "Symbolic culture"
+  },
+  {
+    "question": "Which concept refers to the process by which society maintains norms and order?",
+    "options": ["Socialization", "Social control", "Social identity", "Stratification"],
+    "answer": "Social control"
+  },
+  {
+    "question": "Which term refers to the obligation to balance multiple roles?",
+    "options": ["Role conflict", "Role strain", "Role set", "Role overload"],
+    "answer": "Role strain"
+  },
+  {
+    "question": "What is a socially defined position in society called?",
+    "options": ["Norm", "Role", "Status", "Class"],
+    "answer": "Status"
+  },
+  {
+    "question": "Which concept refers to the hierarchy of social groups?",
+    "options": ["Social network", "Social stratification", "Social institution", "Social order"],
+    "answer": "Social stratification"
+  },
+  {
+    "question": "Which term refers to norms that are strictly enforced with moral significance?",
+    "options": ["Folkways", "Mores", "Customs", "Values"],
+    "answer": "Mores"
+  },
+  {
+    "question": "Which refers to the learning of culture across generations?",
+    "options": ["Enculturation", "Re-socialization", "Acculturation", "Socialization"],
+    "answer": "Enculturation"
+  },
+  {
+    "question": "Which term refers to the ability to move up or down in a social hierarchy?",
+    "options": ["Social mobility", "Social drift", "Social shift", "Structural movement"],
+    "answer": "Social mobility"
+  },
+  {
+    "question": "Which type of crime includes offenses like murder and robbery?",
+    "options": ["White-collar crime", "Corporate crime", "Street crime", "Victimless crime"],
+    "answer": "Street crime"
+  },
+  {
+    "question": "Who believed that capitalism leads to class conflict?",
+    "options": ["Karl Marx", "Max Weber", "Émile Durkheim", "Talcott Parsons"],
+    "answer": "Karl Marx"
+  },
+  {
+    "question": "Which concept refers to norms governing ordinary social interactions?",
+    "options": ["Folkways", "Mores", "Sanctions", "Values"],
+    "answer": "Folkways"
+  }
+]
