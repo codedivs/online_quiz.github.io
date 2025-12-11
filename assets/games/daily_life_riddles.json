@@ -1,0 +1,152 @@
+[
+  {
+    "question": "I have keys but no locks. I have space but no room. What am I?",
+    "options": ["Keyboard", "Map", "House", "Book"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "What gets wetter as it dries?",
+    "options": ["Towel", "Sponge", "Water", "Soap"],
+    "answer": "Towel"
+  },
+  {
+    "question": "What has hands but cannot clap?",
+    "options": ["Clock", "Robot", "Mannequin", "Statue"],
+    "answer": "Clock"
+  },
+  {
+    "question": "What has a face and two hands but no arms or legs?",
+    "options": ["Clock", "Mirror", "Watch", "Picture"],
+    "answer": "Clock"
+  },
+  {
+    "question": "I’m full of holes but can hold water. What am I?",
+    "options": ["Sponge", "Bucket", "Cup", "Strainer"],
+    "answer": "Sponge"
+  },
+  {
+    "question": "I go up but never come down. What am I?",
+    "options": ["Age", "Balloon", "Smoke", "Sun"],
+    "answer": "Age"
+  },
+  {
+    "question": "What has to be broken before you can use it?",
+    "options": ["Egg", "Window", "Seal", "Bottle"],
+    "answer": "Egg"
+  },
+  {
+    "question": "I’m tall when I’m young and short when I’m old. What am I?",
+    "options": ["Candle", "Pencil", "Tree", "Person"],
+    "answer": "Candle"
+  },
+  {
+    "question": "The more you take, the more you leave behind. What am I?",
+    "options": ["Footsteps", "Time", "Water", "Money"],
+    "answer": "Footsteps"
+  },
+  {
+    "question": "What can travel around the world while staying in a corner?",
+    "options": ["Stamp", "Plane", "Globe", "Letter"],
+    "answer": "Stamp"
+  },
+  {
+    "question": "What has one eye but cannot see?",
+    "options": ["Needle", "Potato", "Button", "Cyclops"],
+    "answer": "Needle"
+  },
+  {
+    "question": "I’m light as a feather, yet the strongest man can’t hold me for long. What am I?",
+    "options": ["Breath", "Water", "Air", "Cloud"],
+    "answer": "Breath"
+  },
+  {
+    "question": "What can you catch but not throw?",
+    "options": ["Cold", "Ball", "Frisbee", "Fish"],
+    "answer": "Cold"
+  },
+  {
+    "question": "I have a neck but no head. What am I?",
+    "options": ["Bottle", "Shirt", "Guitar", "Lamp"],
+    "answer": "Bottle"
+  },
+  {
+    "question": "What has many teeth but cannot bite?",
+    "options": ["Comb", "Saw", "Zipper", "Key"],
+    "answer": "Comb"
+  },
+  {
+    "question": "I am always in front of you but can’t be seen. What am I?",
+    "options": ["Future", "Air", "Shadow", "Mirror"],
+    "answer": "Future"
+  },
+  {
+    "question": "What has a head and a tail but no body?",
+    "options": ["Coin", "Snake", "Comet", "Penny"],
+    "answer": "Coin"
+  },
+  {
+    "question": "I have cities, but no houses; forests, but no trees; and water, but no fish. What am I?",
+    "options": ["Map", "Book", "Globe", "Puzzle"],
+    "answer": "Map"
+  },
+  {
+    "question": "What kind of room has no doors or windows?",
+    "options": ["Mushroom", "Closet", "Attic", "Box"],
+    "answer": "Mushroom"
+  },
+  {
+    "question": "What has words but never speaks?",
+    "options": ["Book", "Newspaper", "Sign", "Letter"],
+    "answer": "Book"
+  },
+  {
+    "question": "What has a thumb and four fingers but is not alive?",
+    "options": ["Glove", "Hand", "Mitten", "Robot Hand"],
+    "answer": "Glove"
+  },
+  {
+    "question": "I’m always running but never move. What am I?",
+    "options": ["Clock", "River", "Car", "Fan"],
+    "answer": "River"
+  },
+  {
+    "question": "What can fill a room but takes up no space?",
+    "options": ["Light", "Air", "Sound", "Heat"],
+    "answer": "Light"
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I?",
+    "options": ["Footsteps", "Time", "Shadow", "Sand"],
+    "answer": "Footsteps"
+  },
+  {
+    "question": "I have wings but cannot fly. What am I?",
+    "options": ["Penguin", "Airplane", "Bat", "Ostrich"],
+    "answer": "Penguin"
+  },
+  {
+    "question": "I have a spine but no bones. What am I?",
+    "options": ["Book", "Cactus", "Fish", "Leaf"],
+    "answer": "Book"
+  },
+  {
+    "question": "What has an eye but cannot see?",
+    "options": ["Needle", "Storm", "Potato", "Hurricane"],
+    "answer": "Needle"
+  },
+  {
+    "question": "What is full of holes but still holds water?",
+    "options": ["Sponge", "Bucket", "Net", "Cloth"],
+    "answer": "Sponge"
+  },
+  {
+    "question": "I’m always in the sky but never fall. What am I?",
+    "options": ["Sun", "Cloud", "Moon", "Star"],
+    "answer": "Star"
+  },
+  {
+    "question": "What belongs to you but is used more by others?",
+    "options": ["Your name", "Your phone", "Your money", "Your house"],
+    "answer": "Your name"
+  }
+]
