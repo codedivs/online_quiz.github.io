@@ -4,7 +4,7 @@
     "game_icon": "assets/img/code_right.png",
     "game_id": "video_games_gaming_characters",
     "difficulty": "medium",
-    "stars": 3,
+    "stars": 2,
     "category": "entertainment"
   },
   {
@@ -12,7 +12,7 @@
     "game_icon": "assets/img/code_right.png",
     "game_id": "sports_athletes",
     "difficulty": "medium",
-    "stars": 3,
+    "stars": 2,
     "category": "sports"
   },
   {
@@ -20,7 +20,7 @@
     "game_icon": "assets/img/code_right.png",
     "game_id": "superheroes_comics",
     "difficulty": "medium",
-    "stars": 4,
+    "stars": 2,
     "category": "entertainment"
   },
   {
@@ -28,7 +28,7 @@
     "game_icon": "assets/img/code_right.png",
     "game_id": "cars_motorbikes",
     "difficulty": "medium",
-    "stars": 4,
+    "stars": 2,
     "category": "vehicles"
   },
   {
@@ -36,7 +36,7 @@
     "game_icon": "assets/img/code_right.png",
     "game_id": "technology_gadgets",
     "difficulty": "medium",
-    "stars": 3,
+    "stars": 2,
     "category": "tech"
   },
   {
@@ -44,7 +44,7 @@
     "game_icon": "assets/img/code_right.png",
     "game_id": "movies_action_films",
     "difficulty": "easy",
-    "stars": 4,
+    "stars": 1,
     "category": "entertainment"
   },
   {
@@ -52,7 +52,7 @@
     "game_icon": "assets/img/code_right.png",
     "game_id": "science_space",
     "difficulty": "medium",
-    "stars": 3,
+    "stars": 2,
     "category": "education"
   },
   {
@@ -60,7 +60,7 @@
     "game_icon": "assets/img/code_right.png",
     "game_id": "music_bands",
     "difficulty": "medium",
-    "stars": 3,
+    "stars": 2,
     "category": "music"
   },
   {
