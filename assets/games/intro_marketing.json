@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What is the primary goal of marketing?",
+    "options": ["To sell products", "To create customer value", "To reduce production costs", "To increase taxes"],
+    "answer": "To create customer value"
+  },
+  {
+    "question": "Which of the following is part of the marketing mix?",
+    "options": ["Product, Price, Place, Promotion", "Profit, People, Process, Policy", "Plan, Produce, Promote, Place", "Product, People, Policy, Price"],
+    "answer": "Product, Price, Place, Promotion"
+  },
+  {
+    "question": "Which term refers to a group of consumers a company wants to target?",
+    "options": ["Market segment", "Consumer base", "Audience", "Focus group"],
+    "answer": "Market segment"
+  },
+  {
+    "question": "What does 'brand' refer to in marketing?",
+    "options": ["A company logo", "A product's identity and reputation", "A type of advertisement", "A pricing strategy"],
+    "answer": "A product's identity and reputation"
+  },
+  {
+    "question": "Which type of marketing focuses on satisfying customer needs and wants?",
+    "options": ["Product-oriented", "Sales-oriented", "Marketing-oriented", "Production-oriented"],
+    "answer": "Marketing-oriented"
+  },
+  {
+    "question": "What is 'market research' used for?",
+    "options": ["Understanding consumer behavior", "Setting product prices", "Advertising products", "Producing goods"],
+    "answer": "Understanding consumer behavior"
+  },
+  {
+    "question": "Which of the following is an example of direct marketing?",
+    "options": ["Email promotions", "TV commercials", "Billboards", "Radio ads"],
+    "answer": "Email promotions"
+  },
+  {
+    "question": "Which marketing strategy involves dividing the market into groups of similar customers?",
+    "options": ["Targeting", "Segmentation", "Positioning", "Branding"],
+    "answer": "Segmentation"
+  },
+  {
+    "question": "Which term refers to the process of making a product known to consumers?",
+    "options": ["Promotion", "Positioning", "Pricing", "Packaging"],
+    "answer": "Promotion"
+  },
+  {
+    "question": "What is a 'unique selling proposition' (USP)?",
+    "options": ["A company slogan", "A product feature that sets it apart", "A pricing strategy", "A distribution channel"],
+    "answer": "A product feature that sets it apart"
+  },
+  {
+    "question": "Which is NOT part of the 4Ps of marketing?",
+    "options": ["Promotion", "People", "Place", "Product"],
+    "answer": "People"
+  },
+  {
+    "question": "Which pricing strategy sets a high price to indicate quality or exclusivity?",
+    "options": ["Penetration pricing", "Skimming pricing", "Competitive pricing", "Discount pricing"],
+    "answer": "Skimming pricing"
+  },
+  {
+    "question": "What is the purpose of a loyalty program?",
+    "options": ["To attract new employees", "To encourage repeat customers", "To reduce production costs", "To advertise products"],
+    "answer": "To encourage repeat customers"
+  },
+  {
+    "question": "Which type of marketing uses social media platforms to reach consumers?",
+    "options": ["Digital marketing", "Traditional marketing", "Direct marketing", "Word-of-mouth marketing"],
+    "answer": "Digital marketing"
+  },
+  {
+    "question": "What is the term for a detailed description of a target customer?",
+    "options": ["Customer persona", "Market segment", "Focus group", "Consumer profile"],
+    "answer": "Customer persona"
+  },
+  {
+    "question": "Which type of research involves observing consumer behavior?",
+    "options": ["Primary research", "Secondary research", "Qualitative research", "Quantitative research"],
+    "answer": "Primary research"
+  },
+  {
+    "question": "Which method is used to gather consumer opinions through questionnaires?",
+    "options": ["Survey", "Focus group", "Observation", "Experiment"],
+    "answer": "Survey"
+  },
+  {
+    "question": "Which of the following is a digital marketing channel?",
+    "options": ["Social media", "Billboards", "Radio ads", "Newspapers"],
+    "answer": "Social media"
+  },
+  {
+    "question": "What is 'content marketing'?",
+    "options": ["Creating valuable content to attract customers", "Advertising products on TV", "Setting product prices", "Selling products in stores"],
+    "answer": "Creating valuable content to attract customers"
+  },
+  {
+    "question": "Which term describes how a product is perceived in the minds of customers?",
+    "options": ["Branding", "Positioning", "Segmentation", "Promotion"],
+    "answer": "Positioning"
+  },
+  {
+    "question": "Which type of marketing encourages satisfied customers to promote a product?",
+    "options": ["Word-of-mouth marketing", "Content marketing", "Email marketing", "Sales promotion"],
+    "answer": "Word-of-mouth marketing"
+  },
+  {
+    "question": "Which strategy offers a product at a lower price to attract more customers?",
+    "options": ["Skimming pricing", "Penetration pricing", "Premium pricing", "Bundle pricing"],
+    "answer": "Penetration pricing"
+  },
+  {
+    "question": "Which is a key benefit of customer relationship management (CRM)?",
+    "options": ["Better understanding of customers", "Reducing production costs", "Increasing advertising spend", "Tracking competitors"],
+    "answer": "Better understanding of customers"
+  },
+  {
+    "question": "Which type of product is purchased frequently with little effort?",
+    "options": ["Convenience product", "Shopping product", "Specialty product", "Unsought product"],
+    "answer": "Convenience product"
+  },
+  {
+    "question": "Which type of product requires comparison before purchase?",
+    "options": ["Convenience product", "Shopping product", "Specialty product", "Unsought product"],
+    "answer": "Shopping product"
+  },
+  {
+    "question": "Which type of product has unique characteristics that attract loyal customers?",
+    "options": ["Convenience product", "Shopping product", "Specialty product", "Unsought product"],
+    "answer": "Specialty product"
+  },
+  {
+    "question": "Which type of product is not actively sought by consumers?",
+    "options": ["Convenience product", "Shopping product", "Specialty product", "Unsought product"],
+    "answer": "Unsought product"
+  },
+  {
+    "question": "Which distribution channel involves selling products directly to consumers?",
+    "options": ["Direct channel", "Indirect channel", "Retail channel", "Wholesale channel"],
+    "answer": "Direct channel"
+  },
+  {
+    "question": "Which distribution channel uses intermediaries like wholesalers or retailers?",
+    "options": ["Direct channel", "Indirect channel", "Online channel", "Global channel"],
+    "answer": "Indirect channel"
+  },
+  {
+    "question": "Which is an example of sales promotion?",
+    "options": ["Discounts", "TV commercials", "Billboards", "Social media posts"],
+    "answer": "Discounts"
+  },
+  {
+    "question": "Which marketing approach focuses on long-term customer satisfaction?",
+    "options": ["Transactional marketing", "Relationship marketing", "Product marketing", "Sales marketing"],
+    "answer": "Relationship marketing"
+  },
+  {
+    "question": "Which marketing tool helps analyze the internal and external environment?",
+    "options": ["SWOT analysis", "4Ps", "Marketing mix", "Customer persona"],
+    "answer": "SWOT analysis"
+  },
+  {
+    "question": "Which type of digital marketing uses search engines to promote products?",
+    "options": ["Search engine marketing", "Social media marketing", "Email marketing", "Content marketing"],
+    "answer": "Search engine marketing"
+  },
+  {
+    "question": "Which marketing term refers to the total value of a brand in the market?",
+    "options": ["Brand equity", "Brand awareness", "Brand loyalty", "Brand identity"],
+    "answer": "Brand equity"
+  },
+  {
+    "question": "Which marketing approach focuses on producing as much as possible efficiently?",
+    "options": ["Production-oriented", "Marketing-oriented", "Sales-oriented", "Relationship-oriented"],
+    "answer": "Production-oriented"
+  },
+  {
+    "question": "Which type of research analyzes existing data instead of collecting new data?",
+    "options": ["Secondary research", "Primary research", "Quantitative research", "Qualitative research"],
+    "answer": "Secondary research"
+  },
+  {
+    "question": "Which is an example of experiential marketing?",
+    "options": ["Product demonstrations", "Online ads", "Billboards", "Newspaper ads"],
+    "answer": "Product demonstrations"
+  },
+  {
+    "question": "Which type of pricing sets a moderate price to attract value-conscious customers?",
+    "options": ["Premium pricing", "Economy pricing", "Penetration pricing", "Skimming pricing"],
+    "answer": "Economy pricing"
+  },
+  {
+    "question": "Which is an example of a service marketing product?",
+    "options": ["Banking services", "Mobile phones", "Furniture", "Clothing"],
+    "answer": "Banking services"
+  },
+  {
+    "question": "Which term refers to customers repeatedly buying a product or service?",
+    "options": ["Customer loyalty", "Customer acquisition", "Customer segmentation", "Customer profiling"],
+    "answer": "Customer loyalty"
+  },
+  {
+    "question": "Which marketing strategy focuses on environmental and social responsibility?",
+    "options": ["Green marketing", "Relationship marketing", "Digital marketing", "Experiential marketing"],
+    "answer": "Green marketing"
+  },
+  {
+    "question": "Which type of marketing encourages immediate purchase through limited offers?",
+    "options": ["Sales promotion", "Content marketing", "Digital marketing", "Brand marketing"],
+    "answer": "Sales promotion"
+  },
+  {
+    "question": "Which of the following is a primary element of branding?",
+    "options": ["Logo", "Packaging", "Slogan", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which marketing metric measures the number of customers visiting a website?",
+    "options": ["Website traffic", "Conversion rate", "Click-through rate", "Bounce rate"],
+    "answer": "Website traffic"
+  },
+  {
+    "question": "Which type of marketing uses influencers to promote products?",
+    "options": ["Influencer marketing", "Content marketing", "Email marketing", "Search engine marketing"],
+    "answer": "Influencer marketing"
+  },
+  {
+    "question": "Which marketing metric measures the percentage of visitors who buy a product?",
+    "options": ["Conversion rate", "Click-through rate", "Website traffic", "Bounce rate"],
+    "answer": "Conversion rate"
+  },
+  {
+    "question": "Which marketing activity involves packaging and labeling products attractively?",
+    "options": ["Product promotion", "Product positioning", "Product packaging", "Product distribution"],
+    "answer": "Product packaging"
+  },
+  {
+    "question": "Which marketing concept focuses on understanding and fulfilling customer needs?",
+    "options": ["Customer orientation", "Product orientation", "Sales orientation", "Production orientation"],
+    "answer": "Customer orientation"
+  }
+]
