@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": ["Cheetah", "Lion", "Horse", "Tiger"],
+    "answer": "Cheetah"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": ["8", "6", "10", "12"],
+    "answer": "8"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which fruit is known to keep the doctor away?",
+    "options": ["Apple", "Banana", "Orange", "Grapes"],
+    "answer": "Apple"
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "options": ["Water", "Oxygen", "Hydrogen", "Ice"],
+    "answer": "Water"
+  },
+  {
+    "question": "Which bird is famous for mimicking human speech?",
+    "options": ["Parrot", "Sparrow", "Crow", "Owl"],
+    "answer": "Parrot"
+  },
+  {
+    "question": "How many colors are there in a rainbow?",
+    "options": ["7", "6", "5", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which animal is known as the Ship of the Desert?",
+    "options": ["Camel", "Horse", "Elephant", "Llama"],
+    "answer": "Camel"
+  },
+  {
+    "question": "What is the main ingredient in chocolate?",
+    "options": ["Cocoa", "Sugar", "Milk", "Vanilla"],
+    "answer": "Cocoa"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What gas do humans breathe in to survive?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the tallest animal in the world?",
+    "options": ["Giraffe", "Elephant", "Horse", "Kangaroo"],
+    "answer": "Giraffe"
+  },
+  {
+    "question": "Which month has the shortest number of days?",
+    "options": ["February", "April", "June", "November"],
+    "answer": "February"
+  },
+  {
+    "question": "Which is the largest planet in our solar system?",
+    "options": ["Jupiter", "Saturn", "Earth", "Neptune"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which animal is famous for changing its color?",
+    "options": ["Chameleon", "Frog", "Octopus", "Lizard"],
+    "answer": "Chameleon"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Diamond", "Gold", "Iron", "Quartz"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "Which organ pumps blood throughout the human body?",
+    "options": ["Heart", "Lungs", "Brain", "Kidney"],
+    "answer": "Heart"
+  },
+  {
+    "question": "Which fruit is yellow and curved?",
+    "options": ["Banana", "Apple", "Mango", "Pineapple"],
+    "answer": "Banana"
+  },
+  {
+    "question": "Which insect produces honey?",
+    "options": ["Bee", "Butterfly", "Ant", "Fly"],
+    "answer": "Bee"
+  },
+  {
+    "question": "Which continent is the largest by area?",
+    "options": ["Asia", "Africa", "Europe", "North America"],
+    "answer": "Asia"
+  },
+  {
+    "question": "Which animal is known for its black and white stripes?",
+    "options": ["Zebra", "Tiger", "Panda", "Skunk"],
+    "answer": "Zebra"
+  },
+  {
+    "question": "Which planet is known for its rings?",
+    "options": ["Saturn", "Jupiter", "Mars", "Uranus"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "Which food comes from cows?",
+    "options": ["Milk", "Honey", "Eggs", "Wheat"],
+    "answer": "Milk"
+  },
+  {
+    "question": "Which is the largest land animal?",
+    "options": ["Elephant", "Giraffe", "Hippo", "Rhino"],
+    "answer": "Elephant"
+  },
+  {
+    "question": "Which ocean is the smallest on Earth?",
+    "options": ["Arctic Ocean", "Indian Ocean", "Atlantic Ocean", "Pacific Ocean"],
+    "answer": "Arctic Ocean"
+  },
+  {
+    "question": "Which color do you get by mixing red and blue?",
+    "options": ["Purple", "Green", "Orange", "Pink"],
+    "answer": "Purple"
+  },
+  {
+    "question": "Which day comes after Friday?",
+    "options": ["Saturday", "Sunday", "Thursday", "Monday"],
+    "answer": "Saturday"
+  },
+  {
+    "question": "Which metal is used to make coins?",
+    "options": ["Copper", "Silver", "Gold", "Iron"],
+    "answer": "Copper"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "options": ["Earth", "Neptune", "Uranus", "Saturn"],
+    "answer": "Earth"
+  }
+]
