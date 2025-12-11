@@ -311,5 +311,13 @@
     "difficulty": "easy",
     "stars": 1,
     "category": "science"
+  },
+  {
+    "game_name": "Advanced Chemistry",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "advanced_chemistry",
+    "difficulty": "hard",
+    "stars": 3,
+    "category": "science"
   }
 ]
