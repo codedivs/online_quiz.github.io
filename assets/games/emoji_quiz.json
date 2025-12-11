@@ -1,4 +1,158 @@
-[
+[{
+    "question": "🦁👑 – Which animal is shown as the king?",
+    "options": ["Lion", "Tiger", "Elephant", "Leopard"],
+    "answer": "Lion"
+  },
+  {
+    "question": "🍎 – What fruit is this?",
+    "options": ["Apple", "Banana", "Orange", "Cherry"],
+    "answer": "Apple"
+  },
+  {
+    "question": "🚗💨 – What is this?",
+    "options": ["Car", "Plane", "Boat", "Train"],
+    "answer": "Car"
+  },
+  {
+    "question": "🌞 – What is this symbol?",
+    "options": ["Sun", "Moon", "Star", "Cloud"],
+    "answer": "Sun"
+  },
+  {
+    "question": "🐶 – Which animal is this?",
+    "options": ["Dog", "Cat", "Rabbit", "Fox"],
+    "answer": "Dog"
+  },
+  {
+    "question": "🌧️ – What is this weather?",
+    "options": ["Rainy", "Sunny", "Snowy", "Windy"],
+    "answer": "Rainy"
+  },
+  {
+    "question": "🍕 – What food is this?",
+    "options": ["Pizza", "Burger", "Hotdog", "Sandwich"],
+    "answer": "Pizza"
+  },
+  {
+    "question": "🎂 – What occasion does this represent?",
+    "options": ["Birthday", "Christmas", "Halloween", "Easter"],
+    "answer": "Birthday"
+  },
+  {
+    "question": "🚀 – What is this?",
+    "options": ["Rocket", "Car", "Plane", "Submarine"],
+    "answer": "Rocket"
+  },
+  {
+    "question": "🐱 – Which animal is this?",
+    "options": ["Cat", "Dog", "Lion", "Tiger"],
+    "answer": "Cat"
+  },
+  {
+    "question": "🍌 – Which fruit is this?",
+    "options": ["Banana", "Apple", "Mango", "Orange"],
+    "answer": "Banana"
+  },
+  {
+    "question": "🌲 – What is this?",
+    "options": ["Tree", "Flower", "Bush", "Grass"],
+    "answer": "Tree"
+  },
+  {
+    "question": "🐘 – Which animal is this?",
+    "options": ["Elephant", "Rhino", "Hippo", "Giraffe"],
+    "answer": "Elephant"
+  },
+  {
+    "question": "⚽ – What sport is this?",
+    "options": ["Soccer", "Basketball", "Tennis", "Baseball"],
+    "answer": "Soccer"
+  },
+  {
+    "question": "🍩 – What food is this?",
+    "options": ["Donut", "Cookie", "Cake", "Muffin"],
+    "answer": "Donut"
+  },
+  {
+    "question": "🐸 – Which animal is this?",
+    "options": ["Frog", "Turtle", "Lizard", "Snake"],
+    "answer": "Frog"
+  },
+  {
+    "question": "🌈 – What is this?",
+    "options": ["Rainbow", "Sun", "Cloud", "Moon"],
+    "answer": "Rainbow"
+  },
+  {
+    "question": "🎧 – What is this?",
+    "options": ["Headphones", "Microphone", "Speaker", "Radio"],
+    "answer": "Headphones"
+  },
+  {
+    "question": "🐦 – Which animal is this?",
+    "options": ["Bird", "Duck", "Chicken", "Owl"],
+    "answer": "Bird"
+  },
+  {
+    "question": "🍦 – What food is this?",
+    "options": ["Ice Cream", "Cake", "Pudding", "Candy"],
+    "answer": "Ice Cream"
+  },
+  {
+    "question": "🌊 – What does this represent?",
+    "options": ["Water", "Fire", "Earth", "Air"],
+    "answer": "Water"
+  },
+  {
+    "question": "🐼 – Which animal is this?",
+    "options": ["Panda", "Koala", "Bear", "Dog"],
+    "answer": "Panda"
+  },
+  {
+    "question": "🎈 – What is this?",
+    "options": ["Balloon", "Bouncy Ball", "Beach Ball", "Bubble"],
+    "answer": "Balloon"
+  },
+  {
+    "question": "🚲 – What is this?",
+    "options": ["Bicycle", "Motorbike", "Scooter", "Car"],
+    "answer": "Bicycle"
+  },
+  {
+    "question": "🐢 – Which animal is this?",
+    "options": ["Turtle", "Snail", "Frog", "Lizard"],
+    "answer": "Turtle"
+  },
+  {
+    "question": "🍓 – Which fruit is this?",
+    "options": ["Strawberry", "Cherry", "Apple", "Raspberry"],
+    "answer": "Strawberry"
+  },
+  {
+    "question": "🌟 – What is this?",
+    "options": ["Star", "Moon", "Sun", "Cloud"],
+    "answer": "Star"
+  },
+  {
+    "question": "🐍 – Which animal is this?",
+    "options": ["Snake", "Lizard", "Worm", "Dragon"],
+    "answer": "Snake"
+  },
+  {
+    "question": "🎃 – What occasion is this for?",
+    "options": ["Halloween", "Christmas", "Easter", "Thanksgiving"],
+    "answer": "Halloween"
+  },
+  {
+    "question": "🍉 – Which fruit is this?",
+    "options": ["Watermelon", "Cantaloupe", "Apple", "Orange"],
+    "answer": "Watermelon"
+  },
+  {
+    "question": "🦄 – Which mythical animal is this?",
+    "options": ["Unicorn", "Dragon", "Phoenix", "Pegasus"],
+    "answer": "Unicorn"
+  },
   {
     "question": "🍎🍏 What fruit is this?",
     "options": ["Apple", "Banana", "Orange", "Grapes"],
