@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What is a synonym for 'Happy'?",
+    "options": ["Sad", "Joyful", "Angry", "Tired"],
+    "answer": "Joyful"
+  },
+  {
+    "question": "What is a synonym for 'Fast'?",
+    "options": ["Slow", "Quick", "Late", "Dull"],
+    "answer": "Quick"
+  },
+  {
+    "question": "What is a synonym for 'Large'?",
+    "options": ["Small", "Tiny", "Huge", "Little"],
+    "answer": "Huge"
+  },
+  {
+    "question": "What is a synonym for 'Smart'?",
+    "options": ["Dumb", "Intelligent", "Dull", "Slow"],
+    "answer": "Intelligent"
+  },
+  {
+    "question": "What is a synonym for 'Beautiful'?",
+    "options": ["Ugly", "Pretty", "Big", "Tall"],
+    "answer": "Pretty"
+  },
+  {
+    "question": "What is a synonym for 'Strong'?",
+    "options": ["Weak", "Tough", "Tiny", "Delicate"],
+    "answer": "Tough"
+  },
+  {
+    "question": "What is a synonym for 'Kind'?",
+    "options": ["Cruel", "Friendly", "Mean", "Rude"],
+    "answer": "Friendly"
+  },
+  {
+    "question": "What is a synonym for 'Brave'?",
+    "options": ["Cowardly", "Fearless", "Scared", "Timid"],
+    "answer": "Fearless"
+  },
+  {
+    "question": "What is a synonym for 'Shiny'?",
+    "options": ["Dull", "Bright", "Dark", "Boring"],
+    "answer": "Bright"
+  },
+  {
+    "question": "What is a synonym for 'Cold'?",
+    "options": ["Warm", "Hot", "Chilly", "Boiling"],
+    "answer": "Chilly"
+  },
+  {
+    "question": "What is a synonym for 'Beautiful'?",
+    "options": ["Ugly", "Handsome", "Pretty", "Plain"],
+    "answer": "Pretty"
+  },
+  {
+    "question": "What is a synonym for 'Sad'?",
+    "options": ["Happy", "Miserable", "Joyful", "Excited"],
+    "answer": "Miserable"
+  },
+  {
+    "question": "What is a synonym for 'Laugh'?",
+    "options": ["Cry", "Smile", "Giggle", "Frown"],
+    "answer": "Giggle"
+  },
+  {
+    "question": "What is a synonym for 'Angry'?",
+    "options": ["Happy", "Mad", "Joyful", "Sad"],
+    "answer": "Mad"
+  },
+  {
+    "question": "What is a synonym for 'Rich'?",
+    "options": ["Poor", "Wealthy", "Broke", "Needy"],
+    "answer": "Wealthy"
+  },
+  {
+    "question": "What is a synonym for 'Quiet'?",
+    "options": ["Loud", "Silent", "Talkative", "Noisy"],
+    "answer": "Silent"
+  },
+  {
+    "question": "What is a synonym for 'Hard'?",
+    "options": ["Soft", "Tough", "Weak", "Gentle"],
+    "answer": "Tough"
+  },
+  {
+    "question": "What is a synonym for 'Big'?",
+    "options": ["Small", "Tiny", "Huge", "Petite"],
+    "answer": "Huge"
+  },
+  {
+    "question": "What is a synonym for 'Loud'?",
+    "options": ["Quiet", "Noisy", "Silent", "Soft"],
+    "answer": "Noisy"
+  },
+  {
+    "question": "What is a synonym for 'Hardworking'?",
+    "options": ["Lazy", "Industrious", "Sleepy", "Unmotivated"],
+    "answer": "Industrious"
+  },
+  {
+    "question": "What is a synonym for 'Dangerous'?",
+    "options": ["Safe", "Risky", "Careful", "Harmless"],
+    "answer": "Risky"
+  },
+  {
+    "question": "What is a synonym for 'Weak'?",
+    "options": ["Strong", "Fragile", "Powerful", "Mighty"],
+    "answer": "Fragile"
+  },
+  {
+    "question": "What is a synonym for 'Delicious'?",
+    "options": ["Tasty", "Nasty", "Gross", "Bitter"],
+    "answer": "Tasty"
+  },
+  {
+    "question": "What is a synonym for 'Healthy'?",
+    "options": ["Sick", "Fit", "Ill", "Unwell"],
+    "answer": "Fit"
+  },
+  {
+    "question": "What is a synonym for 'Generous'?",
+    "options": ["Greedy", "Kind", "Selfish", "Uncaring"],
+    "answer": "Kind"
+  },
+  {
+    "question": "What is a synonym for 'Quick'?",
+    "options": ["Slow", "Fast", "Lazy", "Deliberate"],
+    "answer": "Fast"
+  },
+  {
+    "question": "What is a synonym for 'Lazy'?",
+    "options": ["Active", "Energetic", "Inactive", "Lively"],
+    "answer": "Inactive"
+  },
+  {
+    "question": "What is a synonym for 'Smart'?",
+    "options": ["Dumb", "Clever", "Dull", "Unintelligent"],
+    "answer": "Clever"
+  },
+  {
+    "question": "What is a synonym for 'Old'?",
+    "options": ["Young", "Ancient", "New", "Modern"],
+    "answer": "Ancient"
+  },
+  {
+    "question": "What is a synonym for 'Quiet'?",
+    "options": ["Loud", "Silent", "Talkative", "Rowdy"],
+    "answer": "Silent"
+  },
+  {
+    "question": "What is a synonym for 'Gentle'?",
+    "options": ["Harsh", "Tough", "Kind", "Rough"],
+    "answer": "Kind"
+  },
+  {
+    "question": "What is a synonym for 'Sweet'?",
+    "options": ["Sour", "Bitter", "Sugary", "Salty"],
+    "answer": "Sugary"
+  },
+  {
+    "question": "What is a synonym for 'Clean'?",
+    "options": ["Dirty", "Tidy", "Messy", "Untidy"],
+    "answer": "Tidy"
+  },
+  {
+    "question": "What is a synonym for 'Love'?",
+    "options": ["Hate", "Like", "Dislike", "Enjoy"],
+    "answer": "Like"
+  }
+]
