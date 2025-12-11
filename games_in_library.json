@@ -495,5 +495,13 @@
     "difficulty": "very easy",
     "stars": 1,
     "category": "science"
-  }
+  },
+  {
+  "game_name": "Riddles & Brain Teasers",
+  "game_icon": "assets/img/code_right.png",
+  "game_id": "riddles_brain_teasers",
+  "difficulty": "easy",
+  "stars": 2,
+  "category": "puzzle"
+}
 ]
