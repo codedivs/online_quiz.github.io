@@ -72,14 +72,6 @@
     "category": "outdoors"
   },
   {
-    "game_name": "Mythology & Legends",
-    "game_icon": "assets/img/code_right.png",
-    "game_id": "mythology_legends",
-    "difficulty": "medium",
-    "stars": 3,
-    "category": "history"
-  },
-  {
     "game_name": "Cartoon & Animation Quiz",
     "game_icon": "assets/img/code_right.png",
     "game_id": "cartoon_animation_quiz",
