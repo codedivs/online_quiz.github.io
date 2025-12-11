@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What is the primary purpose of accounting?",
+    "options": ["To record financial transactions", "To hire employees", "To design products", "To manage marketing campaigns"],
+    "answer": "To record financial transactions"
+  },
+  {
+    "question": "Which financial statement shows a company's assets, liabilities, and equity?",
+    "options": ["Balance Sheet", "Income Statement", "Cash Flow Statement", "Statement of Retained Earnings"],
+    "answer": "Balance Sheet"
+  },
+  {
+    "question": "Which financial statement shows revenue and expenses over a period?",
+    "options": ["Income Statement", "Balance Sheet", "Cash Flow Statement", "Statement of Changes in Equity"],
+    "answer": "Income Statement"
+  },
+  {
+    "question": "What does the accounting equation state?",
+    "options": ["Assets = Liabilities + Equity", "Revenue = Expenses + Profit", "Assets = Revenue - Expenses", "Cash = Assets + Liabilities"],
+    "answer": "Assets = Liabilities + Equity"
+  },
+  {
+    "question": "Which type of account represents what a company owns?",
+    "options": ["Assets", "Liabilities", "Equity", "Expenses"],
+    "answer": "Assets"
+  },
+  {
+    "question": "Which type of account represents what a company owes?",
+    "options": ["Liabilities", "Assets", "Equity", "Revenue"],
+    "answer": "Liabilities"
+  },
+  {
+    "question": "Which account represents the owner’s interest in the business?",
+    "options": ["Equity", "Assets", "Liabilities", "Expenses"],
+    "answer": "Equity"
+  },
+  {
+    "question": "Which account records the company’s earnings from sales?",
+    "options": ["Revenue", "Expenses", "Assets", "Liabilities"],
+    "answer": "Revenue"
+  },
+  {
+    "question": "Which account records the costs of running a business?",
+    "options": ["Expenses", "Revenue", "Equity", "Assets"],
+    "answer": "Expenses"
+  },
+  {
+    "question": "Which principle states that expenses should be matched with revenue?",
+    "options": ["Matching Principle", "Revenue Recognition Principle", "Cost Principle", "Full Disclosure Principle"],
+    "answer": "Matching Principle"
+  },
+  {
+    "question": "Which principle states that revenue should be recognized when earned?",
+    "options": ["Revenue Recognition Principle", "Matching Principle", "Cost Principle", "Conservatism Principle"],
+    "answer": "Revenue Recognition Principle"
+  },
+  {
+    "question": "Which principle states that assets should be recorded at their cost?",
+    "options": ["Cost Principle", "Matching Principle", "Revenue Recognition Principle", "Consistency Principle"],
+    "answer": "Cost Principle"
+  },
+  {
+    "question": "Which principle requires consistent accounting methods from year to year?",
+    "options": ["Consistency Principle", "Revenue Recognition Principle", "Matching Principle", "Full Disclosure Principle"],
+    "answer": "Consistency Principle"
+  },
+  {
+    "question": "Which principle ensures all relevant financial information is disclosed?",
+    "options": ["Full Disclosure Principle", "Cost Principle", "Matching Principle", "Revenue Recognition Principle"],
+    "answer": "Full Disclosure Principle"
+  },
+  {
+    "question": "Which financial statement shows cash inflows and outflows?",
+    "options": ["Cash Flow Statement", "Balance Sheet", "Income Statement", "Statement of Equity"],
+    "answer": "Cash Flow Statement"
+  },
+  {
+    "question": "Which type of accounting focuses on future planning and decisions?",
+    "options": ["Managerial Accounting", "Financial Accounting", "Tax Accounting", "Auditing"],
+    "answer": "Managerial Accounting"
+  },
+  {
+    "question": "Which type of accounting focuses on reporting to external parties?",
+    "options": ["Financial Accounting", "Managerial Accounting", "Tax Accounting", "Cost Accounting"],
+    "answer": "Financial Accounting"
+  },
+  {
+    "question": "Which account type has a normal debit balance?",
+    "options": ["Assets", "Liabilities", "Equity", "Revenue"],
+    "answer": "Assets"
+  },
+  {
+    "question": "Which account type has a normal credit balance?",
+    "options": ["Liabilities", "Assets", "Expenses", "Dividends"],
+    "answer": "Liabilities"
+  },
+  {
+    "question": "Which account represents withdrawals by the owner?",
+    "options": ["Drawings", "Revenue", "Expenses", "Liabilities"],
+    "answer": "Drawings"
+  },
+  {
+    "question": "What is the double-entry system of accounting?",
+    "options": ["Every transaction affects at least two accounts", "All transactions are entered once", "Only revenue is recorded", "Only expenses are recorded"],
+    "answer": "Every transaction affects at least two accounts"
+  },
+  {
+    "question": "Which term refers to the difference between revenue and expenses?",
+    "options": ["Net Income", "Gross Income", "Assets", "Equity"],
+    "answer": "Net Income"
+  },
+  {
+    "question": "Which account tracks money owed by customers?",
+    "options": ["Accounts Receivable", "Accounts Payable", "Cash", "Equity"],
+    "answer": "Accounts Receivable"
+  },
+  {
+    "question": "Which account tracks money the company owes to suppliers?",
+    "options": ["Accounts Payable", "Accounts Receivable", "Cash", "Revenue"],
+    "answer": "Accounts Payable"
+  },
+  {
+    "question": "Which financial statement is prepared first?",
+    "options": ["Income Statement", "Balance Sheet", "Cash Flow Statement", "Statement of Changes in Equity"],
+    "answer": "Income Statement"
+  },
+  {
+    "question": "Which account decreases equity when used?",
+    "options": ["Expenses", "Revenue", "Liabilities", "Assets"],
+    "answer": "Expenses"
+  },
+  {
+    "question": "Which account increases equity when used?",
+    "options": ["Revenue", "Expenses", "Liabilities", "Drawings"],
+    "answer": "Revenue"
+  },
+  {
+    "question": "Which accounting concept assumes the business will continue indefinitely?",
+    "options": ["Going Concern", "Matching Principle", "Cost Principle", "Revenue Recognition"],
+    "answer": "Going Concern"
+  },
+  {
+    "question": "Which accounting concept assumes financial information is reliable and objective?",
+    "options": ["Objectivity Principle", "Matching Principle", "Revenue Recognition", "Full Disclosure"],
+    "answer": "Objectivity Principle"
+  },
+  {
+    "question": "Which accounting principle records revenue and expenses in the period they occur?",
+    "options": ["Accrual Basis", "Cash Basis", "Cost Principle", "Revenue Recognition Principle"],
+    "answer": "Accrual Basis"
+  },
+  {
+    "question": "Which accounting method records transactions only when cash is received or paid?",
+    "options": ["Cash Basis", "Accrual Basis", "Cost Basis", "Full Disclosure"],
+    "answer": "Cash Basis"
+  },
+  {
+    "question": "Which financial ratio measures a company’s ability to pay short-term obligations?",
+    "options": ["Current Ratio", "Debt-to-Equity Ratio", "Profit Margin", "Return on Assets"],
+    "answer": "Current Ratio"
+  },
+  {
+    "question": "Which financial ratio measures profitability relative to sales?",
+    "options": ["Profit Margin", "Current Ratio", "Debt-to-Equity", "Return on Assets"],
+    "answer": "Profit Margin"
+  },
+  {
+    "question": "Which accounting document authorizes a transaction?",
+    "options": ["Voucher", "Invoice", "Receipt", "Ledger"],
+    "answer": "Voucher"
+  },
+  {
+    "question": "Which account shows the cumulative profit or loss retained in the business?",
+    "options": ["Retained Earnings", "Revenue", "Expenses", "Equity"],
+    "answer": "Retained Earnings"
+  },
+  {
+    "question": "Which document provides proof of a purchase or sale?",
+    "options": ["Invoice", "Ledger", "Journal", "Voucher"],
+    "answer": "Invoice"
+  },
+  {
+    "question": "Which document summarizes all transactions by account?",
+    "options": ["Ledger", "Journal", "Invoice", "Voucher"],
+    "answer": "Ledger"
+  },
+  {
+    "question": "Which document records transactions in chronological order?",
+    "options": ["Journal", "Ledger", "Invoice", "Voucher"],
+    "answer": "Journal"
+  },
+  {
+    "question": "Which account represents money kept in the bank or on hand?",
+    "options": ["Cash", "Accounts Payable", "Accounts Receivable", "Equity"],
+    "answer": "Cash"
+  },
+  {
+    "question": "Which account represents inventory held for sale?",
+    "options": ["Inventory", "Cash", "Revenue", "Expenses"],
+    "answer": "Inventory"
+  },
+  {
+    "question": "Which account represents the cost of goods sold?",
+    "options": ["Cost of Goods Sold (COGS)", "Revenue", "Expenses", "Assets"],
+    "answer": "Cost of Goods Sold (COGS)"
+  },
+  {
+    "question": "Which accounting term refers to the obligation to pay a debt in the future?",
+    "options": ["Liability", "Asset", "Equity", "Revenue"],
+    "answer": "Liability"
+  },
+  {
+    "question": "Which type of account is increased by debits and decreased by credits?",
+    "options": ["Asset", "Liability", "Revenue", "Equity"],
+    "answer": "Asset"
+  },
+  {
+    "question": "Which type of account is increased by credits and decreased by debits?",
+    "options": ["Liability", "Asset", "Expense", "Drawings"],
+    "answer": "Liability"
+  },
+  {
+    "question": "Which accounting principle assumes money is the common denominator for transactions?",
+    "options": ["Monetary Unit Principle", "Matching Principle", "Revenue Recognition Principle", "Full Disclosure"],
+    "answer": "Monetary Unit Principle"
+  },
+  {
+    "question": "Which principle assumes business activities are separate from personal activities?",
+    "options": ["Business Entity Principle", "Cost Principle", "Matching Principle", "Going Concern"],
+    "answer": "Business Entity Principle"
+  },
+  {
+    "question": "Which account records money owed by the business to the owner?",
+    "options": ["Drawings", "Accounts Payable", "Revenue", "Expenses"],
+    "answer": "Drawings"
+  },
+  {
+    "question": "Which account increases when the owner invests money into the business?",
+    "options": ["Capital", "Drawings", "Revenue", "Expenses"],
+    "answer": "Capital"
+  }
+]
