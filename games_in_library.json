@@ -1,4 +1,52 @@
 [
+  {
+    "game_name": "Correctly Spelt Words",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "correctly_spelt",
+    "difficulty": "easy",
+    "stars": 3,
+    "category": "education"
+  },
+  {
+    "game_name": "Synonyms Challenge",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "synonyms_challenge",
+    "difficulty": "easy",
+    "stars": 3,
+    "category": "education"
+  },
+  {
+    "game_name": "Metaphor Idioms",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "metaphor_idioms",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "education"
+  },
+  {
+    "game_name": "Antonyms Adventure",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "antonyms_adventure",
+    "difficulty": "easy",
+    "stars": 3,
+    "category": "education"
+  },
+  {
+    "game_name": "Rhyming Words Challenge",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "rhyming_words",
+    "difficulty": "easy",
+    "stars": 3,
+    "category": "education"
+  },
+  {
+    "game_name": "Homophones Hunt",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "homophones_hunt",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "education"
+  },
    {
     "game_name": "Video Games & Gaming Characters",
     "game_icon": "assets/img/code_right.png",
