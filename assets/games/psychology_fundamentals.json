@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Who is considered the father of modern psychology?",
+    "options": ["Sigmund Freud", "Wilhelm Wundt", "Ivan Pavlov", "William James"],
+    "answer": "Wilhelm Wundt"
+  },
+  {
+    "question": "Which perspective focuses on observable behavior?",
+    "options": ["Humanistic", "Cognitive", "Behavioral", "Psychodynamic"],
+    "answer": "Behavioral"
+  },
+  {
+    "question": "Which structure of the brain controls balance and coordination?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+    "answer": "Cerebellum"
+  },
+  {
+    "question": "Which neurotransmitter is primarily associated with mood regulation?",
+    "options": ["Dopamine", "Serotonin", "Acetylcholine", "GABA"],
+    "answer": "Serotonin"
+  },
+  {
+    "question": "Which psychologist is associated with the hierarchy of needs?",
+    "options": ["Carl Rogers", "Abraham Maslow", "Erik Erikson", "Albert Bandura"],
+    "answer": "Abraham Maslow"
+  },
+  {
+    "question": "What type of memory stores information for a few seconds or less?",
+    "options": ["Short-term memory", "Long-term memory", "Sensory memory", "Working memory"],
+    "answer": "Sensory memory"
+  },
+  {
+    "question": "Which reinforcement schedule produces the highest response rate?",
+    "options": ["Fixed ratio", "Variable ratio", "Fixed interval", "Variable interval"],
+    "answer": "Variable ratio"
+  },
+  {
+    "question": "Which part of the neuron receives incoming signals?",
+    "options": ["Axon", "Dendrites", "Myelin sheath", "Synapse"],
+    "answer": "Dendrites"
+  },
+  {
+    "question": "Classical conditioning was discovered by:",
+    "options": ["B.F. Skinner", "Albert Bandura", "Ivan Pavlov", "Jean Piaget"],
+    "answer": "Ivan Pavlov"
+  },
+  {
+    "question": "Which part of the brain regulates hunger and thirst?",
+    "options": ["Thalamus", "Amygdala", "Hypothalamus", "Hippocampus"],
+    "answer": "Hypothalamus"
+  },
+  {
+    "question": "Which perspective emphasizes free will and personal growth?",
+    "options": ["Psychodynamic", "Behavioral", "Humanistic", "Biological"],
+    "answer": "Humanistic"
+  },
+  {
+    "question": "Which term refers to the consistent, enduring characteristics of a person?",
+    "options": ["Emotion", "Personality", "Intelligence", "Temperament"],
+    "answer": "Personality"
+  },
+  {
+    "question": "Short-term memory can usually store about how many items?",
+    "options": ["3", "5–9", "10–15", "20+"],
+    "answer": "5–9"
+  },
+  {
+    "question": "Who proposed the theory of cognitive development?",
+    "options": ["Lev Vygotsky", "Jean Piaget", "Erik Erikson", "Lawrence Kohlberg"],
+    "answer": "Jean Piaget"
+  },
+  {
+    "question": "Which brain structure is important for forming new memories?",
+    "options": ["Amygdala", "Hippocampus", "Thalamus", "Pons"],
+    "answer": "Hippocampus"
+  },
+  {
+    "question": "Which term describes a false belief held despite evidence?",
+    "options": ["Hallucination", "Delusion", "Illusion", "Compulsion"],
+    "answer": "Delusion"
+  },
+  {
+    "question": "Which disorder is characterized by excessive worry for at least six months?",
+    "options": ["Panic disorder", "Phobia", "Generalized anxiety disorder", "OCD"],
+    "answer": "Generalized anxiety disorder"
+  },
+  {
+    "question": "Who is known for operant conditioning?",
+    "options": ["Ivan Pavlov", "Sigmund Freud", "B.F. Skinner", "Abraham Maslow"],
+    "answer": "B.F. Skinner"
+  },
+  {
+    "question": "Which lobe of the brain is responsible for decision-making and planning?",
+    "options": ["Temporal lobe", "Occipital lobe", "Parietal lobe", "Frontal lobe"],
+    "answer": "Frontal lobe"
+  },
+  {
+    "question": "Which method is used to study cause-and-effect relationships?",
+    "options": ["Survey", "Experiment", "Case study", "Observation"],
+    "answer": "Experiment"
+  },
+  {
+    "question": "Which type of memory stores skills like riding a bike?",
+    "options": ["Episodic", "Semantic", "Procedural", "Working"],
+    "answer": "Procedural"
+  },
+  {
+    "question": "Which theory emphasizes observational learning?",
+    "options": ["Behaviorism", "Social learning theory", "Psychoanalysis", "Humanistic theory"],
+    "answer": "Social learning theory"
+  },
+  {
+    "question": "The 'fight or flight' response is activated by the:",
+    "options": ["Parasympathetic nervous system", "Somatic nervous system", "Sympathetic nervous system", "Central nervous system"],
+    "answer": "Sympathetic nervous system"
+  },
+  {
+    "question": "Which memory type involves conscious recall of facts?",
+    "options": ["Implicit memory", "Procedural memory", "Explicit memory", "Conditioned memory"],
+    "answer": "Explicit memory"
+  },
+  {
+    "question": "What is the basic unit of the nervous system?",
+    "options": ["Neuron", "Dendrite", "Axon", "Synapse"],
+    "answer": "Neuron"
+  },
+  {
+    "question": "Which psychologist studied attachment in infants using monkeys?",
+    "options": ["John Bowlby", "Harry Harlow", "Mary Ainsworth", "Erik Erikson"],
+    "answer": "Harry Harlow"
+  },
+  {
+    "question": "What type of therapy focuses on changing negative thought patterns?",
+    "options": ["Humanistic therapy", "Cognitive therapy", "Psychoanalysis", "Behavioral therapy"],
+    "answer": "Cognitive therapy"
+  },
+  {
+    "question": "Which disorder involves cycles of depression and mania?",
+    "options": ["Major depressive disorder", "Bipolar disorder", "Cyclothymia", "Schizophrenia"],
+    "answer": "Bipolar disorder"
+  },
+  {
+    "question": "Which part of the neuron sends signals away from the cell body?",
+    "options": ["Axon", "Dendrite", "Cell body", "Nucleus"],
+    "answer": "Axon"
+  },
+  {
+    "question": "Which type of stress is considered positive and motivating?",
+    "options": ["Distress", "Eustress", "Chronic stress", "Acute stress"],
+    "answer": "Eustress"
+  },
+  {
+    "question": "Who founded psychoanalysis?",
+    "options": ["Carl Jung", "Sigmund Freud", "Alfred Adler", "Karen Horney"],
+    "answer": "Sigmund Freud"
+  },
+  {
+    "question": "Which personality test uses inkblots?",
+    "options": ["MMPI", "Thematic Apperception Test", "Rorschach test", "Big Five test"],
+    "answer": "Rorschach test"
+  },
+  {
+    "question": "Which term refers to interpreting new information using existing schemas?",
+    "options": ["Assimilation", "Accommodation", "Adaptation", "Integration"],
+    "answer": "Assimilation"
+  },
+  {
+    "question": "Which part of the brain is responsible for vision?",
+    "options": ["Parietal lobe", "Occipital lobe", "Temporal lobe", "Frontal lobe"],
+    "answer": "Occipital lobe"
+  },
+  {
+    "question": "Which neurotransmitter is linked to reward and pleasure?",
+    "options": ["Serotonin", "Dopamine", "GABA", "Glutamate"],
+    "answer": "Dopamine"
+  },
+  {
+    "question": "Which psychological approach focuses on unconscious conflicts?",
+    "options": ["Behavioral", "Humanistic", "Psychodynamic", "Cognitive"],
+    "answer": "Psychodynamic"
+  },
+  {
+    "question": "What is the tendency to recall the first items in a list called?",
+    "options": ["Recency effect", "Primacy effect", "Serial effect", "Chunking"],
+    "answer": "Primacy effect"
+  },
+  {
+    "question": "Which term refers to the brain's ability to change and adapt?",
+    "options": ["Plasticity", "Homeostasis", "Maturation", "Stability"],
+    "answer": "Plasticity"
+  },
+  {
+    "question": "What is the deepest level of sleep called?",
+    "options": ["Stage 1", "Stage 2", "Stage 3/4 (NREM)", "REM sleep"],
+    "answer": "Stage 3/4 (NREM)"
+  },
+  {
+    "question": "Which psychologist developed the Bobo doll experiment?",
+    "options": ["Erik Erikson", "Albert Bandura", "B.F. Skinner", "Edward Thorndike"],
+    "answer": "Albert Bandura"
+  },
+  {
+    "question": "What is the storehouse for long-term memories called?",
+    "options": ["Sensory memory", "Working memory", "Explicit memory", "Long-term memory"],
+    "answer": "Long-term memory"
+  },
+  {
+    "question": "Which disorder involves intrusive thoughts and repetitive behaviors?",
+    "options": ["PTSD", "OCD", "GAD", "Phobia"],
+    "answer": "OCD"
+  },
+  {
+    "question": "Which part of the brain regulates emotions like fear?",
+    "options": ["Amygdala", "Hippocampus", "Thalamus", "Pons"],
+    "answer": "Amygdala"
+  },
+  {
+    "question": "Which concept describes learning that occurs but is not immediately shown?",
+    "options": ["Latent learning", "Insight learning", "Classical conditioning", "Shaping"],
+    "answer": "Latent learning"
+  },
+  {
+    "question": "What is the capacity of long-term memory?",
+    "options": ["Very limited", "A few dozen items", "7–9 items", "Essentially unlimited"],
+    "answer": "Essentially unlimited"
+  },
+  {
+    "question": "Which therapy uses free association and dream analysis?",
+    "options": ["Behavioral therapy", "Humanistic therapy", "Psychoanalytic therapy", "Cognitive therapy"],
+    "answer": "Psychoanalytic therapy"
+  },
+  {
+    "question": "Which personality trait is part of the Big Five?",
+    "options": ["Aggression", "Openness", "Ambition", "Optimism"],
+    "answer": "Openness"
+  },
+  {
+    "question": "Which term refers to the body's attempt to maintain balance?",
+    "options": ["Homeostasis", "Plasticity", "Adaptation", "Integration"],
+    "answer": "Homeostasis"
+  },
+  {
+    "question": "Which area of psychology studies how people think, learn, and remember?",
+    "options": ["Behavioral psychology", "Cognitive psychology", "Humanistic psychology", "Social psychology"],
+    "answer": "Cognitive psychology"
+  }
+]
