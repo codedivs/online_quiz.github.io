@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Which of the following is a key metric in digital marketing?",
+    "options": ["Click-through rate", "Gross margin", "Net profit", "Break-even point"],
+    "answer": "Click-through rate"
+  },
+  {
+    "question": "What does SEO stand for?",
+    "options": ["Search Engine Optimization", "Social Engagement Optimization", "Sales and Earnings Online", "Search Engagement Opportunity"],
+    "answer": "Search Engine Optimization"
+  },
+  {
+    "question": "Which type of digital marketing focuses on paid advertisements on search engines?",
+    "options": ["Search Engine Marketing", "Email Marketing", "Social Media Marketing", "Content Marketing"],
+    "answer": "Search Engine Marketing"
+  },
+  {
+    "question": "What is PPC in digital marketing?",
+    "options": ["Pay-Per-Click", "Price-Per-Consumer", "Post-Promotion Campaign", "Purchase-Per-Conversion"],
+    "answer": "Pay-Per-Click"
+  },
+  {
+    "question": "Which platform is best known for B2B social media marketing?",
+    "options": ["LinkedIn", "Instagram", "Facebook", "TikTok"],
+    "answer": "LinkedIn"
+  },
+  {
+    "question": "Which digital marketing tactic focuses on sending promotional emails to prospects?",
+    "options": ["Email marketing", "Affiliate marketing", "Influencer marketing", "Content marketing"],
+    "answer": "Email marketing"
+  },
+  {
+    "question": "What is the purpose of a landing page in digital marketing?",
+    "options": ["To convert visitors into leads", "To showcase company history", "To increase organic traffic", "To host webinars"],
+    "answer": "To convert visitors into leads"
+  },
+  {
+    "question": "Which metric indicates the percentage of website visitors who leave after viewing only one page?",
+    "options": ["Bounce rate", "Conversion rate", "Click-through rate", "Engagement rate"],
+    "answer": "Bounce rate"
+  },
+  {
+    "question": "Which type of content is used to educate and attract potential customers?",
+    "options": ["Content marketing", "Affiliate marketing", "Sales promotion", "Telemarketing"],
+    "answer": "Content marketing"
+  },
+  {
+    "question": "What is influencer marketing?",
+    "options": ["Promoting products through influential people online", "Emailing clients", "Running paid ads on Google", "Optimizing website SEO"],
+    "answer": "Promoting products through influential people online"
+  },
+  {
+    "question": "Which digital marketing strategy focuses on improving organic search rankings?",
+    "options": ["SEO", "PPC", "Email marketing", "Affiliate marketing"],
+    "answer": "SEO"
+  },
+  {
+    "question": "Which metric measures the percentage of visitors completing a desired action on a website?",
+    "options": ["Conversion rate", "Click-through rate", "Bounce rate", "Impression rate"],
+    "answer": "Conversion rate"
+  },
+  {
+    "question": "What is the main purpose of retargeting ads?",
+    "options": ["To reach users who have already visited your site", "To target competitors’ customers", "To increase SEO ranking", "To track social media trends"],
+    "answer": "To reach users who have already visited your site"
+  },
+  {
+    "question": "Which tool is commonly used to track website traffic and analytics?",
+    "options": ["Google Analytics", "Mailchimp", "Canva", "Ahrefs"],
+    "answer": "Google Analytics"
+  },
+  {
+    "question": "What is affiliate marketing?",
+    "options": ["Promoting products through third-party websites for commission", "Email campaigns to clients", "Social media engagement", "SEO optimization"],
+    "answer": "Promoting products through third-party websites for commission"
+  },
+  {
+    "question": "Which type of marketing uses videos to engage customers online?",
+    "options": ["Video marketing", "Email marketing", "Content marketing", "Affiliate marketing"],
+    "answer": "Video marketing"
+  },
+  {
+    "question": "Which is a common KPI for social media marketing?",
+    "options": ["Engagement rate", "Gross revenue", "Net profit", "Employee retention"],
+    "answer": "Engagement rate"
+  },
+  {
+    "question": "Which social media platform is known for visual content marketing?",
+    "options": ["Instagram", "LinkedIn", "Twitter", "Reddit"],
+    "answer": "Instagram"
+  },
+  {
+    "question": "Which type of digital marketing involves paid display ads on websites?",
+    "options": ["Display advertising", "Email marketing", "Affiliate marketing", "SEO"],
+    "answer": "Display advertising"
+  },
+  {
+    "question": "What does CRO stand for in digital marketing?",
+    "options": ["Conversion Rate Optimization", "Customer Retention Operation", "Content Ranking Output", "Click Rate Optimization"],
+    "answer": "Conversion Rate Optimization"
+  },
+  {
+    "question": "Which type of email marketing sends personalized offers based on user behavior?",
+    "options": ["Behavioral email marketing", "Mass email marketing", "Transactional email marketing", "Newsletter email marketing"],
+    "answer": "Behavioral email marketing"
+  },
+  {
+    "question": "Which digital marketing strategy focuses on creating valuable blog articles?",
+    "options": ["Content marketing", "Email marketing", "PPC", "Influencer marketing"],
+    "answer": "Content marketing"
+  },
+  {
+    "question": "Which metric shows the number of times an ad is displayed to users?",
+    "options": ["Impressions", "Clicks", "Conversions", "Bounce rate"],
+    "answer": "Impressions"
+  },
+  {
+    "question": "What is a common goal of social media marketing?",
+    "options": ["Increase brand awareness", "Reduce production costs", "Manage inventory", "Set product prices"],
+    "answer": "Increase brand awareness"
+  },
+  {
+    "question": "Which digital marketing practice uses storytelling to engage customers?",
+    "options": ["Content marketing", "PPC", "Affiliate marketing", "Email marketing"],
+    "answer": "Content marketing"
+  },
+  {
+    "question": "Which type of digital advertising charges only when a user clicks the ad?",
+    "options": ["PPC", "CPM", "CPCV", "Flat rate advertising"],
+    "answer": "PPC"
+  },
+  {
+    "question": "What is a landing page optimized to increase conversions called?",
+    "options": ["Conversion page", "Home page", "Sales page", "Blog page"],
+    "answer": "Conversion page"
+  },
+  {
+    "question": "Which type of digital marketing involves promoting products via YouTube and TikTok?",
+    "options": ["Video marketing", "Affiliate marketing", "Email marketing", "SEO"],
+    "answer": "Video marketing"
+  },
+  {
+    "question": "Which SEO strategy focuses on optimizing on-page content?",
+    "options": ["On-page SEO", "Off-page SEO", "Technical SEO", "Black-hat SEO"],
+    "answer": "On-page SEO"
+  },
+  {
+    "question": "Which SEO technique involves building backlinks to a website?",
+    "options": ["Off-page SEO", "On-page SEO", "Technical SEO", "Local SEO"],
+    "answer": "Off-page SEO"
+  },
+  {
+    "question": "Which marketing method uses online platforms to directly sell products?",
+    "options": ["E-commerce marketing", "Email marketing", "SEO", "Content marketing"],
+    "answer": "E-commerce marketing"
+  },
+  {
+    "question": "Which strategy helps improve website ranking on search engines organically?",
+    "options": ["SEO", "PPC", "Email marketing", "Affiliate marketing"],
+    "answer": "SEO"
+  },
+  {
+    "question": "Which tool is commonly used for keyword research in digital marketing?",
+    "options": ["Google Keyword Planner", "Canva", "Mailchimp", "Hootsuite"],
+    "answer": "Google Keyword Planner"
+  },
+  {
+    "question": "Which type of email is sent after a customer completes an online purchase?",
+    "options": ["Transactional email", "Promotional email", "Newsletter email", "Behavioral email"],
+    "answer": "Transactional email"
+  },
+  {
+    "question": "Which social media KPI tracks interactions like likes, comments, and shares?",
+    "options": ["Engagement rate", "Click-through rate", "Conversion rate", "Bounce rate"],
+    "answer": "Engagement rate"
+  },
+  {
+    "question": "Which digital marketing technique focuses on local search optimization?",
+    "options": ["Local SEO", "Content marketing", "Affiliate marketing", "PPC"],
+    "answer": "Local SEO"
+  },
+  {
+    "question": "Which digital marketing tactic encourages users to complete an action, like filling a form?",
+    "options": ["Call-to-action", "Lead nurturing", "Content marketing", "Email marketing"],
+    "answer": "Call-to-action"
+  },
+  {
+    "question": "Which metric measures the cost of acquiring one customer through marketing efforts?",
+    "options": ["Customer Acquisition Cost (CAC)", "Cost per click", "Return on Investment", "Impression rate"],
+    "answer": "Customer Acquisition Cost (CAC)"
+  },
+  {
+    "question": "Which marketing automation tool helps schedule social media posts?",
+    "options": ["Hootsuite", "Google Analytics", "Mailchimp", "SEMRush"],
+    "answer": "Hootsuite"
+  },
+  {
+    "question": "Which digital marketing type focuses on influencer collaborations and partnerships?",
+    "options": ["Influencer marketing", "Content marketing", "Email marketing", "PPC"],
+    "answer": "Influencer marketing"
+  },
+  {
+    "question": "Which type of content includes blogs, videos, and infographics to educate users?",
+    "options": ["Content marketing", "Affiliate marketing", "Email marketing", "Display advertising"],
+    "answer": "Content marketing"
+  },
+  {
+    "question": "Which digital marketing metric measures the number of clicks divided by the number of impressions?",
+    "options": ["Click-through rate (CTR)", "Conversion rate", "Bounce rate", "Impression rate"],
+    "answer": "Click-through rate (CTR)"
+  },
+  {
+    "question": "Which term describes unpaid traffic generated from search engines?",
+    "options": ["Organic traffic", "Paid traffic", "Referral traffic", "Direct traffic"],
+    "answer": "Organic traffic"
+  },
+  {
+    "question": "Which digital marketing strategy involves creating emails to nurture leads over time?",
+    "options": ["Email drip campaign", "Affiliate marketing", "SEO", "PPC"],
+    "answer": "Email drip campaign"
+  },
+  {
+    "question": "Which strategy uses website pop-ups, chatbots, or forms to collect user information?",
+    "options": ["Lead generation", "Affiliate marketing", "Email marketing", "SEO"],
+    "answer": "Lead generation"
+  },
+  {
+    "question": "Which type of SEO focuses on improving website speed, mobile-friendliness, and site structure?",
+    "options": ["Technical SEO", "On-page SEO", "Off-page SEO", "Local SEO"],
+    "answer": "Technical SEO"
+  },
+  {
+    "question": "Which metric tracks the effectiveness of email campaigns in getting users to click links?",
+    "options": ["Click-through rate (CTR)", "Bounce rate", "Conversion rate", "Impressions"],
+    "answer": "Click-through rate (CTR)"
+  },
+  {
+    "question": "Which digital marketing practice promotes products through other websites and blogs for a commission?",
+    "options": ["Affiliate marketing", "Content marketing", "Email marketing", "PPC"],
+    "answer": "Affiliate marketing"
+  },
+  {
+    "question": "Which type of social media content is highly effective for engagement?",
+    "options": ["Short videos and stories", "Long PDFs", "Plain text emails", "White papers"],
+    "answer": "Short videos and stories"
+  },
+  {
+    "question": "Which digital marketing channel allows businesses to reach audiences via mobile notifications?",
+    "options": ["Push notifications", "Email marketing", "SEO", "Affiliate marketing"],
+    "answer": "Push notifications"
+  },
+  {
+    "question": "Which digital marketing strategy analyzes competitor websites and keywords?",
+    "options": ["Competitive analysis", "Content marketing", "Email marketing", "PPC"],
+    "answer": "Competitive analysis"
+  },
+  {
+    "question": "Which metric shows the number of times an ad is clicked compared to impressions?",
+    "options": ["Click-through rate", "Bounce rate", "Conversion rate", "Engagement rate"],
+    "answer": "Click-through rate"
+  }
+]
