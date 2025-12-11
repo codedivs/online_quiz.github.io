@@ -1,0 +1,167 @@
+[
+  {
+    "question": "Who played the character of Harry Potter in the movie series?",
+    "options": ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Tom Felton"],
+    "answer": "Daniel Radcliffe"
+  },
+  {
+    "question": "Which movie features a character named Jack Dawson, who is played by Leonardo DiCaprio?",
+    "options": ["Titanic", "The Revenant", "Inception", "Catch Me If You Can"],
+    "answer": "Titanic"
+  },
+  {
+    "question": "What is the name of the fictional African country in the movie 'Black Panther'?",
+    "options": ["Wakanda", "Zamunda", "Genovia", "Elbonia"],
+    "answer": "Wakanda"
+  },
+  {
+    "question": "Who directed the movie 'Jurassic Park'?",
+    "options": ["Steven Spielberg", "George Lucas", "James Cameron", "Ridley Scott"],
+    "answer": "Steven Spielberg"
+  },
+  {
+    "question": "In which TV series would you find the characters Jon Snow and Daenerys Targaryen?",
+    "options": ["Game of Thrones", "Breaking Bad", "Stranger Things", "The Walking Dead"],
+    "answer": "Game of Thrones"
+  },
+  {
+    "question": "Which 2012 animated movie features a fish named Marlin searching for his son?",
+    "options": ["Finding Nemo", "Shark Tale", "The Incredibles", "Toy Story"],
+    "answer": "Finding Nemo"
+  },
+  {
+    "question": "In the movie 'The Lion King', who is Simba's father?",
+    "options": ["Mufasa", "Scar", "Timon", "Pumbaa"],
+    "answer": "Mufasa"
+  },
+  {
+    "question": "Which superhero movie franchise is known for the character Iron Man?",
+    "options": ["Marvel Cinematic Universe", "X-Men", "Spider-Man", "DC Extended Universe"],
+    "answer": "Marvel Cinematic Universe"
+  },
+  {
+    "question": "Which movie is set in the fictional town of Hawkins, Indiana?",
+    "options": ["Stranger Things", "It", "The Goonies", "The Lost Boys"],
+    "answer": "Stranger Things"
+  },
+  {
+    "question": "Who starred as the titular character in the movie 'Wonder Woman'?",
+    "options": ["Gal Gadot", "Scarlett Johansson", "Amy Adams", "Jennifer Lawrence"],
+    "answer": "Gal Gadot"
+  },
+  {
+    "question": "Which movie is about a group of toys that come to life when humans aren’t around?",
+    "options": ["Toy Story", "The Lego Movie", "Monsters, Inc.", "Cars"],
+    "answer": "Toy Story"
+  },
+  {
+    "question": "Which movie won the Academy Award for Best Picture in 2020?",
+    "options": ["Parasite", "1917", "Joker", "Once Upon a Time in Hollywood"],
+    "answer": "Parasite"
+  },
+  {
+    "question": "Who is the main antagonist in the movie 'The Dark Knight'?",
+    "options": ["Joker", "Bane", "Ra's al Ghul", "Two-Face"],
+    "answer": "Joker"
+  },
+  {
+    "question": "Which TV series follows the lives of a group of friends living in New York City?",
+    "options": ["Friends", "How I Met Your Mother", "The Big Bang Theory", "New Girl"],
+    "answer": "Friends"
+  },
+  {
+    "question": "In which movie does Tom Hanks play the character Forrest Gump?",
+    "options": ["Forrest Gump", "Cast Away", "Saving Private Ryan", "The Terminal"],
+    "answer": "Forrest Gump"
+  },
+  {
+    "question": "Which movie is set in a dystopian future where people can live forever?",
+    "options": ["In Time", "The Matrix", "Blade Runner", "Elysium"],
+    "answer": "In Time"
+  },
+  {
+    "question": "Which popular TV show features the character Walter White, a high school chemistry teacher turned drug kingpin?",
+    "options": ["Breaking Bad", "Narcos", "Ozark", "Better Call Saul"],
+    "answer": "Breaking Bad"
+  },
+  {
+    "question": "Which film character famously says, 'I’ll be back'?",
+    "options": ["The Terminator", "RoboCop", "Predator", "John Wick"],
+    "answer": "The Terminator"
+  },
+  {
+    "question": "What is the name of the spaceship in the movie 'Alien'?",
+    "options": ["Nostromo", "Discovery One", "Millennium Falcon", "Serenity"],
+    "answer": "Nostromo"
+  },
+  {
+    "question": "In which movie does the character Marty McFly travel through time?",
+    "options": ["Back to the Future", "The Time Machine", "The Terminator", "Looper"],
+    "answer": "Back to the Future"
+  },
+  {
+    "question": "Who starred as Captain Jack Sparrow in 'Pirates of the Caribbean'?",
+    "options": ["Johnny Depp", "Brad Pitt", "Matthew McConaughey", "Leonardo DiCaprio"],
+    "answer": "Johnny Depp"
+  },
+  {
+    "question": "Which animated movie features a princess named Elsa and her magical ice powers?",
+    "options": ["Frozen", "Moana", "Tangled", "Beauty and the Beast"],
+    "answer": "Frozen"
+  },
+  {
+    "question": "Which movie is about a young wizard named Harry Potter who attends Hogwarts School of Witchcraft and Wizardry?",
+    "options": ["Harry Potter and the Sorcerer's Stone", "The Hobbit", "Percy Jackson & The Olympians", "Lord of the Rings"],
+    "answer": "Harry Potter and the Sorcerer's Stone"
+  },
+  {
+    "question": "Which movie features a character named ‘Rocky’ who becomes a professional boxer?",
+    "options": ["Rocky", "Million Dollar Baby", "The Fighter", "Creed"],
+    "answer": "Rocky"
+  },
+  {
+    "question": "Which character is known for saying, 'I am Iron Man'?",
+    "options": ["Tony Stark", "Steve Rogers", "Bruce Banner", "Thor"],
+    "answer": "Tony Stark"
+  },
+  {
+    "question": "What is the name of the fictional country in 'Black Panther'?",
+    "options": ["Wakanda", "Zamunda", "Elbonia", "Genovia"],
+    "answer": "Wakanda"
+  },
+  {
+    "question": "In which TV show would you find the character Sheldon Cooper?",
+    "options": ["The Big Bang Theory", "How I Met Your Mother", "Friends", "Brooklyn Nine-Nine"],
+    "answer": "The Big Bang Theory"
+  },
+  {
+    "question": "Which movie features a giant ape named Kong?",
+    "options": ["King Kong", "Godzilla", "Jurassic Park", "Pacific Rim"],
+    "answer": "King Kong"
+  },
+  {
+    "question": "Which character in 'The Hunger Games' is played by Jennifer Lawrence?",
+    "options": ["Katniss Everdeen", "Hermione Granger", "Bella Swan", "Tris Prior"],
+    "answer": "Katniss Everdeen"
+  },
+  {
+    "question": "Which movie is about a group of teenagers who find a mysterious board game and are pulled into a magical jungle?",
+    "options": ["Jumanji", "The Goonies", "Pirates of the Caribbean", "The NeverEnding Story"],
+    "answer": "Jumanji"
+  },
+  {
+    "question": "Who played the character of Iron Man in the Marvel Cinematic Universe?",
+    "options": ["Robert Downey Jr.", "Chris Hemsworth", "Chris Evans", "Mark Ruffalo"],
+    "answer": "Robert Downey Jr."
+  },
+  {
+    "question": "Which TV show is set in a post-apocalyptic world where humans fight against zombies?",
+    "options": ["The Walking Dead", "Stranger Things", "Game of Thrones", "Narcos"],
+    "answer": "The Walking Dead"
+  },
+  {
+    "question": "Which movie features a battle between the Avengers and the Guardians of the Galaxy?",
+    "options": ["Avengers: Infinity War", "Avengers: Age of Ultron", "Guardians of the Galaxy", "Thor: Ragnarok"],
+    "answer": "Avengers: Infinity War"
+  }
+]
