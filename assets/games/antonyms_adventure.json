@@ -1,0 +1,177 @@
+[
+  {
+    "question": "What is the antonym of 'Hot'?",
+    "options": ["Cold", "Warm", "Lukewarm", "Boiling"],
+    "answer": "Cold"
+  },
+  {
+    "question": "What is the antonym of 'Fast'?",
+    "options": ["Slow", "Quick", "Speedy", "Rapid"],
+    "answer": "Slow"
+  },
+  {
+    "question": "What is the antonym of 'Light'?",
+    "options": ["Dark", "Heavy", "Bright", "Dim"],
+    "answer": "Heavy"
+  },
+  {
+    "question": "What is the antonym of 'Big'?",
+    "options": ["Small", "Tiny", "Huge", "Large"],
+    "answer": "Small"
+  },
+  {
+    "question": "What is the antonym of 'Happy'?",
+    "options": ["Sad", "Joyful", "Excited", "Delighted"],
+    "answer": "Sad"
+  },
+  {
+    "question": "What is the antonym of 'Strong'?",
+    "options": ["Weak", "Mighty", "Tough", "Powerful"],
+    "answer": "Weak"
+  },
+  {
+    "question": "What is the antonym of 'Rich'?",
+    "options": ["Poor", "Wealthy", "Affluent", "Opulent"],
+    "answer": "Poor"
+  },
+  {
+    "question": "What is the antonym of 'Old'?",
+    "options": ["Young", "Ancient", "Elderly", "Ancient"],
+    "answer": "Young"
+  },
+  {
+    "question": "What is the antonym of 'Near'?",
+    "options": ["Far", "Close", "Distant", "Nearby"],
+    "answer": "Far"
+  },
+  {
+    "question": "What is the antonym of 'Night'?",
+    "options": ["Day", "Morning", "Evening", "Midnight"],
+    "answer": "Day"
+  },
+  {
+    "question": "What is the antonym of 'Heavy'?",
+    "options": ["Light", "Big", "Small", "Weak"],
+    "answer": "Light"
+  },
+  {
+    "question": "What is the antonym of 'Tall'?",
+    "options": ["Short", "Big", "Tiny", "Little"],
+    "answer": "Short"
+  },
+  {
+    "question": "What is the antonym of 'Fast'?",
+    "options": ["Slow", "Quick", "Rapid", "Swift"],
+    "answer": "Slow"
+  },
+  {
+    "question": "What is the antonym of 'Early'?",
+    "options": ["Late", "Soon", "Timely", "On Time"],
+    "answer": "Late"
+  },
+  {
+    "question": "What is the antonym of 'Quiet'?",
+    "options": ["Loud", "Silent", "Noisy", "Calm"],
+    "answer": "Loud"
+  },
+  {
+    "question": "What is the antonym of 'Bright'?",
+    "options": ["Dim", "Dark", "Shiny", "Vivid"],
+    "answer": "Dim"
+  },
+  {
+    "question": "What is the antonym of 'Tall'?",
+    "options": ["Short", "Big", "Small", "Little"],
+    "answer": "Short"
+  },
+  {
+    "question": "What is the antonym of 'Empty'?",
+    "options": ["Full", "Vacant", "Unoccupied", "Clear"],
+    "answer": "Full"
+  },
+  {
+    "question": "What is the antonym of 'Clean'?",
+    "options": ["Dirty", "Messy", "Neat", "Tidy"],
+    "answer": "Dirty"
+  },
+  {
+    "question": "What is the antonym of 'Good'?",
+    "options": ["Bad", "Nice", "Kind", "Great"],
+    "answer": "Bad"
+  },
+  {
+    "question": "What is the antonym of 'Hard'?",
+    "options": ["Soft", "Tough", "Firm", "Rigid"],
+    "answer": "Soft"
+  },
+  {
+    "question": "What is the antonym of 'Quiet'?",
+    "options": ["Loud", "Calm", "Silent", "Still"],
+    "answer": "Loud"
+  },
+  {
+    "question": "What is the antonym of 'Big'?",
+    "options": ["Small", "Large", "Huge", "Little"],
+    "answer": "Small"
+  },
+  {
+    "question": "What is the antonym of 'Fast'?",
+    "options": ["Slow", "Rapid", "Swift", "Quick"],
+    "answer": "Slow"
+  },
+  {
+    "question": "What is the antonym of 'Sweet'?",
+    "options": ["Sour", "Bitter", "Salty", "Spicy"],
+    "answer": "Sour"
+  },
+  {
+    "question": "What is the antonym of 'Full'?",
+    "options": ["Empty", "Occupied", "Loaded", "Packed"],
+    "answer": "Empty"
+  },
+  {
+    "question": "What is the antonym of 'Soft'?",
+    "options": ["Hard", "Smooth", "Rough", "Firm"],
+    "answer": "Hard"
+  },
+  {
+    "question": "What is the antonym of 'Rich'?",
+    "options": ["Poor", "Wealthy", "Affluent", "Broke"],
+    "answer": "Poor"
+  },
+  {
+    "question": "What is the antonym of 'Wet'?",
+    "options": ["Dry", "Moist", "Damp", "Soaked"],
+    "answer": "Dry"
+  },
+  {
+    "question": "What is the antonym of 'Happy'?",
+    "options": ["Sad", "Joyful", "Excited", "Glad"],
+    "answer": "Sad"
+  },
+  {
+    "question": "What is the antonym of 'Young'?",
+    "options": ["Old", "Young", "Fresh", "New"],
+    "answer": "Old"
+  },
+  {
+    "question": "What is the antonym of 'Weak'?",
+    "options": ["Strong", "Powerful", "Mighty", "Tough"],
+    "answer": "Strong"
+  },
+  {
+    "question": "What is the antonym of 'Light'?",
+    "options": ["Heavy", "Bright", "Dark", "Shiny"],
+    "answer": "Heavy"
+  },
+  {
+    "question": "What is the antonym of 'Brave'?",
+    "options": ["Fearful", "Courageous", "Bold", "Vigorous"],
+    "answer": "Fearful"
+  },
+  {
+    "question": "What is the antonym of 'Full'?",
+    "options": ["Empty", "Occupied", "Packed", "Loaded"],
+    "answer": "Empty"
+  }
+]
