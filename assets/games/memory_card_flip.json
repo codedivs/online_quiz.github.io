@@ -1,0 +1,152 @@
+[
+  {
+    "question": "You flipped two cards: 🍎 and 🍎. What happens next?",
+    "options": ["They match", "They disappear", "They stay flipped", "They move"],
+    "answer": "They match"
+  },
+  {
+    "question": "You flipped a 🌟 and a 🐶. What should you do?",
+    "options": ["Try again", "Stop playing", "Flip all cards", "Shuffle cards"],
+    "answer": "Try again"
+  },
+  {
+    "question": "If you see a 🍌 in the top-left corner, what should you remember?",
+    "options": ["Its position", "Its size", "Its color", "Its sound"],
+    "answer": "Its position"
+  },
+  {
+    "question": "You flip a card and see 🎈. The next time you see 🎈, what should you do?",
+    "options": ["Match them", "Ignore it", "Flip back", "Move cards"],
+    "answer": "Match them"
+  },
+  {
+    "question": "What is the best way to win a memory game?",
+    "options": ["Remember positions", "Flip randomly", "Close your eyes", "Guess everything"],
+    "answer": "Remember positions"
+  },
+  {
+    "question": "If you flip two different cards, what should you do?",
+    "options": ["Flip them back", "Keep them open", "Remove them", "Move them"],
+    "answer": "Flip them back"
+  },
+  {
+    "question": "Which card pair matches?",
+    "options": ["🐱 and 🐱", "🐱 and 🐭", "🍍 and 🍉", "🌙 and ☀️"],
+    "answer": "🐱 and 🐱"
+  },
+  {
+    "question": "You saw a 🎵 earlier. What helps you find it again?",
+    "options": ["Good memory", "Luck only", "Shuffling cards", "Closing your eyes"],
+    "answer": "Good memory"
+  },
+  {
+    "question": "If you forget where a card was, what can you do?",
+    "options": ["Try again", "Stop playing", "Hide cards", "Remove cards"],
+    "answer": "Try again"
+  },
+  {
+    "question": "Which action helps you remember cards better?",
+    "options": ["Pay attention", "Look away", "Play fast", "Guess randomly"],
+    "answer": "Pay attention"
+  },
+  {
+    "question": "You flip two matching cards. What happens?",
+    "options": ["You score a point", "They disappear instantly", "They become new cards", "Nothing happens"],
+    "answer": "You score a point"
+  },
+  {
+    "question": "What should you do when you see a new card?",
+    "options": ["Remember it", "Forget it", "Flip all other cards", "Remove it"],
+    "answer": "Remember it"
+  },
+  {
+    "question": "You flip a 🧩 but don't find its match. What next?",
+    "options": ["Try another card", "Quit", "Flip all cards", "Mix the deck"],
+    "answer": "Try another card"
+  },
+  {
+    "question": "Which pair is a correct match?",
+    "options": ["🌙 and 🌙", "⭐ and ☁️", "🍇 and 🍊", "🐟 and 🐦"],
+    "answer": "🌙 and 🌙"
+  },
+  {
+    "question": "Why is memory important in this game?",
+    "options": ["To find pairs", "To win faster", "To flip more cards", "To shuffle better"],
+    "answer": "To find pairs"
+  },
+  {
+    "question": "If you saw a 🍉 two turns ago, what helps you?",
+    "options": ["Remembering its place", "Forgetting it", "Closing your eyes", "Flipping random cards"],
+    "answer": "Remembering its place"
+  },
+  {
+    "question": "What happens when all pairs are matched?",
+    "options": ["You win", "Cards reset", "Game stops only", "Cards change color"],
+    "answer": "You win"
+  },
+  {
+    "question": "You flip a 🐸 card. What should you remember?",
+    "options": ["Its location", "Its weight", "Its sound", "Its shape"],
+    "answer": "Its location"
+  },
+  {
+    "question": "You find a 🎁 card but its match is unknown. What do you do?",
+    "options": ["Keep looking", "Restart", "Quit", "Hide the card"],
+    "answer": "Keep looking"
+  },
+  {
+    "question": "Two cards show different emojis. What happens?",
+    "options": ["No match", "Automatic win", "They stay open", "They vanish"],
+    "answer": "No match"
+  },
+  {
+    "question": "What skill improves the more you play memory games?",
+    "options": ["Focus", "Speed", "Jumping", "Drawing"],
+    "answer": "Focus"
+  },
+  {
+    "question": "Which of these pairs matches?",
+    "options": ["🍓 and 🍓", "🍓 and 🍒", "🍓 and 🫐", "🍓 and 🍑"],
+    "answer": "🍓 and 🍓"
+  },
+  {
+    "question": "What helps you remember a card better?",
+    "options": ["Looking carefully", "Blinking quickly", "Flipping many cards", "Not paying attention"],
+    "answer": "Looking carefully"
+  },
+  {
+    "question": "You saw a 🐢 earlier. How do you find it again?",
+    "options": ["Recall its spot", "Ignore it", "Guess randomly", "Ask the game"],
+    "answer": "Recall its spot"
+  },
+  {
+    "question": "You flipped two matching 🎀 cards. What do you gain?",
+    "options": ["A point", "A penalty", "A new card", "Nothing"],
+    "answer": "A point"
+  },
+  {
+    "question": "When should you flip a new card?",
+    "options": ["When you want to find a match", "When all cards match", "When the game ends", "Never"],
+    "answer": "When you want to find a match"
+  },
+  {
+    "question": "Why should you remember card positions?",
+    "options": ["To match pairs", "To skip turns", "To flip fewer cards", "To confuse yourself"],
+    "answer": "To match pairs"
+  },
+  {
+    "question": "You see two 🐟 cards in different spots. What do you do?",
+    "options": ["Match them", "Avoid them", "Flip others", "Shuffle the board"],
+    "answer": "Match them"
+  },
+  {
+    "question": "If you keep flipping randomly, what happens?",
+    "options": ["It's harder to win", "You win faster", "All cards match by luck", "Game resets automatically"],
+    "answer": "It's harder to win"
+  },
+  {
+    "question": "What is the goal of a memory flip game?",
+    "options": ["Match all pairs", "Flip every card once", "Finish quickly", "Collect emojis"],
+    "answer": "Match all pairs"
+  }
+]
