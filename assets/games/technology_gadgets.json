@@ -1,0 +1,187 @@
+[
+  {
+    "question": "Which company is the creator of the iPhone?",
+    "options": ["Apple", "Samsung", "Google", "Nokia"],
+    "answer": "Apple"
+  },
+  {
+    "question": "What does 'PC' stand for?",
+    "options": ["Personal Computer", "Public Computer", "Professional Computer", "Private Computer"],
+    "answer": "Personal Computer"
+  },
+  {
+    "question": "Which company invented the first personal computer?",
+    "options": ["IBM", "Apple", "Microsoft", "Compaq"],
+    "answer": "IBM"
+  },
+  {
+    "question": "What does 'Wi-Fi' stand for?",
+    "options": ["Wireless Fidelity", "Wireless Internet", "Wide Fidelity", "Wide Internet"],
+    "answer": "Wireless Fidelity"
+  },
+  {
+    "question": "Which company makes the Galaxy smartphones?",
+    "options": ["Samsung", "Huawei", "LG", "Sony"],
+    "answer": "Samsung"
+  },
+  {
+    "question": "Which social media platform was originally called 'The Facebook'?",
+    "options": ["Facebook", "Instagram", "Twitter", "Snapchat"],
+    "answer": "Facebook"
+  },
+  {
+    "question": "What does 'USB' stand for?",
+    "options": ["Universal Serial Bus", "Universal System Bus", "United Serial Bus", "United System Bus"],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "question": "What year was the first iPhone released?",
+    "options": ["2007", "2006", "2008", "2005"],
+    "answer": "2007"
+  },
+  {
+    "question": "Which company is known for its 'Surface' tablets?",
+    "options": ["Microsoft", "Apple", "Dell", "HP"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "Which device is known for popularizing touchscreen smartphones?",
+    "options": ["iPhone", "BlackBerry", "Nokia N95", "Motorola Razr"],
+    "answer": "iPhone"
+  },
+  {
+    "question": "Which company makes the popular voice assistant 'Alexa'?",
+    "options": ["Amazon", "Google", "Apple", "Microsoft"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "What year was Google founded?",
+    "options": ["1998", "2000", "1995", "2002"],
+    "answer": "1998"
+  },
+  {
+    "question": "Which company created the PlayStation gaming console?",
+    "options": ["Sony", "Microsoft", "Nintendo", "Sega"],
+    "answer": "Sony"
+  },
+  {
+    "question": "Which popular video-sharing platform was founded by three former PayPal employees?",
+    "options": ["YouTube", "Vimeo", "Dailymotion", "TikTok"],
+    "answer": "YouTube"
+  },
+  {
+    "question": "Which company manufactures the MacBook laptops?",
+    "options": ["Apple", "Dell", "Lenovo", "HP"],
+    "answer": "Apple"
+  },
+  {
+    "question": "Which search engine is the most popular worldwide?",
+    "options": ["Google", "Bing", "Yahoo", "DuckDuckGo"],
+    "answer": "Google"
+  },
+  {
+    "question": "What does 'HTTP' stand for?",
+    "options": ["HyperText Transfer Protocol", "HighText Transfer Protocol", "HyperType Transfer Protocol", "HyperText Transaction Protocol"],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "Which company is the creator of the Android operating system?",
+    "options": ["Google", "Apple", "Microsoft", "Samsung"],
+    "answer": "Google"
+  },
+  {
+    "question": "Which company makes the popular Xbox gaming console?",
+    "options": ["Microsoft", "Sony", "Nintendo", "Valve"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "Which app is known for its disappearing photos and videos?",
+    "options": ["Snapchat", "Instagram", "TikTok", "Facebook"],
+    "answer": "Snapchat"
+  },
+  {
+    "question": "Which company developed the smartwatch 'Apple Watch'?",
+    "options": ["Apple", "Samsung", "Garmin", "Fitbit"],
+    "answer": "Apple"
+  },
+  {
+    "question": "Which company is the creator of the video game console 'Nintendo Switch'?",
+    "options": ["Nintendo", "Sony", "Microsoft", "Valve"],
+    "answer": "Nintendo"
+  },
+  {
+    "question": "Which company created the smartwatch 'Galaxy Watch'?",
+    "options": ["Samsung", "Apple", "Garmin", "Fitbit"],
+    "answer": "Samsung"
+  },
+  {
+    "question": "What does 'VPN' stand for?",
+    "options": ["Virtual Private Network", "Virtual Public Network", "Verified Private Network", "Verified Public Network"],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "question": "What does 'OLED' stand for in display technology?",
+    "options": ["Organic Light Emitting Diode", "Optical Light Emitting Diode", "Optical Light Enhanced Display", "Organic Low Energy Display"],
+    "answer": "Organic Light Emitting Diode"
+  },
+  {
+    "question": "Which company is famous for the VR headset 'Oculus Rift'?",
+    "options": ["Oculus", "HTC", "Sony", "Microsoft"],
+    "answer": "Oculus"
+  },
+  {
+    "question": "What year did the first iPad get released?",
+    "options": ["2010", "2009", "2011", "2012"],
+    "answer": "2010"
+  },
+  {
+    "question": "Which company is known for its 'Echo' line of smart speakers?",
+    "options": ["Amazon", "Google", "Apple", "Microsoft"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "Which social media platform is known for its 280-character posts?",
+    "options": ["Twitter", "Facebook", "Instagram", "Snapchat"],
+    "answer": "Twitter"
+  },
+  {
+    "question": "Which company makes the popular gaming laptop brand 'Alienware'?",
+    "options": ["Dell", "HP", "Acer", "Lenovo"],
+    "answer": "Dell"
+  },
+  {
+    "question": "Which operating system is used by most smartphones worldwide?",
+    "options": ["Android", "iOS", "Windows Phone", "Blackberry OS"],
+    "answer": "Android"
+  },
+  {
+    "question": "What does 'RAM' stand for in computing?",
+    "options": ["Random Access Memory", "Read Access Memory", "Rapid Access Memory", "Reliable Access Memory"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "Which company is known for its popular e-reader 'Kindle'?",
+    "options": ["Amazon", "Barnes & Noble", "Sony", "Kobo"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "Which company created the popular digital assistant 'Siri'?",
+    "options": ["Apple", "Google", "Microsoft", "Amazon"],
+    "answer": "Apple"
+  },
+  {
+    "question": "Which company manufactures the gaming console 'PlayStation 5'?",
+    "options": ["Sony", "Microsoft", "Nintendo", "Sega"],
+    "answer": "Sony"
+  },
+  {
+    "question": "Which app is primarily used for sharing short, looping videos?",
+    "options": ["TikTok", "Instagram", "Snapchat", "YouTube"],
+    "answer": "TikTok"
+  },
+  {
+    "question": "What does 'HTML' stand for?",
+    "options": ["HyperText Markup Language", "HyperTransfer Markup Language", "HighText Markup Language", "Hypertextual Markup Language"],
+    "answer": "HyperText Markup Language"
+  }
+]
