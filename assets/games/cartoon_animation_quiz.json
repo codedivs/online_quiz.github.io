@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who lives in a pineapple under the sea?",
+    "options": ["SpongeBob", "Patrick", "Nemo", "Dory"],
+    "answer": "SpongeBob"
+  },
+  {
+    "question": "Which character says 'To infinity and beyond!'?",
+    "options": ["Buzz Lightyear", "Woody", "Elsa", "Shrek"],
+    "answer": "Buzz Lightyear"
+  },
+  {
+    "question": "Who is Mickey Mouse’s girlfriend?",
+    "options": ["Minnie Mouse", "Daisy Duck", "Goofy", "Pluto"],
+    "answer": "Minnie Mouse"
+  },
+  {
+    "question": "What color is Peppa Pig?",
+    "options": ["Pink", "Blue", "Yellow", "Purple"],
+    "answer": "Pink"
+  },
+  {
+    "question": "Who is the snowman in Frozen?",
+    "options": ["Olaf", "Sven", "Anna", "Kristoff"],
+    "answer": "Olaf"
+  },
+  {
+    "question": "Which superhero wears a red and blue suit and shoots webs?",
+    "options": ["Spider-Man", "Batman", "Superman", "Flash"],
+    "answer": "Spider-Man"
+  },
+  {
+    "question": "Who is the fast yellow electric Pokémon?",
+    "options": ["Pikachu", "Charmander", "Bulbasaur", "Squirtle"],
+    "answer": "Pikachu"
+  },
+  {
+    "question": "What kind of animal is Tom from Tom & Jerry?",
+    "options": ["Cat", "Dog", "Mouse", "Rabbit"],
+    "answer": "Cat"
+  },
+  {
+    "question": "Who is Jerry in Tom & Jerry?",
+    "options": ["Mouse", "Cat", "Dog", "Bird"],
+    "answer": "Mouse"
+  },
+  {
+    "question": "Which princess has magic ice powers?",
+    "options": ["Elsa", "Moana", "Rapunzel", "Belle"],
+    "answer": "Elsa"
+  },
+  {
+    "question": "Who is the big green ogre from the swamp?",
+    "options": ["Shrek", "Hulk", "Fiona", "Donkey"],
+    "answer": "Shrek"
+  },
+  {
+    "question": "Which character loves honey?",
+    "options": ["Winnie the Pooh", "Tigger", "Piglet", "Eeyore"],
+    "answer": "Winnie the Pooh"
+  },
+  {
+    "question": "Who is the main blue hedgehog in Sonic?",
+    "options": ["Sonic", "Shadow", "Tails", "Knuckles"],
+    "answer": "Sonic"
+  },
+  {
+    "question": "Who is Dora’s monkey friend?",
+    "options": ["Boots", "Diego", "Map", "Swiper"],
+    "answer": "Boots"
+  },
+  {
+    "question": "Which fish is Nemo’s dad?",
+    "options": ["Marlin", "Dory", "Bruce", "Gill"],
+    "answer": "Marlin"
+  },
+  {
+    "question": "Who is the flying elephant with big ears?",
+    "options": ["Dumbo", "Bambi", "Simba", "Stitch"],
+    "answer": "Dumbo"
+  },
+  {
+    "question": "Which character says 'Hakuna Matata'?",
+    "options": ["Timon & Pumbaa", "Simba", "Scar", "Zazu"],
+    "answer": "Timon & Pumbaa"
+  },
+  {
+    "question": "What is the name of the little blue creatures who live in a village?",
+    "options": ["Smurfs", "Minions", "Trolls", "Elves"],
+    "answer": "Smurfs"
+  },
+  {
+    "question": "Who is the yellow character who loves bananas?",
+    "options": ["Minion", "SpongeBob", "Pikachu", "Homer"],
+    "answer": "Minion"
+  },
+  {
+    "question": "Which princess has long magical hair?",
+    "options": ["Rapunzel", "Ariel", "Cinderella", "Snow White"],
+    "answer": "Rapunzel"
+  },
+  {
+    "question": "Who is the main lion cub in The Lion King?",
+    "options": ["Simba", "Nala", "Mufasa", "Kovu"],
+    "answer": "Simba"
+  },
+  {
+    "question": "What color is Lightning McQueen?",
+    "options": ["Red", "Blue", "Yellow", "Green"],
+    "answer": "Red"
+  },
+  {
+    "question": "Who is the panda from Kung Fu Panda?",
+    "options": ["Po", "Shifu", "Tigress", "Tai Lung"],
+    "answer": "Po"
+  },
+  {
+    "question": "Which character lives in Bikini Bottom?",
+    "options": ["SpongeBob", "Elsa", "Pikachu", "Woody"],
+    "answer": "SpongeBob"
+  },
+  {
+    "question": "Who is the blue fish with short memory?",
+    "options": ["Dory", "Nemo", "Marlin", "Coral"],
+    "answer": "Dory"
+  },
+  {
+    "question": "Which princess lives under the sea?",
+    "options": ["Ariel", "Belle", "Moana", "Jasmine"],
+    "answer": "Ariel"
+  },
+  {
+    "question": "Which bear says 'Oh bother'?",
+    "options": ["Winnie the Pooh", "Baloo", "Paddington", "Po"],
+    "answer": "Winnie the Pooh"
+  },
+  {
+    "question": "Who is the robot from the movie WALL-E?",
+    "options": ["WALL-E", "EVE", "R2D2", "BB-8"],
+    "answer": "WALL-E"
+  },
+  {
+    "question": "Which character has a magical lamp?",
+    "options": ["Aladdin", "Simba", "Shrek", "Mowgli"],
+    "answer": "Aladdin"
+  },
+  {
+    "question": "Who is the dragon in How to Train Your Dragon?",
+    "options": ["Toothless", "Smaug", "Mushu", "Falkor"],
+    "answer": "Toothless"
+  }
+]
