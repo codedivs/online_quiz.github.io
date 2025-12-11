@@ -1,5 +1,53 @@
 [
   {
+    "game_name": "Cartoon & Animation Quiz",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cartoon_animation_quiz",
+    "difficulty": "easy",
+    "stars": 2,
+    "category": "kids"
+  },
+  {
+    "game_name": "Space & Planets Quiz",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "space_planets_quiz",
+    "difficulty": "easy",
+    "stars": 2,
+    "category": "kids"
+  },
+  {
+    "game_name": "Famous People for Kids",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "famous_people_kids_quiz",
+    "difficulty": "easy",
+    "stars": 2,
+    "category": "kids"
+  },
+  {
+    "game_name": "Nature & Environment Quiz",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "nature_environment_quiz",
+    "difficulty": "easy",
+    "stars": 2,
+    "category": "kids"
+  },
+  {
+    "game_name": "Fairy Tales & Story Characters",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "fairy_tales_story_quiz",
+    "difficulty": "easy",
+    "stars": 2,
+    "category": "kids"
+  },
+  {
+    "game_name": "Emoji Fun Quiz",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "emoji_fun_quiz",
+    "difficulty": "very easy",
+    "stars": 1,
+    "category": "kids"
+  },
+  {
   "game_name": "Would You Rather?",
   "game_icon": "assets/img/code_right.png",
   "game_id": "would_you_rather_quiz",
