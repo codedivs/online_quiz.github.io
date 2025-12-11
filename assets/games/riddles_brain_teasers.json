@@ -1,0 +1,152 @@
+[
+  {
+    "question": "I’m tall when I’m young and short when I’m old. What am I?",
+    "options": ["Candle", "Tree", "Mountain", "Pencil"],
+    "answer": "Candle"
+  },
+  {
+    "question": "What has keys but can’t open locks?",
+    "options": ["Piano", "Car", "Door", "Safe"],
+    "answer": "Piano"
+  },
+  {
+    "question": "What has hands but cannot clap?",
+    "options": ["Clock", "Robot", "Monkey", "Glove"],
+    "answer": "Clock"
+  },
+  {
+    "question": "What has a face and two hands but no arms or legs?",
+    "options": ["Clock", "Mirror", "Watch", "Statue"],
+    "answer": "Clock"
+  },
+  {
+    "question": "What has to be broken before you can use it?",
+    "options": ["Egg", "Glass", "Ice", "Seal"],
+    "answer": "Egg"
+  },
+  {
+    "question": "What has many teeth but cannot bite?",
+    "options": ["Comb", "Saw", "Zipper", "Shark"],
+    "answer": "Comb"
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. What am I?",
+    "options": ["Echo", "Wind", "Phone", "Radio"],
+    "answer": "Echo"
+  },
+  {
+    "question": "What can travel around the world while staying in a corner?",
+    "options": ["Stamp", "Ball", "Plane", "Globe"],
+    "answer": "Stamp"
+  },
+  {
+    "question": "What gets wetter as it dries?",
+    "options": ["Towel", "Sponge", "Raincoat", "Soap"],
+    "answer": "Towel"
+  },
+  {
+    "question": "What goes up but never comes down?",
+    "options": ["Age", "Balloon", "Rocket", "Smoke"],
+    "answer": "Age"
+  },
+  {
+    "question": "What has one eye but cannot see?",
+    "options": ["Needle", "Storm", "Potato", "Button"],
+    "answer": "Needle"
+  },
+  {
+    "question": "What has a neck but no head?",
+    "options": ["Bottle", "Shirt", "Giraffe", "Lamp"],
+    "answer": "Bottle"
+  },
+  {
+    "question": "What can you catch but not throw?",
+    "options": ["Cold", "Ball", "Fish", "Toy"],
+    "answer": "Cold"
+  },
+  {
+    "question": "I have branches but no fruit, trunk or leaves. What am I?",
+    "options": ["Bank", "Tree", "River", "Library"],
+    "answer": "Bank"
+  },
+  {
+    "question": "What is full of holes but still holds water?",
+    "options": ["Sponge", "Bucket", "Net", "Cup"],
+    "answer": "Sponge"
+  },
+  {
+    "question": "The more you take, the more you leave behind. What am I?",
+    "options": ["Footsteps", "Time", "Money", "Shadow"],
+    "answer": "Footsteps"
+  },
+  {
+    "question": "What runs but never walks?",
+    "options": ["River", "Clock", "Wind", "Car"],
+    "answer": "River"
+  },
+  {
+    "question": "I’m always in front of you but can’t be seen. What am I?",
+    "options": ["Future", "Air", "Shadow", "Light"],
+    "answer": "Future"
+  },
+  {
+    "question": "What has a head and a tail but no body?",
+    "options": ["Coin", "Snake", "Comet", "Arrow"],
+    "answer": "Coin"
+  },
+  {
+    "question": "What belongs to you but others use it more than you do?",
+    "options": ["Name", "Phone", "Money", "Shoes"],
+    "answer": "Name"
+  },
+  {
+    "question": "I’m light as a feather, yet the strongest man can’t hold me for long. What am I?",
+    "options": ["Breath", "Air", "Smoke", "Water"],
+    "answer": "Breath"
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I?",
+    "options": ["Footsteps", "Time", "Sand", "Shadows"],
+    "answer": "Footsteps"
+  },
+  {
+    "question": "I have cities, but no houses; forests, but no trees; and rivers, but no water. What am I?",
+    "options": ["Map", "Globe", "Painting", "Book"],
+    "answer": "Map"
+  },
+  {
+    "question": "What can be cracked, made, told, and played?",
+    "options": ["Joke", "Egg", "Game", "Puzzle"],
+    "answer": "Joke"
+  },
+  {
+    "question": "What begins with T, ends with T, and has T in it?",
+    "options": ["Teapot", "Tent", "Toast", "Tablet"],
+    "answer": "Teapot"
+  },
+  {
+    "question": "I’m found in socks, scarves, and mittens; and often in the paws of playful kittens. What am I?",
+    "options": ["Yarn", "Wool", "Thread", "Fabric"],
+    "answer": "Yarn"
+  },
+  {
+    "question": "What is so fragile that saying its name breaks it?",
+    "options": ["Silence", "Glass", "Bubble", "Promise"],
+    "answer": "Silence"
+  },
+  {
+    "question": "I’m tall when young and short when old. What am I?",
+    "options": ["Candle", "Pencil", "Tree", "Shadow"],
+    "answer": "Candle"
+  },
+  {
+    "question": "What has legs but doesn’t walk?",
+    "options": ["Table", "Chair", "Bed", "All of them"],
+    "answer": "All of them"
+  },
+  {
+    "question": "What can you break, even if you never pick it up or touch it?",
+    "options": ["Promise", "Egg", "Glass", "Stick"],
+    "answer": "Promise"
+  }
+]
