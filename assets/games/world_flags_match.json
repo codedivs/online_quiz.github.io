@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which country has a red circle on a white background?",
+    "options": ["Japan", "Turkey", "Canada", "Singapore"],
+    "answer": "Japan"
+  },
+  {
+    "question": "Which country has a leaf symbol on its flag?",
+    "options": ["Canada", "Brazil", "South Africa", "Kenya"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which country’s flag has green, white, and orange stripes?",
+    "options": ["Ireland", "India", "Italy", "Niger"],
+    "answer": "Ireland"
+  },
+  {
+    "question": "Which country has a blue flag with a white star?",
+    "options": ["Somalia", "Vietnam", "Morocco", "Greece"],
+    "answer": "Somalia"
+  },
+  {
+    "question": "Which country’s flag is red with a white cross?",
+    "options": ["Switzerland", "Denmark", "England", "Georgia"],
+    "answer": "Switzerland"
+  },
+  {
+    "question": "Which country has a yellow star on a red flag?",
+    "options": ["China", "Vietnam", "Turkey", "Singapore"],
+    "answer": "Vietnam"
+  },
+  {
+    "question": "Which flag has red and white stripes with stars in a blue box?",
+    "options": ["USA", "Liberia", "Malaysia", "Australia"],
+    "answer": "USA"
+  },
+  {
+    "question": "Which flag has a blue and yellow horizontal stripe?",
+    "options": ["Ukraine", "Sweden", "Kazakhstan", "Barbados"],
+    "answer": "Ukraine"
+  },
+  {
+    "question": "Which flag has a red crescent and star?",
+    "options": ["Turkey", "Tunisia", "Pakistan", "Malaysia"],
+    "answer": "Turkey"
+  },
+  {
+    "question": "Which flag has a Union Jack in one corner?",
+    "options": ["Australia", "New Zealand", "Fiji", "UK"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Which country’s flag is green with a white moon and star?",
+    "options": ["Pakistan", "Turkey", "Algeria", "Tunisia"],
+    "answer": "Pakistan"
+  },
+  {
+    "question": "Which country uses a dragon on its flag?",
+    "options": ["Bhutan", "Wales", "China", "Nepal"],
+    "answer": "Bhutan"
+  },
+  {
+    "question": "Which flag has black, red, and gold stripes?",
+    "options": ["Germany", "Belgium", "Uganda", "Spain"],
+    "answer": "Germany"
+  },
+  {
+    "question": "Which country’s flag has a maple leaf?",
+    "options": ["Canada", "Japan", "Brazil", "Chile"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which flag has a green cedar tree?",
+    "options": ["Lebanon", "Cyprus", "Saudi Arabia", "Iran"],
+    "answer": "Lebanon"
+  },
+  {
+    "question": "Which country has a blue flag with yellow cross?",
+    "options": ["Sweden", "Denmark", "Finland", "Norway"],
+    "answer": "Sweden"
+  },
+  {
+    "question": "Which flag is red with a yellow hammer and sickle?",
+    "options": ["Soviet Union", "China", "Vietnam", "North Korea"],
+    "answer": "Soviet Union"
+  },
+  {
+    "question": "Which country’s flag has a large red star on blue and white stripes?",
+    "options": ["North Korea", "Cuba", "Chile", "Laos"],
+    "answer": "North Korea"
+  },
+  {
+    "question": "Which flag has a rising sun with red rays?",
+    "options": ["Japan (rising sun)", "China", "South Korea", "Nepal"],
+    "answer": "Japan (rising sun)"
+  },
+  {
+    "question": "Which flag has a green, yellow, and blue circle with stars?",
+    "options": ["Brazil", "Colombia", "Ecuador", "Argentina"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "Which country uses a red leaf in the center of its flag?",
+    "options": ["Canada", "Malaysia", "UK", "Oman"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which country has a white cross on a blue background?",
+    "options": ["Greece", "Finland", "Iceland", "Estonia"],
+    "answer": "Greece"
+  },
+  {
+    "question": "Which flag has a dragon holding a pearl?",
+    "options": ["Wales", "Bhutan", "China", "Nepal"],
+    "answer": "Wales"
+  },
+  {
+    "question": "Which country uses a simple red flag with no symbols?",
+    "options": ["Libya (old flag)", "Morocco", "Qatar", "Bahrain"],
+    "answer": "Libya (old flag)"
+  },
+  {
+    "question": "Which flag has a white sun on a blue field?",
+    "options": ["Taiwan", "Philippines", "South Korea", "Thailand"],
+    "answer": "Taiwan"
+  },
+  {
+    "question": "Which flag is made of green, yellow, and red vertical stripes?",
+    "options": ["Benin", "Senegal", "Cameroon", "Mali"],
+    "answer": "Mali"
+  },
+  {
+    "question": "Which country has a blue flag with a yellow sun and eagle?",
+    "options": ["Kazakhstan", "Mongolia", "Uzbekistan", "Kyrgyzstan"],
+    "answer": "Kazakhstan"
+  },
+  {
+    "question": "Which flag has a red sun on a blue and white background?",
+    "options": ["Argentina", "Laos", "Nepal", "Japan"],
+    "answer": "Laos"
+  },
+  {
+    "question": "Which flag is red, white, and black with two green stars?",
+    "options": ["Syria", "Iraq", "Egypt", "Sudan"],
+    "answer": "Syria"
+  },
+  {
+    "question": "Which country has a red dragon on a green and white flag?",
+    "options": ["Wales", "Bhutan", "Denmark", "England"],
+    "answer": "Wales"
+  }
+]
