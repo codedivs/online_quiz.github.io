@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which word rhymes with 'Cat'?",
+    "options": ["Bat", "Dog", "Car", "Sun"],
+    "answer": "Bat"
+  },
+  {
+    "question": "Which word rhymes with 'Sky'?",
+    "options": ["Fly", "Sun", "Rain", "Cloud"],
+    "answer": "Fly"
+  },
+  {
+    "question": "Which word rhymes with 'Tree'?",
+    "options": ["Free", "Rock", "House", "Car"],
+    "answer": "Free"
+  },
+  {
+    "question": "Which word rhymes with 'Rain'?",
+    "options": ["Pain", "Sun", "Cloud", "Sky"],
+    "answer": "Pain"
+  },
+  {
+    "question": "Which word rhymes with 'Moon'?",
+    "options": ["Soon", "Star", "Sun", "Cloud"],
+    "answer": "Soon"
+  },
+  {
+    "question": "Which word rhymes with 'Box'?",
+    "options": ["Fox", "Dog", "Bird", "Horse"],
+    "answer": "Fox"
+  },
+  {
+    "question": "Which word rhymes with 'Love'?",
+    "options": ["Dove", "Rain", "Sky", "Star"],
+    "answer": "Dove"
+  },
+  {
+    "question": "Which word rhymes with 'Ball'?",
+    "options": ["Call", "Walk", "Shout", "Sleep"],
+    "answer": "Call"
+  },
+  {
+    "question": "Which word rhymes with 'Head'?",
+    "options": ["Bed", "Sun", "Rain", "Sky"],
+    "answer": "Bed"
+  },
+  {
+    "question": "Which word rhymes with 'Time'?",
+    "options": ["Climb", "Play", "Dance", "Sing"],
+    "answer": "Climb"
+  },
+  {
+    "question": "Which word rhymes with 'Fast'?",
+    "options": ["Cast", "Long", "Tall", "Strong"],
+    "answer": "Cast"
+  },
+  {
+    "question": "Which word rhymes with 'Day'?",
+    "options": ["Play", "Night", "Sun", "Moon"],
+    "answer": "Play"
+  },
+  {
+    "question": "Which word rhymes with 'Ring'?",
+    "options": ["Sing", "Walk", "Talk", "Dance"],
+    "answer": "Sing"
+  },
+  {
+    "question": "Which word rhymes with 'Light'?",
+    "options": ["Fight", "Night", "Day", "Sun"],
+    "answer": "Fight"
+  },
+  {
+    "question": "Which word rhymes with 'Duck'?",
+    "options": ["Truck", "Car", "Bird", "Horse"],
+    "answer": "Truck"
+  },
+  {
+    "question": "Which word rhymes with 'Sing'?",
+    "options": ["Ring", "Dance", "Jump", "Talk"],
+    "answer": "Ring"
+  },
+  {
+    "question": "Which word rhymes with 'Hot'?",
+    "options": ["Pot", "Cold", "Rain", "Storm"],
+    "answer": "Pot"
+  },
+  {
+    "question": "Which word rhymes with 'Light'?",
+    "options": ["Fight", "Night", "Day", "Sun"],
+    "answer": "Night"
+  },
+  {
+    "question": "Which word rhymes with 'Hill'?",
+    "options": ["Will", "Sun", "Moon", "Star"],
+    "answer": "Will"
+  },
+  {
+    "question": "Which word rhymes with 'Make'?",
+    "options": ["Cake", "Sun", "Moon", "Star"],
+    "answer": "Cake"
+  },
+  {
+    "question": "Which word rhymes with 'Rain'?",
+    "options": ["Train", "Cloud", "Sun", "Moon"],
+    "answer": "Train"
+  },
+  {
+    "question": "Which word rhymes with 'Blue'?",
+    "options": ["True", "Moon", "Rain", "Cloud"],
+    "answer": "True"
+  },
+  {
+    "question": "Which word rhymes with 'Food'?",
+    "options": ["Mood", "Sun", "Cloud", "Rain"],
+    "answer": "Mood"
+  },
+  {
+    "question": "Which word rhymes with 'Jump'?",
+    "options": ["Bump", "Sit", "Stand", "Walk"],
+    "answer": "Bump"
+  },
+  {
+    "question": "Which word rhymes with 'Night'?",
+    "options": ["Fight", "Sun", "Cloud", "Rain"],
+    "answer": "Fight"
+  },
+  {
+    "question": "Which word rhymes with 'Tree'?",
+    "options": ["See", "Go", "Run", "Dance"],
+    "answer": "See"
+  },
+  {
+    "question": "Which word rhymes with 'Cold'?",
+    "options": ["Bold", "Rain", "Wind", "Snow"],
+    "answer": "Bold"
+  },
+  {
+    "question": "Which word rhymes with 'Day'?",
+    "options": ["Say", "Night", "Sleep", "Rest"],
+    "answer": "Say"
+  },
+  {
+    "question": "Which word rhymes with 'High'?",
+    "options": ["Sky", "Low", "Cloud", "Bird"],
+    "answer": "Sky"
+  },
+  {
+    "question": "Which word rhymes with 'Top'?",
+    "options": ["Stop", "Start", "Run", "Jump"],
+    "answer": "Stop"
+  },
+  {
+    "question": "Which word rhymes with 'Hot'?",
+    "options": ["Not", "Cold", "Freezing", "Rain"],
+    "answer": "Not"
+  },
+  {
+    "question": "Which word rhymes with 'Light'?",
+    "options": ["Night", "Cloud", "Sun", "Sky"],
+    "answer": "Night"
+  }
+]
