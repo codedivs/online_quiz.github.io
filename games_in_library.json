@@ -423,5 +423,85 @@
     "difficulty": "medium",
     "stars": 2,
     "category": "economics"
+  },
+  {
+    "game_name": "Basic Math Quiz",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "basic_math_quiz",
+    "difficulty": "very easy",
+    "stars": 1,
+    "category": "math"
+  },
+  {
+    "game_name": "World Flags Match",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "world_flags_match",
+    "difficulty": "very easy",
+    "stars": 1,
+    "category": "geography"
+  },
+  {
+    "game_name": "Simple English Words",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "simple_english_words",
+    "difficulty": "very easy",
+    "stars": 1,
+    "category": "english"
+  },
+  {
+    "game_name": "Animal Trivia",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "animal_trivia",
+    "difficulty": "very easy",
+    "stars": 1,
+    "category": "science"
+  },
+  {
+    "game_name": "Memory Card Flip",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "memory_card_flip",
+    "difficulty": "very easy",
+    "stars": 1,
+    "category": "logic"
+  },
+  {
+    "game_name": "Simple Shapes Quiz",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "simple_shapes_quiz",
+    "difficulty": "very easy",
+    "stars": 1,
+    "category": "math"
+  },
+  {
+    "game_name": "Daily Life Riddles",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "daily_life_riddles",
+    "difficulty": "very easy",
+    "stars": 1,
+    "category": "riddles"
+  },
+  {
+    "game_name": "Color Guess Game",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "color_guess_game",
+    "difficulty": "very easy",
+    "stars": 1,
+    "category": "fun"
+  },
+  {
+    "game_name": "Super Easy History Facts",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "easy_history_facts",
+    "difficulty": "very easy",
+    "stars": 1,
+    "category": "history"
+  },
+  {
+    "game_name": "Beginner Science Quiz",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "beginner_science_quiz",
+    "difficulty": "very easy",
+    "stars": 1,
+    "category": "science"
   }
 ]
