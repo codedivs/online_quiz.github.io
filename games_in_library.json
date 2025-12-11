@@ -1,4 +1,84 @@
 [
+   {
+    "game_name": "Video Games & Gaming Characters",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "video_games_gaming_characters",
+    "difficulty": "medium",
+    "stars": 3,
+    "category": "entertainment"
+  },
+  {
+    "game_name": "Sports & Athletes",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "sports_athletes",
+    "difficulty": "medium",
+    "stars": 3,
+    "category": "sports"
+  },
+  {
+    "game_name": "Superheroes & Comics",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "superheroes_comics",
+    "difficulty": "medium",
+    "stars": 4,
+    "category": "entertainment"
+  },
+  {
+    "game_name": "Cars & Motorbikes",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "cars_motorbikes",
+    "difficulty": "medium",
+    "stars": 4,
+    "category": "vehicles"
+  },
+  {
+    "game_name": "Technology & Gadgets",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "technology_gadgets",
+    "difficulty": "medium",
+    "stars": 3,
+    "category": "tech"
+  },
+  {
+    "game_name": "Movies & Action Films",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "movies_action_films",
+    "difficulty": "easy",
+    "stars": 4,
+    "category": "entertainment"
+  },
+  {
+    "game_name": "Science & Space",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "science_space",
+    "difficulty": "medium",
+    "stars": 3,
+    "category": "education"
+  },
+  {
+    "game_name": "Music & Bands",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "music_bands",
+    "difficulty": "medium",
+    "stars": 3,
+    "category": "music"
+  },
+  {
+    "game_name": "Adventure & Outdoor Activities",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "adventure_outdoor",
+    "difficulty": "easy",
+    "stars": 2,
+    "category": "outdoors"
+  },
+  {
+    "game_name": "Mythology & Legends",
+    "game_icon": "assets/img/code_right.png",
+    "game_id": "mythology_legends",
+    "difficulty": "medium",
+    "stars": 3,
+    "category": "history"
+  },
   {
     "game_name": "Cartoon & Animation Quiz",
     "game_icon": "assets/img/code_right.png",
