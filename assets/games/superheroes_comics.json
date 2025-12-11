@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which superhero is known as the 'Man of Steel'?",
+    "options": ["Superman", "Batman", "Spider-Man", "Iron Man"],
+    "answer": "Superman"
+  },
+  {
+    "question": "Which superhero's real name is Peter Parker?",
+    "options": ["Spider-Man", "Batman", "Iron Man", "Flash"],
+    "answer": "Spider-Man"
+  },
+  {
+    "question": "Which superhero is also known as the ‘Dark Knight’?",
+    "options": ["Batman", "Superman", "Green Lantern", "Wonder Woman"],
+    "answer": "Batman"
+  },
+  {
+    "question": "Which superhero has a shield made of vibranium?",
+    "options": ["Captain America", "Hawkeye", "Black Widow", "Iron Man"],
+    "answer": "Captain America"
+  },
+  {
+    "question": "Who is the arch-nemesis of Spider-Man?",
+    "options": ["Green Goblin", "Doctor Octopus", "Venom", "Loki"],
+    "answer": "Green Goblin"
+  },
+  {
+    "question": "Which superhero is known for his 'super strength' and red cape?",
+    "options": ["Superman", "Thor", "Hulk", "Iron Man"],
+    "answer": "Superman"
+  },
+  {
+    "question": "Which superhero is part of the Avengers and can shrink to the size of an ant?",
+    "options": ["Ant-Man", "Hawkeye", "Captain Marvel", "Black Panther"],
+    "answer": "Ant-Man"
+  },
+  {
+    "question": "What is the real name of the superhero Black Panther?",
+    "options": ["T'Challa", "Tony Stark", "Bruce Wayne", "Clark Kent"],
+    "answer": "T'Challa"
+  },
+  {
+    "question": "Which superhero wears a suit powered by a mini arc reactor?",
+    "options": ["Iron Man", "Hawkeye", "Thor", "Spider-Man"],
+    "answer": "Iron Man"
+  },
+  {
+    "question": "Which superhero is a part of the X-Men and can read minds?",
+    "options": ["Professor X", "Wolverine", "Cyclops", "Storm"],
+    "answer": "Professor X"
+  },
+  {
+    "question": "Which superhero is also known as the 'Merc with a Mouth'?",
+    "options": ["Deadpool", "Batman", "Iron Man", "Captain America"],
+    "answer": "Deadpool"
+  },
+  {
+    "question": "Which superhero uses a bow and arrows as his main weapon?",
+    "options": ["Hawkeye", "Green Arrow", "Robin", "Spider-Man"],
+    "answer": "Hawkeye"
+  },
+  {
+    "question": "What is the name of Thor’s hammer?",
+    "options": ["Mjolnir", "Stormbreaker", "Excalibur", "Reed"],
+    "answer": "Mjolnir"
+  },
+  {
+    "question": "Which superhero has the ability to regenerate his body after injuries?",
+    "options": ["Wolverine", "Deadpool", "Hulk", "Iron Man"],
+    "answer": "Wolverine"
+  },
+  {
+    "question": "Which superhero is known for saying, 'With great power comes great responsibility'?",
+    "options": ["Spider-Man", "Captain America", "Iron Man", "Black Panther"],
+    "answer": "Spider-Man"
+  },
+  {
+    "question": "Which superhero has the power to manipulate the weather?",
+    "options": ["Storm", "Thor", "Black Widow", "Captain Marvel"],
+    "answer": "Storm"
+  },
+  {
+    "question": "Which superhero has a sidekick named Robin?",
+    "options": ["Batman", "Superman", "Spider-Man", "Green Lantern"],
+    "answer": "Batman"
+  },
+  {
+    "question": "Which superhero is also known as the 'Scarlet Speedster'?",
+    "options": ["The Flash", "Iron Man", "Green Lantern", "Thor"],
+    "answer": "The Flash"
+  },
+  {
+    "question": "Which superhero has the ability to turn invisible and stretch their body?",
+    "options": ["Invisible Woman", "Black Widow", "Wonder Woman", "Scarlet Witch"],
+    "answer": "Invisible Woman"
+  },
+  {
+    "question": "Who is the villain who commonly battles with the Avengers and is known for his quest to collect all the Infinity Stones?",
+    "options": ["Thanos", "Loki", "Ultron", "Red Skull"],
+    "answer": "Thanos"
+  },
+  {
+    "question": "Which superhero can transform into a giant green version of himself when angry?",
+    "options": ["Hulk", "Thor", "Iron Man", "Spider-Man"],
+    "answer": "Hulk"
+  },
+  {
+    "question": "Which superhero is known for his speed and runs faster than the speed of light?",
+    "options": ["The Flash", "Superman", "Iron Man", "Spider-Man"],
+    "answer": "The Flash"
+  },
+  {
+    "question": "Which superhero has a secret identity named Diana Prince?",
+    "options": ["Wonder Woman", "Black Widow", "Captain Marvel", "Scarlet Witch"],
+    "answer": "Wonder Woman"
+  },
+  {
+    "question": "Which superhero can control the metal around him and is often depicted with a red suit?",
+    "options": ["Magneto", "Wolverine", "Iron Man", "Spider-Man"],
+    "answer": "Magneto"
+  },
+  {
+    "question": "Which superhero is also known as the ‘Avenger with the Shield’?",
+    "options": ["Captain America", "Iron Man", "Thor", "Hawkeye"],
+    "answer": "Captain America"
+  },
+  {
+    "question": "Which superhero is a genius billionaire who has his own armored suit?",
+    "options": ["Iron Man", "Thor", "Batman", "Green Lantern"],
+    "answer": "Iron Man"
+  },
+  {
+    "question": "Which villain is known for his green armor and is often called ‘The Green Goblin’?",
+    "options": ["Norman Osborn", "Ultron", "Joker", "Red Skull"],
+    "answer": "Norman Osborn"
+  },
+  {
+    "question": "Which superhero is also known as the ‘Goddess of Thunder’?",
+    "options": ["Jane Foster", "Storm", "Captain Marvel", "Black Widow"],
+    "answer": "Jane Foster"
+  },
+  {
+    "question": "Which superhero’s real name is Natasha Romanoff?",
+    "options": ["Black Widow", "Captain Marvel", "Scarlet Witch", "Storm"],
+    "answer": "Black Widow"
+  },
+  {
+    "question": "Which superhero has the power of superhuman strength and can fly, and is often depicted with red, blue, and yellow colors?",
+    "options": ["Superman", "Green Lantern", "Flash", "Iron Man"],
+    "answer": "Superman"
+  },
+  {
+    "question": "Which superhero is known for his incredible intellect and a suit powered by technology and artificial intelligence?",
+    "options": ["Iron Man", "Batman", "Black Panther", "Spider-Man"],
+    "answer": "Iron Man"
+  },
+  {
+    "question": "Which superhero has the ability to teleport, manipulate time, and phase through objects?",
+    "options": ["Scarlet Witch", "Doctor Strange", "Phoenix", "Rogue"],
+    "answer": "Scarlet Witch"
+  }
+]
